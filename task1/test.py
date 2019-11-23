@@ -238,7 +238,7 @@ if __name__ == "__main__":
         num_distinct_count = distinct_df.count()
         column['number_distinct_values'] = num_distinct_count
 
-        """ 1.6 DONE: For each table T, indicate columns that are candidates for being keys of T"""
+        """ 1.6 Extra Credit TODO: For each table T, indicate columns that are candidates for being keys of T"""
         # only columns that have #unique val == total val can be a Key Candidate
         if num_distinct_count == total_row:
             key_column_candidates.append(col)
