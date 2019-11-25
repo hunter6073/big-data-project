@@ -8,6 +8,7 @@ from csv import reader
 
 from dateutil.parser import parse
 import datetime
+import time
 
 
 def is_int(string):
@@ -186,6 +187,7 @@ def mergeTuple(l, r):
 
 
 if __name__ == "__main__":
+    start_time = time.time()
     # Setup
     sc = SparkContext()
     spark = SparkSession \
@@ -305,9 +307,9 @@ if __name__ == "__main__":
     data['columns'] = columns  # assign columns value to the json file
     # assign key_column_candidates to the json file
     data['key_column_candidates'] = key_column_candidates
-    print(data)
+    data['time_elapsed'] = time.time() - start_time
     # write the json file to output, name the output file as inFile.json, inFile being the name of the file
-    outputFile = inFile+".json"
+    outputFile = inFile.split("/")[-1]+".json"
     with open(outputFile, 'w') as outfile:
         json.dump(data, outfile, default=str)
     sc.stop()
