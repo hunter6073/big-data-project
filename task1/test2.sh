@@ -12,7 +12,7 @@ for item in $list; do
                 if [ $i -lt 951 ]; then
                         continue;
                 fi
-		if [ $i -gt 1902]; then
+		if [ $i -gt 1902 ]; then
 			break;
 		fi
                 echo " this is the $i file"
