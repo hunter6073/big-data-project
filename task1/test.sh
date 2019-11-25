@@ -1,3 +1,7 @@
+#!/bim/bash
+module load python/gnu/3.6.5
+module load spark/2.4.4 
+
 hdfs dfs -get /user/hm74/NYCOpenData/datasets.tsv
 list=$(hdfs dfs -ls /user/hm74/NYCOpenData/*.gz)
 i=0
@@ -8,6 +12,7 @@ for item in $list; do
                 if [ $i -gt 951 ]; then
                         break;
                 fi
+
                 echo " this is the $i file"
                 # verify is the address of the public dataset
                 echo $verify
