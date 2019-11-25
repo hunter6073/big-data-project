@@ -5,3 +5,4 @@ instructions to labelling data:
 4. the format should look like the same in the txt file for the script to read it and store it into the json file
 5. the "2bmr-jdsv_DBA.txt" is only a sample,not the actual thing. the sematics labels are in the pdf
 6. the output files should be put in the "labelled" folder 
+7. use the label.py for quicker output, you might need to change the directories
