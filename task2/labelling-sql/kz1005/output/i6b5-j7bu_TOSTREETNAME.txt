@@ -1,0 +1,3746 @@
+'Subjects in school', 'WELDON STREET', 13
+'Subjects in school', 'VISTA PLACE', 8
+'Subjects in school', 'WEST  148 STREET', 8
+'Subjects in school', 'KING STREET', 18
+'Subjects in school', 'ROSE STREET', 2
+'Subjects in school', 'THORNHILL AVENUE', 6
+'Subjects in school', '47 AVENUE', 16
+'Subjects in school', 'BETHUNE STREET', 4
+'Subjects in school', 'CLINTON COURT', 4
+'Subjects in school', 'EAST  121 STREET', 7
+'Subjects in school', 'KETCHAM STREET', 1
+'Subjects in school', '150 PLACE', 1
+'Subjects in school', 'BARCLAY AVENUE', 5
+'Subjects in school', 'COURTNEY LOOP', 6
+'Subjects in school', 'VAUGHAN STREET', 6
+'Subjects in school', 'STARR STREET', 3
+'Subjects in school', 'GREENWICH STREET', 142
+'Subjects in school', 'DAHILL ROAD', 16
+'Subjects in school', 'WEST   39 STREET', 4
+'Subjects in school', 'HECKER STREET', 6
+'Subjects in school', 'EAST   29 STREET', 19
+'Subjects in school', '27 AVENUE', 176
+'Subjects in school', 'PAUW STREET', 3
+'Subjects in school', 'SCHENECTADY AVENUE', 10
+'Subjects in school', 'MACOMBS PLACE', 12
+'Subjects in school', 'HILL STREET', 8
+'Subjects in school', 'WASHINGTON SQUARE NORTH', 4
+'Subjects in school', 'MOTLEY AVENUE', 6
+'Subjects in school', 'LAMA COURT', 2
+'Subjects in school', 'WHITMAN AVENUE', 4
+'Subjects in school', 'WEST  218 STREET', 11
+'Subjects in school', 'FREEMAN STREET', 3
+'Subjects in school', 'TINTON AVENUE', 4
+'Subjects in school', 'DISOSWAY PLACE', 2
+'Subjects in school', 'W SHORE EXPWY NB EN BOSCOMBE AVE', 1
+'Subjects in school', 'PUTNAM AVENUE WEST', 8
+'Subjects in school', 'HASTINGS STREET', 1
+'Subjects in school', 'POWELL AVENUE', 6
+'Subjects in school', 'BENNETT COURT', 2
+'Subjects in school', '82 AVENUE', 9
+'Subjects in school', 'IONIA AVENUE', 19
+'Subjects in school', '23 ROAD', 10
+'Subjects in school', 'WEST  121 STREET', 9
+'Subjects in school', 'HUMBOLDT STREET', 58
+'Subjects in school', 'MOFFAT STREET', 6
+'Subjects in school', 'OVERING STREET', 7
+'Subjects in school', 'HILLYER STREET', 1
+'Subjects in school', 'GAYLORD DRIVE NORTH', 8
+'Subjects in school', 'LONGVIEW PLACE', 2
+'Subjects in school', 'OAKLAND AVENUE', 2
+'Subjects in school', 'LAYTON STREET', 2
+'Subjects in school', 'MANSION AVENUE', 1
+'Subjects in school', 'CENTRAL PARK WEST', 28
+'Subjects in school', 'GOWER STREET', 14
+'Subjects in school', 'WEST   37 STREET', 11
+'Subjects in school', 'RIVERDALE AVENUE', 235
+'Subjects in school', '43 ROAD', 7
+'Subjects in school', 'SUNBURY ROAD', 5
+'Subjects in school', 'SENATOR STREET', 6
+'Subjects in school', 'SEBA AVENUE', 5
+'Subjects in school', 'EAST BAY AVENUE', 4
+'Subjects in school', 'LENOX ROAD', 24
+'Subjects in school', 'ZEREGA AVENUE', 17
+'Subjects in school', 'HARBOR ROAD', 8
+'Subjects in school', 'VAN WYCK EXPRESSWAY', 72
+'Subjects in school', 'NORWALK AVENUE', 1
+'Subjects in school', '228 STREET', 10
+'Subjects in school', 'BURTON STREET', 1
+'Subjects in school', 'ORMOND PLACE', 14
+'Subjects in school', 'STOBE AVENUE', 4
+'Subjects in school', 'NEVADA AVENUE', 2
+'Subjects in school', 'DIGNEY AVENUE', 1
+'Subjects in school', 'WOODHAVEN BOULEVARD', 70
+'Subjects in school', '89 AVENUE', 13
+'Subjects in school', 'PHILIP AVENUE', 4
+'Subjects in school', 'MILES AVENUE', 14
+'Subjects in school', 'STEINWAY STREET', 9
+'Subjects in school', 'BKLYN BATTERY TNL APPROACH', 10
+'Subjects in school', 'WOOD COURT', 3
+'Subjects in school', 'NORMAL ROAD', 8
+'Subjects in school', 'JEFFERSON STREET', 12
+'Subjects in school', 'BAY    8 STREET', 6
+'Subjects in school', 'CAMBRELENG AVENUE', 4
+'Subjects in school', '93 AVENUE/ELDERTS LANE', 6
+'Subjects in school', '23 AVENUE', 18
+'Subjects in school', 'BOOTH MEMORIAL AVENUE', 14
+'Subjects in school', 'SURREY PLACE', 4
+'Subjects in school', 'SHELDON AVENUE', 5
+'Subjects in school', 'TOMLINSON AVENUE', 4
+'Subjects in school', 'OLD NEW UTRECHT ROAD', 2
+'Subjects in school', 'PURDY PLACE', 8
+'Subjects in school', 'GIVAN AVENUE', 2
+'Subjects in school', '97 STREET', 48
+'Subjects in school', 'AVENUE X', 34
+'Subjects in school', 'NASSAU STREET', 95
+'Subjects in school', '97 AVENUE', 47
+'Subjects in school', 'MERSEREAU AVENUE', 16
+'Subjects in school', 'EDGECOMBE AVENUE', 119
+'Subjects in school', 'EAST   26 STREET', 27
+'Subjects in school', 'VAN DAM STREET', 14
+'Subjects in school', 'CLOVE ROAD', 15
+'Subjects in school', 'EAST  170 STREET', 31
+'Subjects in school', 'WEST TREMONT AVENUE', 13
+'Subjects in school', 'DELANCEY ST SOUTH', 6
+'Subjects in school', 'TATE STREET', 6
+'Subjects in school', 'ROSEBANK PLACE', 4
+'Subjects in school', 'OLD LANE', 8
+'Subjects in school', 'VASSAR STREET', 2
+'Subjects in school', 'SHALE STREET', 1
+'Subjects in school', '264 STREET', 11
+'Subjects in school', 'EAST  240 STREET', 45
+'Subjects in school', '24 AVENUE', 47
+'Subjects in school', '113 STREET', 25
+'Subjects in school', 'EAST   59 STREET', 4
+'Subjects in school', 'SPRATT AVENUE', 8
+'Subjects in school', '40 AVENUE', 12
+'Subjects in school', 'RICHMOND COURT', 4
+'Subjects in school', 'WHITNEY AVENUE', 26
+'Subjects in school', 'EAST   11 STREET', 19
+'Subjects in school', 'FAIRBANKS AVENUE', 2
+'Subjects in school', 'LOCKE AVENUE', 4
+'Subjects in school', 'WEST  157 STREET', 3
+'Subjects in school', 'CHEVY CHASE STREET', 7
+'Subjects in school', 'BEACH   29 STREET', 6
+'Subjects in school', 'OAK TREE PLACE', 5
+'Subjects in school', 'MURIEL STREET', 2
+'Subjects in school', 'CLIFFORD PLACE', 6
+'Subjects in school', 'COOPER TERRACE', 4
+'Subjects in school', 'WILLOW LANE', 2
+'Subjects in school', 'KINGSTON PLACE', 6
+'Subjects in school', 'PEEL PLACE', 4
+'Subjects in school', 'GREENE AVENUE', 16
+'Subjects in school', 'GILBERT PLACE', 12
+'Subjects in school', 'WASHINGTON SQUARE EAST', 30
+'Subjects in school', 'EAST  171 STREET', 58
+'Subjects in school', 'EAST  144 STREET', 7
+'Subjects in school', 'LENOX AVENUE', 351
+'Subjects in school', 'EUCLID AVENUE', 13
+'Subjects in school', 'LAKEWOOD AVENUE', 2
+'Subjects in school', 'EAST  163 STREET', 4
+'Subjects in school', 'JEFFERSON PLACE', 2
+'Subjects in school', 'WEST   26 STREET', 8
+'Subjects in school', '20 STREET', 7
+'Subjects in school', 'BRIGHTON    5 STREET', 6
+'Subjects in school', '154 STREET', 1
+'Subjects in school', 'HELENA ROAD', 1
+'Subjects in school', 'ST PETERS PLACE', 3
+'Subjects in school', 'EVERGREEN AVENUE', 85
+'Subjects in school', 'RALPH AVENUE', 142
+'Subjects in school', 'WOOD AVENUE', 4
+'Subjects in school', 'CROSS BAY BRIDGE EXIT RAMP', 1
+'Subjects in school', 'SCRANTON AVENUE', 5
+'Subjects in school', 'CBE SB ENTRANCE AMSTERDAM AVE', 2
+'Subjects in school', 'BAY RIDGE PARKWAY', 18
+'Subjects in school', 'CARROLL STREET', 9
+'Subjects in school', 'WALTON AVENUE', 90
+'Subjects in school', 'WALKER PLACE', 4
+'Subjects in school', 'YACHT CLUB COVE', 8
+'Subjects in school', 'OXFORD AVENUE', 5
+'Subjects in school', '147 STREET', 1
+'Subjects in school', '92 ROAD', 14
+'Subjects in school', 'HILLCREST ROAD', 3
+'Subjects in school', 'MARION STREET', 7
+'Subjects in school', 'COLUMBIA HEIGHTS', 24
+'Subjects in school', 'DENNETT PLACE', 1
+'Subjects in school', 'DEAN STREET', 16
+'Subjects in school', '112 STREET', 33
+'Subjects in school', 'COLIN PLACE', 14
+'Subjects in school', 'JANSEN STREET', 4
+'Subjects in school', 'WEST    6 ROAD', 2
+'Subjects in school', 'CANARSIE LANE', 2
+'Subjects in school', '152 STREET', 12
+'Subjects in school', 'PITMAN AVENUE', 4
+'Subjects in school', 'COOLIDGE AVENUE', 2
+'Subjects in school', 'GREYSTONE AVENUE', 3
+'Subjects in school', 'GATES AVENUE', 3
+'Subjects in school', 'GOUVERNEUR AVENUE', 1
+'Subjects in school', 'ROFF STREET', 2
+'Subjects in school', 'TENNEY PLACE', 1
+'Subjects in school', 'WILSON AVENUE', 157
+'Subjects in school', 'AVENUE W', 25
+'Subjects in school', 'SHIRLEY AVENUE', 9
+'Subjects in school', 'HAROLD STREET', 7
+'Subjects in school', 'SYCAMORE STREET', 14
+'Subjects in school', 'EAST MOSHOLU PARKWAY NORTH', 10
+'Subjects in school', 'ROMAN AVENUE', 8
+'Subjects in school', '48 STREET', 36
+'Subjects in school', 'HAMDEN AVENUE', 3
+'Subjects in school', 'WEST  143 STREET', 20
+'Subjects in school', 'PINEHURST AVENUE', 5
+'Subjects in school', 'JUNIPER BLVD NORTH', 2
+'Subjects in school', 'SOUTHGATE PLAZA', 6
+'Subjects in school', 'PIDGEON MEADOW ROAD', 12
+'Subjects in school', 'FINGERBOARD ROAD', 5
+'Subjects in school', 'NOEL ROAD', 2
+'Subjects in school', 'ANDREW DIORIO BOULEVARD', 4
+'Subjects in school', 'SUMNER PLACE', 8
+'Subjects in school', 'DUDLEY AVENUE', 3
+'Subjects in school', '54 STREET', 5
+'Subjects in school', 'BULLARD AVENUE', 12
+'Subjects in school', 'EAST  154 STREET', 3
+'Subjects in school', '30 STREET', 9
+'Subjects in school', 'WIEDERER PLACE', 6
+'Subjects in school', 'WRIGHT AVENUE', 5
+'Subjects in school', 'DYCKMAN STREET', 2
+'Subjects in school', 'VINELAND AVENUE', 3
+'Subjects in school', 'METCALFE STREET', 1
+'Subjects in school', 'NICOLLS AVENUE', 10
+'Subjects in school', 'PENDALE STREET', 15
+'Subjects in school', 'LEONARD STREET', 35
+'Subjects in school', 'EAST   10 STREET', 17
+'Subjects in school', 'EAST   44 STREET', 9
+'Subjects in school', 'DIKEMAN STREET', 2
+'Subjects in school', '13 STREET', 6
+'Subjects in school', 'EAST   27 STREET', 27
+'Subjects in school', 'EAST  229 STREET', 3
+'Subjects in school', 'POND STREET', 4
+'Subjects in school', '90 ROAD', 2
+'Subjects in school', 'YATES AVENUE', 8
+'Subjects in school', 'CROSSFIELD AVENUE', 2
+'Subjects in school', 'ESCANABA AVENUE', 1
+'Subjects in school', 'GRISSOM AVENUE', 2
+'Subjects in school', 'DINTREE LANE', 1
+'Subjects in school', 'WOODLAND AVENUE', 4
+'Subjects in school', 'LYVERE STREET', 4
+'Subjects in school', 'DARTMOUTH STREET', 10
+'Subjects in school', 'HUNTON STREET', 2
+'Subjects in school', 'LOWELL STREET', 10
+'Subjects in school', 'KRUGER ROAD', 4
+'Subjects in school', 'EAST  149 STREET', 126
+'Subjects in school', 'PITTSVILLE AVENUE', 27
+'Subjects in school', '150 STREET', 64
+'Subjects in school', 'SPOFFORD AVENUE', 82
+'Subjects in school', 'BROAD STREET', 10
+'Subjects in school', '61 STREET', 20
+'Subjects in school', 'HALSEY STREET', 11
+'Subjects in school', 'OSGOOD AVENUE', 10
+'Subjects in school', 'EAST  106 STREET', 6
+'Subjects in school', 'WEST   19 ROAD', 2
+'Subjects in school', 'WEST   10 ROAD', 1
+'Subjects in school', 'MOSHOLU AVENUE', 5
+'Subjects in school', 'SOUTH END AVENUE', 9
+'Subjects in school', '124 STREET', 14
+'Subjects in school', 'DOUGLASTON PARKWAY', 1
+'Subjects in school', 'MT OLIVET CRESCENT', 2
+'Subjects in school', 'BETHEL CEMETERY BOUNDARY', 4
+'Subjects in school', 'SANTO COURT', 2
+'Subjects in school', 'BAYONNE BRIDGE', 599
+'Subjects in school', 'SHEPHERD AVENUE', 22
+'Subjects in school', 'UNION AVENUE', 70
+'Subjects in school', 'MAC DOUGAL STREET', 8
+'Subjects in school', 'DUNCAN STREET', 4
+'Subjects in school', '184 STREET', 9
+'Subjects in school', 'ROSSVILLE AVENUE', 8
+'Subjects in school', 'FRESH POND ROAD', 21
+'Subjects in school', '41 ROAD', 4
+'Subjects in school', 'BARRY STREET', 1
+'Subjects in school', 'VANDERVEER STREET', 6
+'Subjects in school', 'LUTEN AVENUE', 6
+'Subjects in school', 'PARK TERRACE WEST', 1
+'Subjects in school', 'CEMETERY OF EVERGRNS BOUNDARY', 2
+'Subjects in school', 'LATOURETTE LANE', 2
+'Subjects in school', 'RENE DRIVE', 3
+'Subjects in school', 'MYRTLE AVENUE', 155
+'Subjects in school', '90 STREET', 22
+'Subjects in school', 'KELVIN AVENUE', 4
+'Subjects in school', 'BILLINGS PLACE', 1
+'Subjects in school', '34 STREET', 4
+'Subjects in school', 'BAY   10 STREET', 3
+'Subjects in school', '16 ROAD', 7
+'Subjects in school', 'WILLIAMS PLACE', 10
+'Subjects in school', 'SEA PLACE', 3
+'Subjects in school', 'CYPRESS AVENUE', 17
+'Subjects in school', 'FLUSHING AVENUE', 11
+'Subjects in school', 'BARLOW COURT', 4
+'Subjects in school', 'OAK LANE', 2
+'Subjects in school', 'THORNYCROFT AVENUE', 2
+'Subjects in school', 'DONGAN HILLS AVENUE', 4
+'Subjects in school', 'EAST  198 STREET', 1
+'Subjects in school', 'NOME AVENUE', 1
+'Subjects in school', 'WESTBROOK AVENUE', 13
+'Subjects in school', 'HOWARD COURT', 4
+'Subjects in school', 'LESLIE AVENUE', 1
+'Subjects in school', 'HOE AVENUE', 4
+'Subjects in school', 'CATHERINE COURT', 1
+'Subjects in school', 'PENN AVENUE', 2
+'Subjects in school', 'MARKET STREET', 2
+'Subjects in school', 'SACKETT STREET', 10
+'Subjects in school', '99 AVENUE', 10
+'Subjects in school', 'BYRNE AVENUE', 2
+'Subjects in school', 'SHIRRA AVENUE', 4
+'Subjects in school', 'NORTH HENRY STREET', 2
+'Subjects in school', 'WOODHULL AVENUE', 9
+'Subjects in school', 'RIVER STREET', 1
+'Subjects in school', 'PELTON PLACE', 5
+'Subjects in school', 'EAST  183 STREET', 48
+'Subjects in school', 'WOODWARD AVENUE', 50
+'Subjects in school', 'MANOR ROAD', 51
+'Subjects in school', '77 AVENUE', 5
+'Subjects in school', 'THORNTON STREET', 18
+'Subjects in school', 'BRITTON AVENUE', 4
+'Subjects in school', 'EAST  230 STREET', 3
+'Subjects in school', '86 AVENUE', 24
+'Subjects in school', 'WEST  255 STREET', 2
+'Subjects in school', 'BQE WB ENTRANCE COLUMBIA ST', 4
+'Subjects in school', 'MAGUIRE AVENUE', 6
+'Subjects in school', 'WEST  186 STREET', 5
+'Subjects in school', 'MERRILL STREET', 2
+'Subjects in school', 'COUNTRY CLUB ROAD', 3
+'Subjects in school', 'EAST    2 STREET', 3
+'Subjects in school', 'MELVIN AVENUE', 1
+'Subjects in school', 'ELBERTSON STREET', 1
+'Subjects in school', 'JONES PLACE', 20
+'Subjects in school', 'GRETA PLACE', 5
+'Subjects in school', 'SELMOFF LANE', 4
+'Subjects in school', 'SKILLMAN AVENUE', 206
+'Subjects in school', 'EAST  138 STREET', 11
+'Subjects in school', 'WOODROW COTTAGES', 6
+'Subjects in school', 'WELLMAN AVENUE', 8
+'Subjects in school', 'HENLEY ROAD', 12
+'Subjects in school', 'LARKIN AVENUE', 4
+'Subjects in school', '145 ROAD', 2
+'Subjects in school', 'STADIUM AVENUE', 13
+'Subjects in school', 'LISK AVENUE', 1
+'Subjects in school', 'NADINE STREET', 24
+'Subjects in school', 'WEST  232 STREET', 3
+'Subjects in school', 'FRESH MEADOW LANE', 6
+'Subjects in school', 'GREAVES AVENUE', 3
+'Subjects in school', 'WEST   43 STREET', 1
+'Subjects in school', 'ST ANDREWS ROAD', 7
+'Subjects in school', 'CRYSTAL STREET', 2
+'Subjects in school', 'COHANCY STREET', 2
+'Subjects in school', '257 STREET', 3
+'Subjects in school', 'SIERRA COURT', 9
+'Subjects in school', 'CHERRY STREET', 24
+'Subjects in school', 'RYER AVENUE', 7
+'Subjects in school', 'WYONA STREET', 21
+'Subjects in school', 'GETZ AVENUE', 8
+'Subjects in school', 'MONTAGUE TERRACE', 4
+'Subjects in school', 'EAST  125 STREET', 4
+'Subjects in school', 'IRWIN AVENUE', 1
+'Subjects in school', 'SLAYTON AVENUE', 2
+'Subjects in school', 'CONSELYEA STREET', 1
+'Subjects in school', 'MILLER FIELD BOUNDARY', 2
+'Subjects in school', 'TUDOR ROAD', 2
+'Subjects in school', 'JERSEY STREET', 42
+'Subjects in school', 'RIDGE BOULEVARD', 57
+'Subjects in school', 'DEVOE STREET', 18
+'Subjects in school', 'FLINT STREET', 10
+'Subjects in school', 'PAGE AVENUE', 6
+'Subjects in school', 'LOTT STREET', 4
+'Subjects in school', 'SPENCER AVENUE', 10
+'Subjects in school', '55 AVENUE', 5
+'Subjects in school', 'CHRISTIE AVENUE', 12
+'Subjects in school', 'RADCLIFF AVENUE', 11
+'Subjects in school', 'BEACH CHANNEL DRIVE', 8
+'Subjects in school', '54 ROAD', 16
+'Subjects in school', '50 AVENUE', 38
+'Subjects in school', '25 ROAD', 1
+'Subjects in school', '158 AVENUE', 10
+'Subjects in school', 'RYERSON STREET', 2
+'Subjects in school', 'GROVE PLACE', 7
+'Subjects in school', 'WEST   83 STREET', 2
+'Subjects in school', 'LEEDS ROAD', 2
+'Subjects in school', 'MAY AVENUE', 1
+'Subjects in school', 'JEWEL MC COY LANE', 2
+'Subjects in school', 'EAST  143 STREET', 3
+'Subjects in school', 'CYPRESS COURT', 5
+'Subjects in school', 'GRANTWOOD AVENUE', 1
+'Subjects in school', 'BEDFORD AVENUE', 1
+'Subjects in school', 'WEST    8 STREET', 5
+'Subjects in school', 'EAST   52 STREET', 8
+'Subjects in school', '87 STREET', 24
+'Subjects in school', 'HARLEM RVR DR SB EN AMSTERDAM AV', 2
+'Subjects in school', 'WEIRFIELD STREET', 16
+'Subjects in school', 'FORT PLACE', 3
+'Subjects in school', 'LONGFELLOW AVENUE', 4
+'Subjects in school', 'DE REIMER AVENUE', 8
+'Subjects in school', 'WEST   18 ROAD', 1
+'Subjects in school', 'FORBELL STREET', 6
+'Subjects in school', 'WALDO PLACE', 10
+'Subjects in school', 'EAST  117 STREET', 5
+'Subjects in school', '157 AVENUE', 6
+'Subjects in school', 'PARK CRESCENT', 4
+'Subjects in school', 'STEVENSON PLACE', 4
+'Subjects in school', 'MILLER PLACE', 1
+'Subjects in school', 'BOYCE AVENUE', 1
+'Subjects in school', 'JAY AVENUE', 2
+'Subjects in school', 'INDIANA PLACE', 2
+'Subjects in school', 'NORTH    5 STREET', 2
+'Subjects in school', 'JEWEL AVENUE', 45
+'Subjects in school', 'JEFFERSON BOULEVARD', 4
+'Subjects in school', 'WATER STREET', 67
+'Subjects in school', 'EAST   56 STREET', 8
+'Subjects in school', 'RECTOR STREET', 45
+'Subjects in school', '78 STREET', 34
+'Subjects in school', 'NORFOLK STREET', 12
+'Subjects in school', 'VAUX ROAD', 18
+'Subjects in school', 'CRYDERS LANE', 1
+'Subjects in school', '190 STREET', 10
+'Subjects in school', 'TIEBOUT AVENUE', 2
+'Subjects in school', 'SAND LANE', 15
+'Subjects in school', 'STONE STREET', 2
+'Subjects in school', 'SUNNYSIDE AVENUE', 1
+'Subjects in school', 'WYGANT PLACE', 2
+'Subjects in school', 'NEW YORK PLACE', 12
+'Subjects in school', 'DIVISION PLACE', 4
+'Subjects in school', 'MIDDLETOWN ROAD', 17
+'Subjects in school', 'CONVENT AVENUE', 89
+'Subjects in school', 'EAST   40 STREET', 16
+'Subjects in school', 'GERRY STREET', 8
+'Subjects in school', 'ROEBLING AVENUE', 1
+'Subjects in school', 'PURDY AVENUE', 21
+'Subjects in school', '7 STREET', 11
+'Subjects in school', '171 STREET', 13
+'Subjects in school', 'COONLEY COURT', 2
+'Subjects in school', '230 STREET', 13
+'Subjects in school', 'LACONIA AVENUE', 1
+'Subjects in school', 'HANCOCK STREET', 6
+'Subjects in school', 'BAY   16 STREET', 6
+'Subjects in school', 'LUCERNE STREET', 2
+'Subjects in school', 'MAGNOLIA AVENUE', 6
+'Subjects in school', 'LAUREL DRIVE', 2
+'Subjects in school', 'PLATTSBURG STREET', 3
+'Subjects in school', 'LOUISA STREET', 2
+'Subjects in school', 'ST MARYS STREET', 3
+'Subjects in school', '63 AVENUE', 8
+'Subjects in school', 'ELIZABETH ROAD', 1
+'Subjects in school', 'AVENUE R', 2
+'Subjects in school', 'HARWAY AVENUE', 8
+'Subjects in school', 'HICKS STREET', 94
+'Subjects in school', 'SUTPHIN BOULEVARD', 13
+'Subjects in school', 'WOODBINE STREET', 116
+'Subjects in school', 'WASHINGTON PARK', 7
+'Subjects in school', 'SOMMER AVENUE', 6
+'Subjects in school', '91 STREET', 28
+'Subjects in school', '67 STREET', 17
+'Subjects in school', 'WESTPORT STREET', 3
+'Subjects in school', 'RODER AVENUE', 6
+'Subjects in school', 'DENTON PLACE', 6
+'Subjects in school', 'MASON AVENUE', 2
+'Subjects in school', 'KATAN LOOP', 8
+'Subjects in school', 'NORMALEE ROAD', 3
+'Subjects in school', 'BOLTON ROAD', 1
+'Subjects in school', 'VANDERVOORT PLACE', 4
+'Subjects in school', 'AVENUE OF THE FINEST', 3
+'Subjects in school', 'ASSER LEVY PLACE', 6
+'Subjects in school', 'MENAHAN STREET', 26
+'Subjects in school', 'YETMAN AVENUE', 13
+'Subjects in school', 'ELM AVENUE', 9
+'Subjects in school', 'EAST  226 STREET', 3
+'Subjects in school', '102 STREET', 50
+'Subjects in school', 'ARMAND STREET', 1
+'Subjects in school', 'BRIGHTON    7 STREET', 14
+'Subjects in school', 'EAST   14 STREET', 12
+'Subjects in school', 'MAURICE AVENUE', 10
+'Subjects in school', 'HOOVER AVENUE', 14
+'Subjects in school', 'BROOK AVENUE', 25
+'Subjects in school', 'VAN SICLEN AVENUE', 18
+'Subjects in school', '88 AVENUE', 4
+'Subjects in school', 'EAST    7 ROAD', 1
+'Subjects in school', 'GRISWOLD AVENUE', 2
+'Subjects in school', 'WANDELL AVENUE', 3
+'Subjects in school', 'MC CLEAN AVENUE', 36
+'Subjects in school', 'TONE LANE', 4
+'Subjects in school', 'DAKOTA PLACE', 1
+'Subjects in school', '115 ROAD', 6
+'Subjects in school', 'HULL AVENUE', 5
+'Subjects in school', 'LEVERETT COURT', 1
+'Subjects in school', 'FURMAN AVENUE', 5
+'Subjects in school', 'VERMONT PLACE', 2
+'Subjects in school', 'WEBB AVENUE', 23
+'Subjects in school', 'WISSMAN AVENUE', 3
+'Subjects in school', 'KIELY PLACE', 11
+'Subjects in school', 'SACKMAN STREET', 78
+'Subjects in school', 'KINGSBOROUGH    5 WALK', 3
+'Subjects in school', 'SHARROTTS ROAD', 4
+'Subjects in school', 'SCHAEFER STREET', 15
+'Subjects in school', '174 STREET', 11
+'Subjects in school', '231 STREET', 17
+'Subjects in school', 'JAVA STREET', 1
+'Subjects in school', 'BQE WB ENTRANCE OLD FULTON ST', 2
+'Subjects in school', 'BEACH   43 STREET', 1
+'Subjects in school', '62 AVENUE', 4
+'Subjects in school', 'WEST  158 STREET', 10
+'Subjects in school', 'WEST  179 STREET', 11
+'Subjects in school', 'FLORENCE AVENUE', 2
+'Subjects in school', 'TOMPKINS STREET', 3
+'Subjects in school', 'MALCOLM X BOULEVARD', 10
+'Subjects in school', 'PERKIOMEN AVENUE', 5
+'Subjects in school', '188 STREET', 9
+'Subjects in school', 'RAMBLE ROAD', 4
+'Subjects in school', 'HOLDEN BOULEVARD', 6
+'Subjects in school', '245 LANE', 1
+'Subjects in school', 'INGRAM STREET', 2
+'Subjects in school', 'SOUTH    8 STREET', 6
+'Subjects in school', 'CROMWELL CRESCENT', 2
+'Subjects in school', '81 ROAD', 2
+'Subjects in school', 'WEST RALEIGH AVENUE', 3
+'Subjects in school', 'RAE AVENUE', 2
+'Subjects in school', 'MONTROSE AVENUE', 46
+'Subjects in school', 'TYSENS LANE', 15
+'Subjects in school', 'NARROWS AVENUE', 71
+'Subjects in school', '208 STREET', 16
+'Subjects in school', 'AVENUE D', 53
+'Subjects in school', 'KEAP STREET', 19
+'Subjects in school', 'TOMPKINS PLACE', 6
+'Subjects in school', 'MAGENTA STREET', 4
+'Subjects in school', 'BRIGHTON    7 WALK', 2
+'Subjects in school', 'SUNNYMEADE VILLAGE', 11
+'Subjects in school', '65 ROAD', 12
+'Subjects in school', 'EAST  199 STREET', 2
+'Subjects in school', 'DRIGGS STREET', 1
+'Subjects in school', 'BEACH   67 STREET', 3
+'Subjects in school', 'GRAND CENTRAL PKWY WB EN   94 ST', 2
+'Subjects in school', 'SHERIDAN EP NB EN HUNTS PT AV', 2
+'Subjects in school', 'COOK COURT', 6
+'Subjects in school', 'DELANCEY PLACE', 1
+'Subjects in school', 'STEPHEN LOOP', 2
+'Subjects in school', 'MILL LANE', 8
+'Subjects in school', 'BENSON AVENUE', 45
+'Subjects in school', 'QUEENS PLAZA NORTH', 10
+'Subjects in school', 'SUMMIT COURT', 4
+'Subjects in school', 'JOHNSON AVENUE', 25
+'Subjects in school', 'HOPPING AVENUE', 6
+'Subjects in school', 'LELAND AVENUE', 4
+'Subjects in school', 'WEST   61 STREET', 2
+'Subjects in school', 'CRESCENT AVENUE', 3
+'Subjects in school', 'CPW  110 APPROACH', 1
+'Subjects in school', 'IRELAND STREET', 2
+'Subjects in school', '33 AVENUE', 5
+'Subjects in school', '119 AVENUE', 28
+'Subjects in school', 'SEAMAN AVENUE', 3
+'Subjects in school', '93 ROAD', 14
+'Subjects in school', 'POTTER AVENUE', 4
+'Subjects in school', 'BENEDICT AVENUE', 2
+'Subjects in school', 'WEST  242 STREET', 2
+'Subjects in school', 'BEACH   40 STREET', 1
+'Subjects in school', 'WALDORF COURT', 4
+'Subjects in school', 'BAY RIDGE PLACE', 2
+'Subjects in school', 'HOLLERS AVENUE', 16
+'Subjects in school', '164 STREET', 45
+'Subjects in school', '243 STREET', 4
+'Subjects in school', '37 AVENUE', 51
+'Subjects in school', 'VESTRY STREET', 7
+'Subjects in school', 'CYRUS AVENUE', 2
+'Subjects in school', 'EAST   90 STREET', 3
+'Subjects in school', 'ELK STREET', 19
+'Subjects in school', 'JUDITH COURT', 2
+'Subjects in school', 'MC KINLEY AVENUE', 39
+'Subjects in school', 'MC CLELLAN STREET', 11
+'Subjects in school', 'WEST   12 ROAD', 1
+'Subjects in school', 'WEST   93 STREET', 2
+'Subjects in school', 'MORRIS PARK AVENUE', 3
+'Subjects in school', 'WEST  109 STREET', 6
+'Subjects in school', 'NORTH    1 STREET', 2
+'Subjects in school', 'WENLOCK STREET', 7
+'Subjects in school', 'BERRY AVENUE', 2
+'Subjects in school', 'CHESTER STREET', 9
+'Subjects in school', 'WEST  225 STREET', 17
+'Subjects in school', 'WALES AVENUE', 31
+'Subjects in school', 'YATES ROAD', 3
+'Subjects in school', 'WOOLLEY AVENUE', 16
+'Subjects in school', 'CARREAU AVENUE', 3
+'Subjects in school', '187 STREET', 7
+'Subjects in school', 'GARDEN PLACE', 13
+'Subjects in school', 'GCP EB EXIT   18', 2
+'Subjects in school', 'ROBIN ROAD', 38
+'Subjects in school', 'TENNIS COURT', 4
+'Subjects in school', '3 PLACE', 1
+'Subjects in school', 'GARRETSON AVENUE', 6
+'Subjects in school', '128 ROAD', 4
+'Subjects in school', 'MC INTOSH STREET', 14
+'Subjects in school', 'TRANSMANHATTAN EXPRESSWAY', 28
+'Subjects in school', 'BUFFALO AVENUE', 2
+'Subjects in school', '66 AVENUE', 32
+'Subjects in school', 'NORTH   12 STREET', 1
+'Subjects in school', '136 STREET', 4
+'Subjects in school', 'WILLOUGHBY AVENUE', 55
+'Subjects in school', 'WORTMAN AVENUE', 28
+'Subjects in school', 'EAST   33 STREET', 4
+'Subjects in school', 'EAST   82 STREET', 7
+'Subjects in school', 'MORNINGSIDE AVENUE', 15
+'Subjects in school', 'RING ROAD', 26
+'Subjects in school', 'RYDER AVENUE', 6
+'Subjects in school', 'METCALF AVENUE', 16
+'Subjects in school', 'WINFIELD STREET', 1
+'Subjects in school', 'BEACH   72 STREET', 37
+'Subjects in school', 'PARKWAY COURT', 4
+'Subjects in school', 'VYSE AVENUE', 2
+'Subjects in school', 'RIDGE ROAD', 2
+'Subjects in school', 'MC GUINNESS BLVD SOUTH', 4
+'Subjects in school', 'STAFFORD AVENUE', 9
+'Subjects in school', 'RESERVOIR AVENUE', 6
+'Subjects in school', 'KALTENMEIER LANE', 6
+'Subjects in school', 'BEACH   42 STREET', 2
+'Subjects in school', 'STUYVESANT AVENUE', 41
+'Subjects in school', 'CONSTANCE COURT', 4
+'Subjects in school', '69 LANE', 1
+'Subjects in school', 'LINDEN STREET', 55
+'Subjects in school', 'WEST STREET', 31
+'Subjects in school', 'PARKVILLE AVENUE', 4
+'Subjects in school', 'HILLEL PLACE', 5
+'Subjects in school', 'WEST  122 STREET', 8
+'Subjects in school', 'EAST   46 STREET', 5
+'Subjects in school', 'GREENWOOD AVENUE', 4
+'Subjects in school', 'SEWARD AVENUE', 39
+'Subjects in school', 'STARLIGHT ROAD', 5
+'Subjects in school', 'FORRESTAL AVENUE', 4
+'Subjects in school', 'COYLE STREET', 10
+'Subjects in school', 'MANN AVENUE', 6
+'Subjects in school', 'BAY    7 STREET', 3
+'Subjects in school', 'HILLMEYER AVENUE', 6
+'Subjects in school', 'THOMPSON PLACE', 5
+'Subjects in school', 'HALLECK STREET', 2
+'Subjects in school', 'RICHMOND ROAD', 127
+'Subjects in school', 'KOSCIUSKO BRIDGE', 120
+'Subjects in school', 'AMTRAK RAILROAD', 34
+'Subjects in school', 'ETNA STREET', 19
+'Subjects in school', 'FERRY STREET', 2
+'Subjects in school', '218 PLACE', 4
+'Subjects in school', 'LIEBIG AVENUE', 5
+'Subjects in school', 'CYPRES HILL CEMETERY BOUNDARY', 4
+'Subjects in school', 'EDWARD CURRY AVENUE', 5
+'Subjects in school', 'SHORE AVENUE', 15
+'Subjects in school', 'ARLINGTON TERRACE', 2
+'Subjects in school', 'SLOSSON AVENUE', 11
+'Subjects in school', 'ST MARYS AVENUE', 39
+'Subjects in school', '31 DRIVE', 3
+'Subjects in school', '118 ROAD', 6
+'Subjects in school', 'HOWE STREET', 4
+'Subjects in school', 'SAMUEL PLACE', 2
+'Subjects in school', 'PLUMB    2 STREET', 2
+'Subjects in school', 'FULTON STREET', 152
+'Subjects in school', '51 AVENUE', 21
+'Subjects in school', 'DORVAL AVENUE', 5
+'Subjects in school', 'EAST  193 STREET', 76
+'Subjects in school', 'CENTRAL AVENUE', 17
+'Subjects in school', 'PRESIDENT STREET', 27
+'Subjects in school', 'EAST  105 STREET', 3
+'Subjects in school', '186 STREET', 4
+'Subjects in school', 'EAST  148 STREET', 2
+'Subjects in school', 'GORDON PLACE', 6
+'Subjects in school', 'NEW HAVEN AVENUE', 3
+'Subjects in school', 'GRND CNTRL PARKWAY ENTRANCE EB', 1
+'Subjects in school', 'LAUREL AVENUE', 3
+'Subjects in school', 'JUSTICE AVENUE', 18
+'Subjects in school', 'FLATLANDS AVENUE', 58
+'Subjects in school', 'SILVER BEECH ROAD', 64
+'Subjects in school', 'AVENUE I', 9
+'Subjects in school', 'JACKSON AVENUE', 124
+'Subjects in school', '75 ROAD', 3
+'Subjects in school', 'AVENUE N', 44
+'Subjects in school', 'REMSEN AVENUE', 13
+'Subjects in school', 'WARREN PLACE', 4
+'Subjects in school', 'STORY AVENUE', 77
+'Subjects in school', 'EAST   74 STREET', 5
+'Subjects in school', '36 STREET', 8
+'Subjects in school', 'QNSBORO BRDG APPROACH', 3
+'Subjects in school', 'LAKE PLACE', 17
+'Subjects in school', 'ELIOT AVENUE', 12
+'Subjects in school', 'OSWALD PLACE', 1
+'Subjects in school', '67 AVENUE', 15
+'Subjects in school', 'KELL AVENUE', 9
+'Subjects in school', 'EAST    4 ROAD', 1
+'Subjects in school', 'ARTHUR KILL ROAD', 5
+'Subjects in school', '147 AVENUE', 1
+'Subjects in school', 'HARBOR VIEW COURT', 10
+'Subjects in school', 'BRADLEY AVENUE', 2
+'Subjects in school', 'TIEMANN AVENUE', 4
+'Subjects in school', 'DE GROOT PLACE', 2
+'Subjects in school', 'KNEELAND AVENUE', 7
+'Subjects in school', 'CLYDE STREET', 12
+'Subjects in school', 'HIMROD STREET', 1
+'Subjects in school', 'NATICK STREET', 30
+'Subjects in school', 'LEWIS STREET', 1
+'Subjects in school', 'WOODHULL STREET', 2
+'Subjects in school', 'ZACHARY COURT', 1
+'Subjects in school', 'STILLWELLS PLACE', 24
+'Subjects in school', 'PITKIN AVENUE', 87
+'Subjects in school', 'SUTTON PLACE', 20
+'Subjects in school', 'LUDLOW STREET', 9
+'Subjects in school', '142 AVENUE', 8
+'Subjects in school', 'DE COSTA AVENUE', 19
+'Subjects in school', 'FOREST HILL ROAD', 12
+'Subjects in school', 'SHARROTT AVENUE', 2
+'Subjects in school', 'EAST  174 STREET', 48
+'Subjects in school', 'DR M L KING JR BOULEVARD', 5
+'Subjects in school', 'GRANT AVENUE', 3
+'Subjects in school', 'DURYEA PLACE', 2
+'Subjects in school', 'CLOVER PLACE', 2
+'Subjects in school', 'EAST  173 STREET', 19
+'Subjects in school', 'JACOB RIIS PARK BOUNDARY', 6
+'Subjects in school', 'BELVEDERE STREET', 8
+'Subjects in school', 'JAKE COURT', 1
+'Subjects in school', 'OAK STREET', 4
+'Subjects in school', 'SANDBORN STREET', 2
+'Subjects in school', 'PLUMB    3 STREET', 2
+'Subjects in school', '8 STREET', 12
+'Subjects in school', 'TODT HILL ROAD', 49
+'Subjects in school', 'LAUREL HILL BOULEVARD', 14
+'Subjects in school', 'MAIDEN LANE', 14
+'Subjects in school', '135 STREET', 19
+'Subjects in school', 'OTIS AVENUE', 7
+'Subjects in school', 'BEACH   73 STREET', 3
+'Subjects in school', 'NORTH GANNON AVENUE', 7
+'Subjects in school', 'LITTLE STREET', 2
+'Subjects in school', 'VAN WYCK EP NB EN COLLEGE PT BL', 1
+'Subjects in school', 'MILLER AVENUE', 11
+'Subjects in school', 'CIP SOUTHBOUND EXIT   34', 2
+'Subjects in school', 'POLO PLACE', 4
+'Subjects in school', 'KINGSLEY AVENUE', 13
+'Subjects in school', 'AUDUBON AVENUE', 9
+'Subjects in school', 'HUBERT STREET', 1
+'Subjects in school', 'FLATBUSH AVENUE EXTENSION', 110
+'Subjects in school', '107 STREET', 16
+'Subjects in school', 'CONCORD STREET', 4
+'Subjects in school', 'STEUBEN STREET', 12
+'Subjects in school', 'KELLY STREET', 2
+'Subjects in school', 'HOME STREET', 10
+'Subjects in school', 'GRENADA PLACE', 2
+'Subjects in school', 'STRICKLAND AVENUE', 7
+'Subjects in school', '28 AVENUE', 2
+'Subjects in school', 'CAFFREY AVENUE', 3
+'Subjects in school', 'SEMINOLE AVENUE', 1
+'Subjects in school', 'GREENLEAF AVENUE', 9
+'Subjects in school', 'REYNOLDS COURT', 6
+'Subjects in school', 'NEW LANE', 1
+'Subjects in school', 'PRALL AVENUE', 1
+'Subjects in school', 'RODMAN STREET', 4
+'Subjects in school', 'RODMAN PLACE', 36
+'Subjects in school', 'POPLAR AVENUE', 7
+'Subjects in school', 'WINDHAM LOOP', 6
+'Subjects in school', 'FAHY AVENUE', 2
+'Subjects in school', 'GRAND CENTRAL PARKWAY WB ET    3', 1
+'Subjects in school', 'EAST   66 STREET', 4
+'Subjects in school', 'MC DONALD AVENUE', 82
+'Subjects in school', 'WEST  160 STREET', 2
+'Subjects in school', 'GARRISON AVENUE', 7
+'Subjects in school', 'OTTO ROAD', 6
+'Subjects in school', 'JENNINGS STREET', 8
+'Subjects in school', 'MC KEE AVENUE', 4
+'Subjects in school', 'RIDGE STREET', 18
+'Subjects in school', 'WOODSTOCK AVENUE', 19
+'Subjects in school', 'CENTRE MARKET PLACE', 1
+'Subjects in school', 'BEACH   38 STREET', 1
+'Subjects in school', 'TYNDALE STREET', 2
+'Subjects in school', 'DUNNE COURT', 2
+'Subjects in school', 'DEAD END', 673
+'Subjects in school', 'STERLING AVENUE', 3
+'Subjects in school', 'NOTUS AVENUE', 7
+'Subjects in school', '248 STREET', 2
+'Subjects in school', '252 STREET', 8
+'Subjects in school', 'EAST  237 STREET', 9
+'Subjects in school', 'SOUTH    1 STREET', 6
+'Subjects in school', 'EAST  152 STREET', 9
+'Subjects in school', 'KING ROAD', 4
+'Subjects in school', 'HAZEN STREET', 4
+'Subjects in school', 'NEW STREET', 26
+'Subjects in school', 'PORTLAND PLACE', 24
+'Subjects in school', 'CLOVERDALE BOULEVARD', 6
+'Subjects in school', 'DOMINICK STREET', 3
+'Subjects in school', 'WEST   99 STREET', 1
+'Subjects in school', 'KINGSBRIDGE TERRACE', 1
+'Subjects in school', 'GARRETT STREET', 2
+'Subjects in school', 'STOCKHOLM STREET', 2
+'Subjects in school', 'WALCOTT AVENUE', 1
+'Subjects in school', 'MONAHAN AVENUE', 1
+'Subjects in school', '32 AVENUE', 51
+'Subjects in school', 'LIVINGSTON STREET', 159
+'Subjects in school', 'WYTHE PLACE', 55
+'Subjects in school', 'WALWORTH STREET', 4
+'Subjects in school', 'O BRIEN PLACE', 5
+'Subjects in school', '91 AVENUE', 20
+'Subjects in school', 'FIELDSTONE ROAD', 8
+'Subjects in school', 'VAN BUREN STREET', 23
+'Subjects in school', '16 STREET', 1
+'Subjects in school', 'KALMIA AVENUE', 4
+'Subjects in school', 'EAST   91 STREET', 3
+'Subjects in school', 'PERRY AVENUE', 14
+'Subjects in school', 'TRAVIS AVENUE', 9
+'Subjects in school', 'QUINCY AVENUE', 22
+'Subjects in school', 'JEWELL STREET', 11
+'Subjects in school', 'WEST  140 STREET', 8
+'Subjects in school', '4 PLACE', 1
+'Subjects in school', 'MC CULLY AVENUE', 27
+'Subjects in school', 'BROWER COURT', 2
+'Subjects in school', 'BROADWAY', 916
+'Subjects in school', 'YORK AVENUE', 281
+'Subjects in school', 'WEST  111 STREET', 6
+'Subjects in school', 'CHRISTOPHER STREET', 11
+'Subjects in school', 'EAST   53 STREET', 6
+'Subjects in school', 'VEDDER AVENUE', 11
+'Subjects in school', 'EAST  153 STREET', 8
+'Subjects in school', 'AVENUE Y', 13
+'Subjects in school', 'WEST   69 STREET', 1
+'Subjects in school', 'DRUMGOOLE ROAD EAST', 10
+'Subjects in school', 'WHITEHALL PLACE', 2
+'Subjects in school', 'DE GRAW STREET', 1
+'Subjects in school', 'RICHARD AVENUE', 1
+'Subjects in school', 'ROBINSON STREET', 16
+'Subjects in school', 'WALKER STREET', 31
+'Subjects in school', 'SHAKESPEARE AVENUE', 2
+'Subjects in school', '185 STREET', 8
+'Subjects in school', 'BEACH   25 STREET', 12
+'Subjects in school', 'WEST   95 STREET', 2
+'Subjects in school', 'WHALLEY AVENUE', 6
+'Subjects in school', 'KEATING PLACE', 4
+'Subjects in school', '24 STREET', 56
+'Subjects in school', 'BARBEY STREET', 1
+'Subjects in school', 'None', 0
+'Subjects in school', 'MAJOR DEEGAN EXPRESSWAY', 41
+'Subjects in school', 'EAST   16 STREET', 13
+'Subjects in school', 'ROCKAWAY BOULEVARD', 49
+'Subjects in school', 'NEW UTRECHT AVENUE', 47
+'Subjects in school', 'CASTLE HILL AVENUE', 2
+'Subjects in school', 'WEST   77 STREET', 1
+'Subjects in school', '64 STREET', 49
+'Subjects in school', 'CHURCH AVENUE', 31
+'Subjects in school', 'CENTRAL PARK GR HILL', 3
+'Subjects in school', 'THURSBY AVENUE', 40
+'Subjects in school', 'MONITOR STREET', 1
+'Subjects in school', 'CPE  102 APPROACH', 28
+'Subjects in school', 'ORIENTAL BOULEVARD', 12
+'Subjects in school', 'CABLE WAY', 2
+'Subjects in school', 'GOETHALS BRIDGE APPROACH', 6
+'Subjects in school', 'KOREAN VETS PARKWAY EXIT EB', 4
+'Subjects in school', 'PACIFIC STREET', 68
+'Subjects in school', 'INWOOD STREET', 10
+'Subjects in school', 'SUMMIT ROAD', 2
+'Subjects in school', 'SHARPE AVENUE', 3
+'Subjects in school', 'SUFFOLK AVENUE', 23
+'Subjects in school', '87 ROAD', 15
+'Subjects in school', 'SOUTH ROAD', 23
+'Subjects in school', 'RIVERTON STREET', 4
+'Subjects in school', '55 STREET', 11
+'Subjects in school', 'BOROUGH BOUNDARY', 1
+'Subjects in school', 'MILLS AVENUE', 13
+'Subjects in school', 'WOLVERINE STREET', 21
+'Subjects in school', 'GOODWIN PLACE', 2
+'Subjects in school', 'LANGERE PLACE', 9
+'Subjects in school', 'ST PATRICK'S PLACE', 3
+'Subjects in school', '224 STREET', 14
+'Subjects in school', 'ROCKAWAY FREEWAY', 12
+'Subjects in school', 'BAY   38 STREET', 21
+'Subjects in school', 'DOROTHEA PLACE', 4
+'Subjects in school', 'SHORE ROAD DRIVE', 2
+'Subjects in school', 'STANLEY AVENUE', 56
+'Subjects in school', 'TRENT STREET', 4
+'Subjects in school', 'CEDAR GROVE AVENUE', 1
+'Subjects in school', 'EAST   42 STREET', 41
+'Subjects in school', 'SOMERSET STREET', 6
+'Subjects in school', '237 STREET', 4
+'Subjects in school', '210 STREET', 2
+'Subjects in school', 'BRYSON AVENUE', 2
+'Subjects in school', 'CHANNING ROAD', 6
+'Subjects in school', 'ST MARY'S AVENUE', 4
+'Subjects in school', '265 STREET', 3
+'Subjects in school', 'WILLIAMS COURT', 14
+'Subjects in school', 'ARNOW AVENUE', 8
+'Subjects in school', '145 STREET', 8
+'Subjects in school', 'HOYT STREET', 215
+'Subjects in school', 'RADNOR ROAD', 13
+'Subjects in school', '14 AVENUE', 40
+'Subjects in school', 'WESTERN AVENUE', 6
+'Subjects in school', 'PELL STREET', 21
+'Subjects in school', '246 PLACE', 1
+'Subjects in school', 'CANTERBURY AVENUE', 4
+'Subjects in school', '45 AVENUE', 15
+'Subjects in school', 'TERRACE PLACE', 4
+'Subjects in school', 'BAISLEY BOULEVARD', 11
+'Subjects in school', 'FIGUREA AVENUE', 3
+'Subjects in school', 'FITZGERALD AVENUE', 4
+'Subjects in school', 'STARR AVENUE', 10
+'Subjects in school', 'QUIMBY AVENUE', 4
+'Subjects in school', 'NORTH MOORE STREET', 2
+'Subjects in school', 'GRANT STREET', 1
+'Subjects in school', 'MC VEIGH AVENUE', 1
+'Subjects in school', 'TILLARY STREET', 30
+'Subjects in school', 'PROVOST STREET', 26
+'Subjects in school', '93 AVENUE', 20
+'Subjects in school', 'DELANCEY STREET', 304
+'Subjects in school', 'LOCKMAN AVENUE', 44
+'Subjects in school', 'YORK STREET', 48
+'Subjects in school', '5 STREET', 7
+'Subjects in school', 'SPRUCE STREET', 19
+'Subjects in school', 'WEST   70 STREET', 9
+'Subjects in school', 'STAR COURT', 2
+'Subjects in school', 'EAST   30 STREET', 10
+'Subjects in school', 'EAST  142 STREET', 5
+'Subjects in school', 'WEST  163 STREET', 3
+'Subjects in school', 'WEST   58 STREET', 6
+'Subjects in school', 'PARSIFAL PLACE', 2
+'Subjects in school', 'BEACH   34 STREET', 4
+'Subjects in school', 'NOBLE AVENUE', 19
+'Subjects in school', 'MT HOPE PLACE', 6
+'Subjects in school', 'NELSON AVENUE', 2
+'Subjects in school', 'JESUP PLACE', 4
+'Subjects in school', 'ROBERTS AVENUE', 10
+'Subjects in school', 'SECOR AVENUE', 4
+'Subjects in school', 'NEW DORP PLAZA', 4
+'Subjects in school', '259 STREET', 3
+'Subjects in school', 'MILTON STREET', 2
+'Subjects in school', '73 STREET', 49
+'Subjects in school', 'EAST  235 STREET', 3
+'Subjects in school', 'WEST  128 STREET', 3
+'Subjects in school', 'MERRIMAN AVENUE', 8
+'Subjects in school', 'FINE BOULEVARD', 2
+'Subjects in school', 'ANJALI LOOP', 2
+'Subjects in school', 'WEST   27 STREET', 10
+'Subjects in school', 'BEDELL STREET', 5
+'Subjects in school', '60 DRIVE', 4
+'Subjects in school', 'SAYBROOK STREET', 2
+'Subjects in school', 'THE PLAZA', 2
+'Subjects in school', 'PINEWOOD AVENUE', 16
+'Subjects in school', 'SYLVAN PLACE', 2
+'Subjects in school', 'MARIO J ESPOSITO WAY', 2
+'Subjects in school', 'WHARTON PLACE', 5
+'Subjects in school', '60 PLACE', 2
+'Subjects in school', '271 STREET', 3
+'Subjects in school', 'HRD NB ENTRANCE E  126 ST', 2
+'Subjects in school', 'HERZL STREET', 22
+'Subjects in school', 'PARK HILL LANE', 6
+'Subjects in school', 'LEFFERTS BOULEVARD', 30
+'Subjects in school', 'AVENUE U', 44
+'Subjects in school', 'NICOLE LOOP', 4
+'Subjects in school', 'NOBLE STREET', 3
+'Subjects in school', 'ORCHARD STREET', 6
+'Subjects in school', 'WEST   29 STREET', 9
+'Subjects in school', 'NEWTOWN ROAD', 15
+'Subjects in school', 'PURDY STREET', 6
+'Subjects in school', '153 STREET', 6
+'Subjects in school', 'CRANBERRY STREET', 2
+'Subjects in school', 'WEST   16 STREET', 2
+'Subjects in school', 'BOWLES AVENUE', 5
+'Subjects in school', 'REYNOLDS STREET', 18
+'Subjects in school', 'SEYMOUR AVENUE', 2
+'Subjects in school', 'EAGLE AVENUE', 1
+'Subjects in school', 'LIBERTY PLACE', 3
+'Subjects in school', 'TUDOR CITY PLACE', 3
+'Subjects in school', 'KENT STREET', 16
+'Subjects in school', 'CLERMONT AVENUE', 9
+'Subjects in school', 'FREEMAN PLACE', 25
+'Subjects in school', 'SPEEDWELL AVENUE', 9
+'Subjects in school', 'ZULETTE AVENUE', 6
+'Subjects in school', 'SCHURZ AVENUE', 1
+'Subjects in school', 'QUINN STREET', 3
+'Subjects in school', 'SELDIN AVENUE', 3
+'Subjects in school', 'BEACH   75 STREET', 2
+'Subjects in school', 'FORCE TUBE AVENUE', 4
+'Subjects in school', 'DUPONT STREET', 1
+'Subjects in school', 'EAST  123 STREET', 7
+'Subjects in school', 'JOHNSON STREET', 28
+'Subjects in school', 'WEST  168 STREET', 5
+'Subjects in school', 'TOMPKINS COURT', 2
+'Subjects in school', 'LIPSETT AVENUE', 3
+'Subjects in school', 'MULINER AVENUE', 2
+'Subjects in school', 'BQE EASTBOUND EXIT   35 E-W', 9
+'Subjects in school', 'FRANKLIN PLACE', 14
+'Subjects in school', 'JEROME STREET', 16
+'Subjects in school', 'BRUCKNER EXPRESSWAY', 16
+'Subjects in school', 'CORONA AVENUE', 18
+'Subjects in school', 'LLOYD ROAD', 2
+'Subjects in school', 'GARDEN STREET', 2
+'Subjects in school', 'WEST  161 STREET', 4
+'Subjects in school', 'RICHARDSON AVENUE', 14
+'Subjects in school', 'APEX PLACE', 4
+'Subjects in school', 'REGAL WALK', 1
+'Subjects in school', '39 STREET', 4
+'Subjects in school', 'HAMPTON PLACE', 2
+'Subjects in school', 'BEACH   41 STREET', 1
+'Subjects in school', 'SIMONSON PLACE', 10
+'Subjects in school', '18 AVENUE', 38
+'Subjects in school', 'BQE EASTBOUND EXIT   28 B', 2
+'Subjects in school', 'THEATRE ALLEY', 26
+'Subjects in school', '211 STREET', 9
+'Subjects in school', 'WELLINGTON COURT', 4
+'Subjects in school', '79 STREET', 34
+'Subjects in school', '49 STREET', 14
+'Subjects in school', 'TENNYSON DRIVE', 5
+'Subjects in school', 'INDEPENDENCE AVENUE', 12
+'Subjects in school', 'SHEEPSHEAD BAY ROAD', 12
+'Subjects in school', 'QUINLAN AVENUE', 11
+'Subjects in school', 'CPW  100 APPROACH', 3
+'Subjects in school', 'FINDLAY AVENUE', 7
+'Subjects in school', 'LAMOKA AVENUE', 13
+'Subjects in school', 'WATT AVENUE', 4
+'Subjects in school', 'WEST   30 STREET', 20
+'Subjects in school', '134 AVENUE', 6
+'Subjects in school', 'BERESFORD AVENUE', 1
+'Subjects in school', 'ALBEMARLE ROAD', 1
+'Subjects in school', 'STEUBEN AVENUE', 6
+'Subjects in school', 'FLEET STREET', 6
+'Subjects in school', '62 ROAD', 24
+'Subjects in school', 'MAJOR AVENUE', 5
+'Subjects in school', 'TALLMAN STREET', 2
+'Subjects in school', 'PICKERSGILL AVENUE', 2
+'Subjects in school', 'SEAVIEW AVENUE', 45
+'Subjects in school', 'WEST  183 STREET', 6
+'Subjects in school', 'CANAL STREET', 6
+'Subjects in school', 'JACKSON MILL ROAD', 15
+'Subjects in school', 'PARK LANE', 1
+'Subjects in school', '53 DRIVE', 3
+'Subjects in school', 'THEBES AVENUE', 15
+'Subjects in school', 'WEST   48 STREET', 1
+'Subjects in school', 'MANSION STREET', 1
+'Subjects in school', '122 STREET', 25
+'Subjects in school', 'LOHENGRIN PLACE', 6
+'Subjects in school', 'VIRGINIA AVENUE', 47
+'Subjects in school', 'WEST MOSHOLU PARKWAY SOUTH', 2
+'Subjects in school', 'CATON AVENUE', 1
+'Subjects in school', 'WEST   88 STREET', 2
+'Subjects in school', 'GLEANE STREET', 1
+'Subjects in school', 'NASSAU EXPRESSWAY', 4
+'Subjects in school', 'FIELDSTONE TERRACE', 2
+'Subjects in school', 'DAVIDSON STREET', 6
+'Subjects in school', 'SEDGWICK STREET', 2
+'Subjects in school', 'LINCOLN AVENUE', 14
+'Subjects in school', 'FOX BEACH AVENUE', 4
+'Subjects in school', 'SUNRISE HIGHWAY', 2
+'Subjects in school', '270 STREET', 3
+'Subjects in school', 'PRINCETON AVENUE', 5
+'Subjects in school', '104 STREET', 43
+'Subjects in school', 'DOUGLASS STREET', 22
+'Subjects in school', 'WEST  107 STREET', 6
+'Subjects in school', 'WEST    7 STREET', 8
+'Subjects in school', 'EAST   75 STREET', 5
+'Subjects in school', 'EDSALL AVENUE', 7
+'Subjects in school', 'CREEDMOOR HOSPITAL BOUNDARY', 4
+'Subjects in school', 'ROCKLAND AVENUE', 39
+'Subjects in school', 'MULBERRY STREET', 13
+'Subjects in school', 'WICKLOW PLACE', 2
+'Subjects in school', 'RED OAK DRIVE', 2
+'Subjects in school', 'CAMPUS ROAD', 2
+'Subjects in school', 'BUSHWICK PLACE', 3
+'Subjects in school', '20 ROAD', 3
+'Subjects in school', 'NEWARK AVENUE', 9
+'Subjects in school', 'O GORMAN AVENUE', 8
+'Subjects in school', 'SHERMAN AVENUE', 81
+'Subjects in school', 'MONTEREY AVENUE', 4
+'Subjects in school', 'BUSHWICK AVENUE', 77
+'Subjects in school', 'EAST  146 STREET', 26
+'Subjects in school', 'HUXLEY STREET', 5
+'Subjects in school', 'INA STREET', 2
+'Subjects in school', 'YONA AVENUE', 8
+'Subjects in school', 'STROUD AVENUE', 8
+'Subjects in school', 'EAST FORDHAM ROAD', 20
+'Subjects in school', 'GULF AVENUE', 5
+'Subjects in school', 'SENECA LOOP', 4
+'Subjects in school', 'WEST   60 STREET', 1
+'Subjects in school', 'TILLMAN STREET', 3
+'Subjects in school', 'WEST  174 STREET', 3
+'Subjects in school', 'HUNTINGTON STREET', 2
+'Subjects in school', 'EAST  118 STREET', 2
+'Subjects in school', '104 ROAD', 2
+'Subjects in school', 'DENMAN STREET', 1
+'Subjects in school', 'WEST  237 STREET', 1
+'Subjects in school', 'WATKINS STREET', 14
+'Subjects in school', 'GRAND CENTRAL PARKWAY', 59
+'Subjects in school', 'VARICK AVENUE', 6
+'Subjects in school', 'SANFORD AVENUE', 6
+'Subjects in school', 'EAST  236 STREET', 6
+'Subjects in school', 'WHITE STREET', 45
+'Subjects in school', 'FERNDALE AVENUE', 5
+'Subjects in school', 'FORLEY STREET', 7
+'Subjects in school', 'DONLEY AVENUE', 7
+'Subjects in school', 'SEELEY LANE', 6
+'Subjects in school', '49 AVENUE', 8
+'Subjects in school', 'COTTER AVENUE', 1
+'Subjects in school', 'MAYVILLE STREET', 1
+'Subjects in school', 'COURT PLACE', 2
+'Subjects in school', 'WATERS PLACE', 15
+'Subjects in school', 'LOUISIANA AVENUE', 1
+'Subjects in school', 'LINDBERGH AVENUE', 3
+'Subjects in school', '134 STREET', 12
+'Subjects in school', 'FAIRVIEW PLACE', 9
+'Subjects in school', 'SEAGIRT AVENUE', 9
+'Subjects in school', 'LONG ISLAND RAILROAD', 167
+'Subjects in school', '268 STREET', 7
+'Subjects in school', 'WOLCOTT STREET', 9
+'Subjects in school', '123 STREET', 20
+'Subjects in school', 'HASBROUCK ROAD', 6
+'Subjects in school', 'KESSEL STREET', 6
+'Subjects in school', 'LEWIS AVENUE', 28
+'Subjects in school', '42 STREET', 8
+'Subjects in school', 'WOOSTER STREET', 10
+'Subjects in school', 'DOONE COURT', 8
+'Subjects in school', 'FOWLER AVENUE', 8
+'Subjects in school', 'JOE DIMAGGIO HIGHWAY', 6
+'Subjects in school', 'TELEPORT DRIVE', 9
+'Subjects in school', 'LINTON PLACE', 1
+'Subjects in school', 'GILLESPIE AVENUE', 21
+'Subjects in school', 'ST GEORGE ROAD', 25
+'Subjects in school', 'JUMEL STREET', 2
+'Subjects in school', 'HUNTINGTON AVENUE', 4
+'Subjects in school', 'HILLSIDE AVENUE', 92
+'Subjects in school', 'EAST TREMONT AVENUE', 52
+'Subjects in school', 'BAY   37 STREET', 3
+'Subjects in school', 'ST NICHOLAS AVENUE', 104
+'Subjects in school', 'HAVEN ESPLANADE', 39
+'Subjects in school', 'WEST  134 STREET', 8
+'Subjects in school', 'NARROWS ROAD NORTH', 7
+'Subjects in school', 'WEST  185 STREET', 3
+'Subjects in school', 'TODDY AVENUE', 9
+'Subjects in school', 'DECATUR AVENUE', 2
+'Subjects in school', 'DEEPDALE AVENUE', 6
+'Subjects in school', 'LYDIG AVENUE', 4
+'Subjects in school', 'MT OLIVET CEMETERY BOUNDARY', 4
+'Subjects in school', 'NORTH    3 STREET', 20
+'Subjects in school', 'WEST FORDHAM ROAD', 11
+'Subjects in school', '144 AVENUE', 12
+'Subjects in school', 'MANSE STREET', 4
+'Subjects in school', 'SPINNAKER DRIVE', 6
+'Subjects in school', 'EGBERT AVENUE', 8
+'Subjects in school', 'NORTH RANDALL AVENUE', 4
+'Subjects in school', 'ST JOHN'S AVENUE', 3
+'Subjects in school', 'WEST   19 STREET', 3
+'Subjects in school', '102 ROAD', 3
+'Subjects in school', 'NEWBURG STREET', 6
+'Subjects in school', 'SOUTH GREENLEAF AVENUE', 8
+'Subjects in school', 'WEST   35 STREET', 28
+'Subjects in school', 'EAST   41 STREET', 14
+'Subjects in school', 'ELTON STREET', 12
+'Subjects in school', 'WASHINGTON CEMETERY BOUNDARY', 4
+'Subjects in school', '128 STREET', 9
+'Subjects in school', 'MARIE COURT', 2
+'Subjects in school', 'CARNEGIE AVENUE', 5
+'Subjects in school', 'PECK SLIP', 28
+'Subjects in school', 'FIEDLER AVENUE', 1
+'Subjects in school', 'EAST   97 STREET', 3
+'Subjects in school', '56 AVENUE', 6
+'Subjects in school', 'PARKER STREET', 10
+'Subjects in school', 'MALTA STREET', 2
+'Subjects in school', 'KANSAS AVENUE', 4
+'Subjects in school', 'MARGARET STREET', 13
+'Subjects in school', 'WEST   23 STREET', 10
+'Subjects in school', 'CENTER STREET', 19
+'Subjects in school', 'FOSTER ROAD', 5
+'Subjects in school', 'MT MORRIS PARK WEST', 8
+'Subjects in school', 'MERRILL AVENUE', 4
+'Subjects in school', 'DEPPE PLACE', 2
+'Subjects in school', 'OLD MILL ROAD', 4
+'Subjects in school', 'PARK PLACE', 18
+'Subjects in school', 'EAGLE ROAD', 2
+'Subjects in school', 'VILLAGE ROAD', 1
+'Subjects in school', 'KANE STREET', 14
+'Subjects in school', 'ORLANDO STREET', 2
+'Subjects in school', 'GUERLAIN STREET', 12
+'Subjects in school', 'BESSEMER STREET', 4
+'Subjects in school', 'WILLIAMSBRIDGE ROAD', 6
+'Subjects in school', 'TAFT AVENUE', 4
+'Subjects in school', 'FENWAY CIRCLE', 6
+'Subjects in school', 'DOANE AVENUE', 3
+'Subjects in school', 'VAN CORTLANDT AVENUE EAST', 11
+'Subjects in school', 'MOULTRIE STREET', 10
+'Subjects in school', 'PURITAN AVENUE', 6
+'Subjects in school', 'BEACH   90 STREET', 3
+'Subjects in school', 'ROCKNE STREET', 2
+'Subjects in school', 'TONKING ROAD', 2
+'Subjects in school', 'FLORIDA TERRACE', 1
+'Subjects in school', 'RENO AVENUE', 1
+'Subjects in school', 'BRIGHTWATER COURT', 26
+'Subjects in school', 'SOUTH    3 STREET', 6
+'Subjects in school', 'SURF AVENUE', 117
+'Subjects in school', 'VISITATION PLACE', 6
+'Subjects in school', 'LANDER AVENUE', 18
+'Subjects in school', 'BROOKLYN QUEENS EXPRESSWAY EN SB', 1
+'Subjects in school', 'TREADWELL AVENUE', 2
+'Subjects in school', 'HARVARD AVENUE', 7
+'Subjects in school', 'POST ROAD', 8
+'Subjects in school', 'EAST  191 STREET', 47
+'Subjects in school', 'WILLMOHR STREET', 12
+'Subjects in school', 'MATHEWS AVENUE', 8
+'Subjects in school', 'CORNELL AVENUE', 2
+'Subjects in school', 'MC KENNY STREET', 1
+'Subjects in school', 'WEST END AVENUE', 357
+'Subjects in school', 'NORTH RAILROAD STREET', 2
+'Subjects in school', 'SMYRNA AVENUE', 1
+'Subjects in school', 'KENT AVENUE', 2
+'Subjects in school', 'POWER ROAD', 23
+'Subjects in school', 'AVENUE T', 40
+'Subjects in school', 'MANHATTAN BRIDGE', 49
+'Subjects in school', 'FDR DRIVE NB EN BROOKLYN BR', 1
+'Subjects in school', 'HOMELAWN STREET', 13
+'Subjects in school', 'HILLMAN AVENUE', 1
+'Subjects in school', 'LORTEL AVENUE', 3
+'Subjects in school', 'PALISADE STREET', 4
+'Subjects in school', 'DAHLGREN PLACE', 1
+'Subjects in school', 'HEATH AVENUE', 5
+'Subjects in school', 'GRAND CONCOURSE', 198
+'Subjects in school', 'LEROY STREET', 9
+'Subjects in school', 'BREHAUT AVENUE', 2
+'Subjects in school', 'DYER AVENUE', 45
+'Subjects in school', 'RICO PLACE', 8
+'Subjects in school', '65 STREET', 43
+'Subjects in school', 'CATALPA AVENUE', 25
+'Subjects in school', 'EAST    4 STREET', 18
+'Subjects in school', 'DRUMGOOLE ROAD WEST', 11
+'Subjects in school', 'CAPTAIN DENNIS MORALES WAY', 6
+'Subjects in school', 'VAN NEST AVENUE', 29
+'Subjects in school', 'MEMORIAL DRIVE', 2
+'Subjects in school', 'MARINE PARKWAY BR APPROACH', 5
+'Subjects in school', 'GOWANUS EXPRESSWAY WB EXIT   22', 17
+'Subjects in school', 'MIDDLETON STREET', 5
+'Subjects in school', '241 STREET', 4
+'Subjects in school', 'MAYFLOWER AVENUE', 31
+'Subjects in school', 'SZOLD PLACE', 4
+'Subjects in school', 'BARBARA STREET', 12
+'Subjects in school', 'JILLIAN COURT', 1
+'Subjects in school', 'MIDLAND AVENUE', 37
+'Subjects in school', 'BLOOMINGDALE ROAD', 13
+'Subjects in school', 'HEMPSTEAD AVENUE', 8
+'Subjects in school', 'PRINCE STREET', 173
+'Subjects in school', 'EAST   35 STREET', 17
+'Subjects in school', '130 STREET', 11
+'Subjects in school', 'SCHERMERHORN STREET', 9
+'Subjects in school', 'MELROSE AVENUE', 60
+'Subjects in school', 'LION STREET', 2
+'Subjects in school', 'SCHIEFFELIN AVENUE', 14
+'Subjects in school', 'BERT ROAD', 1
+'Subjects in school', 'SAUNDERS STREET', 26
+'Subjects in school', 'SUMMER STREET', 9
+'Subjects in school', '104 AVENUE', 6
+'Subjects in school', 'NEWELL STREET', 21
+'Subjects in school', 'MATILDA AVENUE', 5
+'Subjects in school', '41 STREET', 6
+'Subjects in school', 'GILES PLACE', 15
+'Subjects in school', 'GELSTON AVENUE', 3
+'Subjects in school', 'VIENNA COURT', 5
+'Subjects in school', '144 ROAD', 2
+'Subjects in school', 'FULLER STREET', 2
+'Subjects in school', 'ROCKWELL AVENUE', 2
+'Subjects in school', 'SEABURY PLACE', 2
+'Subjects in school', 'WEST  182 STREET', 8
+'Subjects in school', '70 ROAD', 11
+'Subjects in school', 'BEACON COURT', 2
+'Subjects in school', 'WEST  129 STREET', 4
+'Subjects in school', '137 AVENUE', 8
+'Subjects in school', 'WEST  164 STREET', 2
+'Subjects in school', '222 STREET', 18
+'Subjects in school', 'BARRETT PARK BOUNDARY', 2
+'Subjects in school', '57 ROAD', 2
+'Subjects in school', 'WEST  213 STREET', 2
+'Subjects in school', 'SHAD CREEK ROAD', 2
+'Subjects in school', 'PICADILLY PLACE', 5
+'Subjects in school', 'PEBBLE LANE', 4
+'Subjects in school', 'NARRAGANSETT AVENUE', 1
+'Subjects in school', 'MICHAEL COURT', 4
+'Subjects in school', 'RYAN PLACE', 3
+'Subjects in school', 'EXCHANGE PLACE', 29
+'Subjects in school', 'NORTHERN BOULEVARD', 211
+'Subjects in school', 'RIVERSIDE DRIVE', 122
+'Subjects in school', 'KOSCIUSKO STREET', 3
+'Subjects in school', 'VANDERBILT AVENUE', 83
+'Subjects in school', 'THOMAS STREET', 41
+'Subjects in school', 'OVIS PLACE', 2
+'Subjects in school', 'EDISON STREET', 4
+'Subjects in school', 'CROWN STREET', 12
+'Subjects in school', '40 ROAD', 2
+'Subjects in school', 'LOUIS NINE BOULEVARD', 10
+'Subjects in school', 'BELKNAP STREET', 2
+'Subjects in school', '115 AVENUE', 9
+'Subjects in school', 'EAST   25 STREET', 2
+'Subjects in school', 'NEW CALVARY CEMETERY BOUNDARY', 8
+'Subjects in school', 'BRIGHTON    8 STREET', 4
+'Subjects in school', 'LOTT LANE', 4
+'Subjects in school', 'BAY   11 STREET', 7
+'Subjects in school', 'BAY   54 STREET', 2
+'Subjects in school', 'NEWBOLD AVENUE', 5
+'Subjects in school', '73 PLACE', 2
+'Subjects in school', 'SHELTERVIEW DRIVE', 1
+'Subjects in school', 'BAYSIDE LANE', 4
+'Subjects in school', '9 STREET', 9
+'Subjects in school', 'KAPPOCK STREET', 13
+'Subjects in school', 'GRANT PLACE', 1
+'Subjects in school', 'MORTON STREET', 23
+'Subjects in school', 'BELL BOULEVARD', 14
+'Subjects in school', 'EAST    5 STREET', 27
+'Subjects in school', 'SUNSET AVENUE', 2
+'Subjects in school', 'SYLVAN AVENUE', 1
+'Subjects in school', 'WEST   96 STREET', 2
+'Subjects in school', 'HUNTER PLACE', 4
+'Subjects in school', 'EAST  242 STREET', 14
+'Subjects in school', 'LOGAN AVENUE', 5
+'Subjects in school', 'MIA DRIVE', 4
+'Subjects in school', 'COUNTRY DRIVE WEST', 1
+'Subjects in school', '73 AVENUE', 4
+'Subjects in school', '131 AVENUE', 8
+'Subjects in school', '267 STREET', 5
+'Subjects in school', 'BKLYN BATTERY TUNNEL', 132
+'Subjects in school', '10 AVENUE', 245
+'Subjects in school', 'C P EAST DRIVE', 42
+'Subjects in school', 'MASPETH AVENUE', 28
+'Subjects in school', 'DOVER STREET', 1
+'Subjects in school', 'EAST   80 STREET', 5
+'Subjects in school', 'EAST  233 STREET', 10
+'Subjects in school', 'HUXLEY AVENUE', 4
+'Subjects in school', 'BOLTON AVENUE', 1
+'Subjects in school', 'JOSEPH AVENUE', 6
+'Subjects in school', '46 STREET', 13
+'Subjects in school', 'GRACE CEMETERY BOUNDARY', 2
+'Subjects in school', 'NELSON STREET', 7
+'Subjects in school', '24 ROAD', 10
+'Subjects in school', 'MIDLAND PARKWAY', 6
+'Subjects in school', 'REV JAMES POLITE AVENUE', 4
+'Subjects in school', 'BRIGHAM STREET', 2
+'Subjects in school', 'EAST  175 STREET', 17
+'Subjects in school', 'LINCOLN STREET', 1
+'Subjects in school', 'YORK TERRACE', 4
+'Subjects in school', 'SCARBORO AVENUE', 1
+'Subjects in school', 'EAST  132 STREET', 5
+'Subjects in school', '56 STREET', 21
+'Subjects in school', 'WHITEHALL STREET', 15
+'Subjects in school', 'SPARK PLACE', 13
+'Subjects in school', 'HOME PLACE', 2
+'Subjects in school', '50 STREET', 22
+'Subjects in school', 'CONEY ISLAND AVENUE', 2
+'Subjects in school', 'ITHACA STREET', 4
+'Subjects in school', 'IDLEASE PLACE', 2
+'Subjects in school', 'WEST   14 ROAD', 1
+'Subjects in school', 'HOLMES LANE', 2
+'Subjects in school', '215 STREET', 16
+'Subjects in school', 'WEIR LANE', 6
+'Subjects in school', 'EAST   10 ROAD', 3
+'Subjects in school', 'HURON STREET', 3
+'Subjects in school', 'STODDARD PLACE', 8
+'Subjects in school', 'WITHERS STREET', 2
+'Subjects in school', 'GILLEN PLACE', 2
+'Subjects in school', '129 AVENUE', 6
+'Subjects in school', 'KINGSBOROUGH    2 WALK', 2
+'Subjects in school', 'NEW YORK AVENUE', 36
+'Subjects in school', 'ELMWOOD AVENUE', 1
+'Subjects in school', 'HARING STREET', 8
+'Subjects in school', 'TARGEE STREET', 22
+'Subjects in school', 'GATON STREET', 8
+'Subjects in school', '163 AVENUE', 7
+'Subjects in school', 'TARLTON STREET', 15
+'Subjects in school', 'WEST  175 STREET', 5
+'Subjects in school', 'EAST KINGSBRIDGE ROAD', 2
+'Subjects in school', '46 ROAD', 6
+'Subjects in school', 'PHEASANT LANE', 2
+'Subjects in school', 'WEST  191 STREET', 1
+'Subjects in school', 'GATLING PLACE', 3
+'Subjects in school', 'BEACH   86 STREET', 3
+'Subjects in school', 'TYSEN COURT', 5
+'Subjects in school', 'URSINA ROAD', 20
+'Subjects in school', 'WALKER COURT', 2
+'Subjects in school', '135 AVENUE', 7
+'Subjects in school', 'EAST   32 STREET', 8
+'Subjects in school', 'BRUCKNER EP WB EN SHERIDAN EP', 3
+'Subjects in school', 'BROOKLYN QUEENS EXPWY ET   44 WB', 1
+'Subjects in school', 'WALTON STREET', 21
+'Subjects in school', 'DREYER AVENUE', 5
+'Subjects in school', 'WEST  100 STREET', 7
+'Subjects in school', 'SPRINGFIELD BOULEVARD', 58
+'Subjects in school', 'THROOP AVENUE', 86
+'Subjects in school', '92 STREET', 32
+'Subjects in school', 'HUMPHREYS STREET', 10
+'Subjects in school', '20 AVENUE', 45
+'Subjects in school', 'EAST   24 STREET', 41
+'Subjects in school', 'EAST  228 STREET', 3
+'Subjects in school', 'BUCHANAN STREET', 26
+'Subjects in school', 'SANDERS PLACE', 4
+'Subjects in school', 'CAMBRIDGE AVENUE', 1
+'Subjects in school', 'GOTHIC DRIVE', 6
+'Subjects in school', '226 STREET', 8
+'Subjects in school', 'WEST   90 STREET', 2
+'Subjects in school', 'LENOX TERRACE PLACE', 6
+'Subjects in school', '120 STREET', 1
+'Subjects in school', 'ARKANSAS AVENUE', 2
+'Subjects in school', 'RIVER TERRACE', 6
+'Subjects in school', 'REVIEW PLACE', 8
+'Subjects in school', '66 ROAD', 11
+'Subjects in school', 'NORMAN AVENUE', 29
+'Subjects in school', 'CHURCH LANE', 20
+'Subjects in school', 'EAST    8 STREET', 19
+'Subjects in school', 'EAST HOUSTON STREET', 54
+'Subjects in school', 'AVENUE O', 6
+'Subjects in school', 'MINETTA STREET', 6
+'Subjects in school', '30 PLACE', 1
+'Subjects in school', 'C P WEST   67 APPROACH', 12
+'Subjects in school', '195 STREET', 15
+'Subjects in school', '70 AVENUE', 5
+'Subjects in school', 'SOUTH BEACH AVENUE', 2
+'Subjects in school', 'BARROW STREET', 3
+'Subjects in school', 'ST LAWRENCE AVENUE', 19
+'Subjects in school', '121 STREET', 21
+'Subjects in school', 'RANDOLPH PLACE', 2
+'Subjects in school', 'DEWEY AVENUE', 1
+'Subjects in school', 'EAST  206 STREET', 15
+'Subjects in school', 'ELLERY STREET', 4
+'Subjects in school', 'COENTIES SLIP', 2
+'Subjects in school', 'LUNDI COURT', 1
+'Subjects in school', '37 ROAD', 2
+'Subjects in school', 'EAST   85 STREET', 7
+'Subjects in school', 'FRANKLIN AVENUE', 54
+'Subjects in school', '138 STREET', 18
+'Subjects in school', 'JOEL PLACE', 9
+'Subjects in school', 'QUEENS PLAZA', 45
+'Subjects in school', '160 STREET', 30
+'Subjects in school', 'NORTH    7 STREET', 3
+'Subjects in school', 'WELLER AVENUE', 2
+'Subjects in school', 'ROOSEVELT AVENUE', 104
+'Subjects in school', 'LONG ISLAND EXPRESSWAY', 5
+'Subjects in school', 'DAVIS COURT', 3
+'Subjects in school', 'MOUNTAINVIEW AVENUE', 30
+'Subjects in school', '26 AVENUE', 11
+'Subjects in school', '218 STREET', 26
+'Subjects in school', 'TIFFANY STREET', 18
+'Subjects in school', 'DELAFIELD PLACE', 2
+'Subjects in school', 'DOMAIN STREET', 3
+'Subjects in school', 'EAST  188 STREET', 5
+'Subjects in school', '140 STREET', 3
+'Subjects in school', 'HENNING STREET', 2
+'Subjects in school', '178 STREET', 3
+'Subjects in school', '85 DRIVE', 14
+'Subjects in school', 'WALBROOKE AVENUE', 6
+'Subjects in school', 'ASHLAND AVENUE EAST', 2
+'Subjects in school', 'LAX AVENUE', 4
+'Subjects in school', 'PUTNAM AVENUE', 58
+'Subjects in school', '101 AVENUE', 66
+'Subjects in school', 'ST JAMES PLACE', 22
+'Subjects in school', 'WEST   64 STREET', 2
+'Subjects in school', 'WEST  227 STREET', 3
+'Subjects in school', 'SCHEFFELIN AVENUE', 5
+'Subjects in school', 'WARING AVENUE', 15
+'Subjects in school', 'WASHINGTON SQUARE WEST', 2
+'Subjects in school', 'RICE AVENUE', 6
+'Subjects in school', 'KINGSLAND AVENUE', 8
+'Subjects in school', 'ROMER ROAD', 4
+'Subjects in school', '10 STREET', 16
+'Subjects in school', 'BODY OF WATER', 299
+'Subjects in school', 'GREENPOINT AVENUE', 29
+'Subjects in school', 'KNICKERBOCKER AVENUE', 22
+'Subjects in school', 'SCHOLES STREET', 8
+'Subjects in school', 'TILDEN AVENUE', 27
+'Subjects in school', 'EAST   96 STREET', 7
+'Subjects in school', '169 STREET', 31
+'Subjects in school', '204 STREET', 8
+'Subjects in school', 'EARLEY PLACE', 6
+'Subjects in school', '14 STREET', 5
+'Subjects in school', 'WEST  130 STREET', 1
+'Subjects in school', '111 AVENUE', 12
+'Subjects in school', 'BROOKLYN BATTERY TUNNEL', 4
+'Subjects in school', '234 STREET', 8
+'Subjects in school', 'WOODHAVEN AVENUE', 3
+'Subjects in school', 'REED PLACE', 2
+'Subjects in school', 'MAC KAY PLACE', 10
+'Subjects in school', 'HENRY PLACE', 2
+'Subjects in school', 'ALLERTON AVENUE', 1
+'Subjects in school', 'RETNER STREET', 5
+'Subjects in school', 'EDINBORO ROAD', 11
+'Subjects in school', 'CONNOR AVENUE', 3
+'Subjects in school', 'CONDUIT BOULEVARD', 1
+'Subjects in school', 'AMTRAK RR', 84
+'Subjects in school', 'WEBSTER AVENUE', 130
+'Subjects in school', 'BROWN PLACE', 11
+'Subjects in school', 'MESEROLE STREET', 4
+'Subjects in school', 'WEEHAWKEN STREET', 4
+'Subjects in school', '2 STREET', 138
+'Subjects in school', 'WEST  135 STREET', 20
+'Subjects in school', 'EAST   84 STREET', 6
+'Subjects in school', 'EAST  164 STREET', 30
+'Subjects in school', 'SHALER AVENUE', 8
+'Subjects in school', 'MACY PLACE', 2
+'Subjects in school', 'VAN BRUNT STREET', 26
+'Subjects in school', 'BROOKLYN QUEENS EXPWY ET   40 EB', 2
+'Subjects in school', 'WEST  138 STREET', 17
+'Subjects in school', 'CANAL AVENUE', 5
+'Subjects in school', 'SHILOH AVENUE', 2
+'Subjects in school', 'CLARA STREET', 1
+'Subjects in school', 'MC DIVITT AVENUE', 4
+'Subjects in school', 'HOLLAND TUNNEL APPROACH', 3
+'Subjects in school', 'DOSCHER STREET', 3
+'Subjects in school', 'ADMIRAL AVENUE', 2
+'Subjects in school', 'SEVEN GABLES ROAD', 10
+'Subjects in school', 'CADMAN PLAZA EAST', 16
+'Subjects in school', '29 STREET', 29
+'Subjects in school', 'SIDNEY PLACE', 28
+'Subjects in school', 'HOPKINS AVENUE', 2
+'Subjects in school', 'WEST  127 STREET', 18
+'Subjects in school', 'BUCHANAN AVENUE', 2
+'Subjects in school', 'CALDWELL AVENUE', 10
+'Subjects in school', 'MERRYMOUNT STREET', 2
+'Subjects in school', 'GOVERNOR ROAD', 2
+'Subjects in school', 'ROCHELLE PLACE', 3
+'Subjects in school', 'MINNA STREET', 2
+'Subjects in school', 'WEST  240 STREET', 8
+'Subjects in school', 'BANTAM PLACE', 2
+'Subjects in school', 'GRYMES HILL ROAD', 23
+'Subjects in school', 'GREENWAY DRIVE', 4
+'Subjects in school', 'BEACH   69 STREET', 4
+'Subjects in school', 'NORTHFIELD AVENUE', 1
+'Subjects in school', 'WEST  204 STREET', 2
+'Subjects in school', 'RAGAZZI LANE', 1
+'Subjects in school', 'WASHINGTON STREET', 358
+'Subjects in school', 'QUEENS BOULEVARD', 223
+'Subjects in school', 'ST NICHOLAS TERRACE', 8
+'Subjects in school', 'WEST   24 STREET', 20
+'Subjects in school', 'WADSWORTH AVENUE', 7
+'Subjects in school', 'ASCAN AVENUE', 1
+'Subjects in school', 'VULCAN STREET', 3
+'Subjects in school', '205 STREET', 10
+'Subjects in school', 'GLOVER STREET', 2
+'Subjects in school', 'HARBORVIEW PLACE', 68
+'Subjects in school', 'LATHROP AVENUE', 2
+'Subjects in school', '119 ROAD', 8
+'Subjects in school', 'EDGEWOOD AVENUE', 4
+'Subjects in school', 'MEADOW ROAD', 1
+'Subjects in school', 'RECTOR PLACE', 1
+'Subjects in school', '34 ROAD', 2
+'Subjects in school', 'WEST   28 STREET', 9
+'Subjects in school', 'BAY   52 STREET', 3
+'Subjects in school', 'MARINETTE STREET', 12
+'Subjects in school', 'HEATH PLACE', 3
+'Subjects in school', 'EAST   57 PLACE', 1
+'Subjects in school', 'GRAVESEND NECK ROAD', 24
+'Subjects in school', 'EAST   86 STREET', 7
+'Subjects in school', 'VAN ALLEN AVENUE', 1
+'Subjects in school', 'HENRY HUDSON PARKWAY NB ET   13', 2
+'Subjects in school', 'BRUCKNER BOULEVARD', 8
+'Subjects in school', 'WEST   73 STREET', 1
+'Subjects in school', '118 STREET', 8
+'Subjects in school', '85 AVENUE', 26
+'Subjects in school', 'VANDALIA AVENUE', 21
+'Subjects in school', 'CHESTNUT PLACE', 6
+'Subjects in school', 'READE STREET', 6
+'Subjects in school', 'LEGION PLACE', 4
+'Subjects in school', 'GEORGE STREET', 6
+'Subjects in school', '38 STREET', 4
+'Subjects in school', '149 PLACE', 1
+'Subjects in school', 'PRINCESS STREET', 2
+'Subjects in school', 'CODDINGTON AVENUE', 2
+'Subjects in school', 'SI RAPID TRANSIT', 56
+'Subjects in school', 'RIDGECREST TERRACE', 20
+'Subjects in school', '103 STREET', 28
+'Subjects in school', 'LAWTON AVENUE', 3
+'Subjects in school', 'FARRAGUT ROAD', 4
+'Subjects in school', '199 STREET', 7
+'Subjects in school', '15 ROAD', 20
+'Subjects in school', 'MONROE STREET', 15
+'Subjects in school', 'LISPENARD STREET', 2
+'Subjects in school', 'WEST AVENUE', 7
+'Subjects in school', '63 DRIVE', 18
+'Subjects in school', 'DELAFIELD AVENUE', 15
+'Subjects in school', 'EAGLE STREET', 1
+'Subjects in school', 'MOSHOLU PARKWAY', 15
+'Subjects in school', '164 AVENUE', 4
+'Subjects in school', 'SHAUGHNESSY LANE', 7
+'Subjects in school', 'REDMOND AVENUE', 2
+'Subjects in school', '36 ROAD', 2
+'Subjects in school', '81 AVENUE', 9
+'Subjects in school', 'MARNE AVENUE', 2
+'Subjects in school', 'ENGLEWOOD AVENUE', 9
+'Subjects in school', '79 AVENUE', 3
+'Subjects in school', 'SCOTT AVENUE', 8
+'Subjects in school', 'BEACH   92 STREET', 2
+'Subjects in school', 'LA GUARDIA AVENUE', 4
+'Subjects in school', 'TENBROECK AVENUE', 6
+'Subjects in school', 'MAIN AVENUE', 4
+'Subjects in school', 'WEST  139 STREET', 6
+'Subjects in school', 'CURZON ROAD', 13
+'Subjects in school', 'EINSTEIN LOOP', 8
+'Subjects in school', 'NORTH RAMP VIADUCT', 2
+'Subjects in school', 'WEST  167 STREET', 1
+'Subjects in school', 'TRINITY PLACE', 73
+'Subjects in school', 'EAST   38 STREET', 11
+'Subjects in school', 'EAST  196 STREET', 28
+'Subjects in school', '83 STREET', 32
+'Subjects in school', 'WEST  125 STREET', 7
+'Subjects in school', 'NOEL AVENUE', 2
+'Subjects in school', '30 AVENUE', 49
+'Subjects in school', 'CASWELL AVENUE', 8
+'Subjects in school', 'BURKE AVENUE', 2
+'Subjects in school', 'MERLE PLACE', 2
+'Subjects in school', '244 STREET', 4
+'Subjects in school', 'JARDINE PLACE', 6
+'Subjects in school', 'HEENAN AVENUE', 2
+'Subjects in school', 'JOHN F KENNEDY EXPRESSWAY', 6
+'Subjects in school', 'DENNIS STREET', 4
+'Subjects in school', 'REVERE AVENUE', 10
+'Subjects in school', 'CROMWELL AVENUE', 2
+'Subjects in school', 'LOIS LANE', 1
+'Subjects in school', 'WILLETT STREET', 1
+'Subjects in school', 'ARLINGTON PLACE', 1
+'Subjects in school', 'PARK AVENUE SOUTH', 262
+'Subjects in school', 'UNION SQUARE EAST', 12
+'Subjects in school', '35 AVENUE', 171
+'Subjects in school', 'VANDAM STREET', 23
+'Subjects in school', '35 STREET', 8
+'Subjects in school', 'WELLER LANE', 1
+'Subjects in school', 'GARFIELD PLACE', 6
+'Subjects in school', 'SOUNDVIEW AVENUE', 13
+'Subjects in school', 'CARPENTER AVENUE', 8
+'Subjects in school', 'BREVOORT PLACE', 4
+'Subjects in school', 'WATERFORD COURT', 8
+'Subjects in school', 'SOUTH CONDUIT AVENUE EXIT EB', 2
+'Subjects in school', 'FORT HILL CIRCLE', 1
+'Subjects in school', 'ALVINE AVENUE', 2
+'Subjects in school', 'LUNA CIRCLE', 1
+'Subjects in school', 'OLD TOWN ROAD', 1
+'Subjects in school', 'EAST  139 STREET', 28
+'Subjects in school', 'CLASSON AVENUE', 2
+'Subjects in school', 'KINGSBOROUGH    6 WALK', 1
+'Subjects in school', 'SUMPTER STREET', 27
+'Subjects in school', 'EAST  169 STREET', 26
+'Subjects in school', 'MELBA STREET', 14
+'Subjects in school', 'NICHOLAS AVENUE', 1
+'Subjects in school', 'EDWIN STREET', 2
+'Subjects in school', '85 ROAD', 12
+'Subjects in school', 'ENDVIEW STREET', 6
+'Subjects in school', 'WILLOW AVENUE', 7
+'Subjects in school', 'LANCASTER AVENUE', 10
+'Subjects in school', 'BEACH   31 STREET', 4
+'Subjects in school', 'BAY   17 STREET', 7
+'Subjects in school', 'CARO STREET', 2
+'Subjects in school', 'FTELEY AVENUE', 20
+'Subjects in school', 'EAST NEW YORK AVENUE', 4
+'Subjects in school', 'CROTONA PARK NORTH', 2
+'Subjects in school', 'HENWOOD PLACE', 3
+'Subjects in school', 'COMBS AVENUE', 1
+'Subjects in school', 'GOWANUS EXPRESSWAY', 4
+'Subjects in school', 'DUBOIS AVENUE', 2
+'Subjects in school', 'MILL ROAD', 6
+'Subjects in school', 'STANTON STREET', 161
+'Subjects in school', '60 ROAD', 15
+'Subjects in school', 'LOIS AVENUE', 2
+'Subjects in school', '2 AVENUE', 350
+'Subjects in school', 'CARLTON BOULEVARD', 6
+'Subjects in school', '23 STREET', 34
+'Subjects in school', '107 AVENUE', 7
+'Subjects in school', 'POST LANE', 9
+'Subjects in school', 'GROTE STREET', 5
+'Subjects in school', 'GOETHALS AVENUE', 3
+'Subjects in school', 'COLES LANE', 1
+'Subjects in school', 'EAST  124 STREET', 10
+'Subjects in school', '153 AVENUE', 2
+'Subjects in school', 'ARNOLD STREET', 2
+'Subjects in school', 'WEST  234 STREET', 6
+'Subjects in school', 'PRICES LANE', 6
+'Subjects in school', 'SI EXPRESSWAY ENTRANCE EB', 1
+'Subjects in school', 'WILLOW PLACE', 4
+'Subjects in school', 'LUTHERAN CEMETERY BOUNDARY', 12
+'Subjects in school', 'HOPE LANE', 9
+'Subjects in school', 'EAST  204 STREET', 14
+'Subjects in school', 'COTTONTAIL COURT', 2
+'Subjects in school', 'JANET PLACE', 12
+'Subjects in school', 'VAN ZANDT AVENUE', 8
+'Subjects in school', 'HORACE HARDING EXPRESSWAY', 98
+'Subjects in school', '6 STREET', 4
+'Subjects in school', '37 STREET', 10
+'Subjects in school', '149 STREET', 35
+'Subjects in school', 'LIVINGSTON AVENUE', 5
+'Subjects in school', 'RAYMOND PLACE', 8
+'Subjects in school', '182 STREET', 3
+'Subjects in school', '17 ROAD', 7
+'Subjects in school', '143 STREET', 8
+'Subjects in school', 'PRINCETON STREET', 20
+'Subjects in school', 'TOTTEN STREET', 2
+'Subjects in school', 'GUINZBURG ROAD', 2
+'Subjects in school', 'MC KIBBIN STREET', 10
+'Subjects in school', 'WEST   91 STREET', 2
+'Subjects in school', '40 STREET', 4
+'Subjects in school', 'LAMBERTS LANE', 1
+'Subjects in school', 'CENTER BOULEVARD', 50
+'Subjects in school', '2 PLACE', 1
+'Subjects in school', 'BURDEN CRESCENT', 2
+'Subjects in school', 'BRIGHTON    3 STREET', 11
+'Subjects in school', 'PALISADE AVENUE', 6
+'Subjects in school', 'HARLEM RIVER DRIVE', 127
+'Subjects in school', 'WEST   40 STREET', 4
+'Subjects in school', 'I  678', 18
+'Subjects in school', 'DORCHESTER ROAD', 13
+'Subjects in school', 'UNIVERSITY PLACE', 71
+'Subjects in school', '149 AVENUE', 2
+'Subjects in school', 'FOREST STREET', 5
+'Subjects in school', 'VAN SINDEREN AVENUE', 30
+'Subjects in school', 'WEST   72 STREET', 2
+'Subjects in school', 'EAST   13 STREET', 8
+'Subjects in school', 'EAST   92 STREET', 9
+'Subjects in school', 'EAST  151 STREET', 20
+'Subjects in school', 'ELLWELL CRESCENT', 4
+'Subjects in school', 'WEST THAMES STREET', 4
+'Subjects in school', 'SEA GATE ROAD', 5
+'Subjects in school', '64 ROAD', 4
+'Subjects in school', 'ONEIL PLACE', 9
+'Subjects in school', 'WILLOW ROAD EAST', 1
+'Subjects in school', 'WILSON VIEW PLACE', 8
+'Subjects in school', '15 DRIVE', 2
+'Subjects in school', 'CAMBRIA STREET', 1
+'Subjects in school', 'WEAVER STREET', 2
+'Subjects in school', 'YELLOWSTONE BOULEVARD', 77
+'Subjects in school', 'FISHER AVENUE', 2
+'Subjects in school', 'HEWES STREET', 1
+'Subjects in school', 'HAMILTON AVENUE', 17
+'Subjects in school', 'MOORE STREET', 42
+'Subjects in school', 'TRAFFIC AVENUE', 2
+'Subjects in school', 'LORRAINE AVENUE', 3
+'Subjects in school', 'SHERWOOD PLACE', 15
+'Subjects in school', '27 STREET', 2
+'Subjects in school', 'FENTON AVENUE', 6
+'Subjects in school', 'WILLOW ROAD WEST', 6
+'Subjects in school', 'OVID PLACE', 4
+'Subjects in school', 'VLEIGH PLACE', 6
+'Subjects in school', 'OLYMPIA BOULEVARD', 34
+'Subjects in school', 'ONDERDONK AVENUE', 25
+'Subjects in school', 'WOODSIDE AVENUE', 58
+'Subjects in school', 'FARMERS BOULEVARD', 17
+'Subjects in school', 'EAST   21 STREET', 18
+'Subjects in school', 'DIVISION STREET', 5
+'Subjects in school', 'EAST  156 STREET', 84
+'Subjects in school', 'PLIMPTON AVENUE', 3
+'Subjects in school', 'SILVER BEACH DRIVE', 4
+'Subjects in school', 'THIRD AVENUE BRIDGE', 4
+'Subjects in school', 'ELLIS PLACE', 2
+'Subjects in school', 'WEST  233 STREET', 4
+'Subjects in school', 'NORTHENTRY ROAD', 2
+'Subjects in school', 'VIELE AVENUE', 1
+'Subjects in school', 'SEGUINE PLACE', 4
+'Subjects in school', 'RIGBY AVENUE', 18
+'Subjects in school', 'RONALD AVENUE', 4
+'Subjects in school', 'BEEKMAN PLACE', 2
+'Subjects in school', 'VILLAGE ROAD SOUTH', 2
+'Subjects in school', 'PETER AVENUE', 6
+'Subjects in school', 'HYLAN BOULEVARD', 82
+'Subjects in school', 'PLATT STREET', 35
+'Subjects in school', 'BAY   41 STREET', 8
+'Subjects in school', 'RICHMOND PARKWAY EXIT WB', 6
+'Subjects in school', 'CLAREMONT AVENUE', 4
+'Subjects in school', 'C P WEST DRIVE', 8
+'Subjects in school', 'HUGHES AVENUE', 40
+'Subjects in school', 'VERONICA PLACE', 9
+'Subjects in school', 'PATTERSON AVENUE', 13
+'Subjects in school', 'KEW FOREST LANE', 6
+'Subjects in school', 'MAINE AVENUE', 18
+'Subjects in school', 'INWOOD HILL PARK BOUNDARY', 1
+'Subjects in school', 'MADISON PLACE', 1
+'Subjects in school', 'READS LANE', 2
+'Subjects in school', 'HOLDRIDGE AVENUE', 3
+'Subjects in school', 'FAIRMOUNT PLACE', 2
+'Subjects in school', 'WESTCOTT BOULEVARD', 8
+'Subjects in school', 'RENE COURT', 2
+'Subjects in school', 'KINGS HIGHWAY', 117
+'Subjects in school', 'IRVING PLACE', 63
+'Subjects in school', 'SENECA AVENUE', 65
+'Subjects in school', 'MARTENSE STREET', 15
+'Subjects in school', 'SNEDIKER AVENUE', 8
+'Subjects in school', 'WEST   68 STREET', 1
+'Subjects in school', '21 AVENUE', 44
+'Subjects in school', 'NORTON AVENUE', 5
+'Subjects in school', 'BLEECKER STREET', 26
+'Subjects in school', 'TYNAN STREET', 4
+'Subjects in school', 'RYE AVENUE', 3
+'Subjects in school', 'LEVERETT AVENUE', 10
+'Subjects in school', 'FOUNTAIN AVENUE', 82
+'Subjects in school', 'MADELINE COURT', 4
+'Subjects in school', 'ROBERTSON STREET', 4
+'Subjects in school', 'WEST  106 STREET', 4
+'Subjects in school', 'PARKINSON AVENUE', 2
+'Subjects in school', 'SCHORR PLACE', 4
+'Subjects in school', 'VILLA AVENUE', 20
+'Subjects in school', 'JOHNSTON TERRACE', 4
+'Subjects in school', 'FISKE PLACE', 1
+'Subjects in school', 'ADAM COURT', 2
+'Subjects in school', 'GUNNISON COURT', 7
+'Subjects in school', 'GRIMSBY STREET', 4
+'Subjects in school', '137 STREET', 1
+'Subjects in school', 'TIMPSON PLACE', 32
+'Subjects in school', 'WINTHROP STREET', 23
+'Subjects in school', '168 STREET', 19
+'Subjects in school', 'ELDER AVENUE', 8
+'Subjects in school', 'NORTH MADA AVENUE', 4
+'Subjects in school', 'LYON AVENUE', 9
+'Subjects in school', 'SPENCER DRIVE', 4
+'Subjects in school', 'BAY   43 STREET', 3
+'Subjects in school', 'TOKEN STREET', 4
+'Subjects in school', 'MERMAID AVENUE', 2
+'Subjects in school', 'CRAWFORD AVENUE', 3
+'Subjects in school', 'POWELL STREET', 6
+'Subjects in school', 'MILL STREET', 15
+'Subjects in school', 'NEW DORP LANE', 3
+'Subjects in school', 'CLARENDON ROAD', 17
+'Subjects in school', '5 AVENUE', 174
+'Subjects in school', '131 STREET', 10
+'Subjects in school', 'BRONXWOOD AVENUE', 18
+'Subjects in school', 'WEST   11 STREET', 20
+'Subjects in school', 'TEMPLE COURT', 1
+'Subjects in school', '33 STREET', 41
+'Subjects in school', 'EAST  111 STREET', 3
+'Subjects in school', 'VERMONT COURT', 6
+'Subjects in school', 'BENNETT STREET', 3
+'Subjects in school', 'BARROW PLACE', 1
+'Subjects in school', 'WEST   97 STREET', 2
+'Subjects in school', 'GOWANUS EXPWY WB EN ERIK PLCE', 1
+'Subjects in school', 'HERVEY STREET', 2
+'Subjects in school', '133 ROAD', 2
+'Subjects in school', 'WEST CEDARVIEW AVENUE', 35
+'Subjects in school', 'LYMAN AVENUE', 1
+'Subjects in school', 'BURGHER AVENUE', 2
+'Subjects in school', 'PARK AVENUE', 1156
+'Subjects in school', 'PROSPECT PLACE', 16
+'Subjects in school', 'NUGENT AVENUE', 9
+'Subjects in school', '12 AVENUE', 343
+'Subjects in school', 'HERKIMER STREET', 37
+'Subjects in school', 'LEE AVENUE', 11
+'Subjects in school', 'SPRING STREET', 190
+'Subjects in school', 'EAST   58 STREET', 5
+'Subjects in school', 'WEST  180 STREET', 9
+'Subjects in school', '66 STREET', 21
+'Subjects in school', 'WHITTIER STREET', 9
+'Subjects in school', 'DEVON AVENUE', 2
+'Subjects in school', 'PALMETTO STREET', 32
+'Subjects in school', 'EAST  157 STREET', 20
+'Subjects in school', '225 STREET', 7
+'Subjects in school', 'BEACH   30 STREET', 2
+'Subjects in school', 'WEST  103 STREET', 40
+'Subjects in school', '155 AVENUE', 2
+'Subjects in school', 'LIGHTHOUSE DRIVE', 4
+'Subjects in school', 'BEACH   28 STREET', 2
+'Subjects in school', '153 LANE', 2
+'Subjects in school', 'NANSEN STREET', 2
+'Subjects in school', 'BURNETT PLACE', 1
+'Subjects in school', 'NUTLEY PLACE', 8
+'Subjects in school', 'BETHEL AVENUE', 4
+'Subjects in school', 'QNS MDTWN TUNNEL EXIT', 1
+'Subjects in school', 'FOX HUNT COURT', 6
+'Subjects in school', 'TOMPKINS AVENUE', 114
+'Subjects in school', 'WHITLOCK AVENUE', 13
+'Subjects in school', '43 STREET', 8
+'Subjects in school', 'COOK STREET', 17
+'Subjects in school', '95 AVENUE', 5
+'Subjects in school', 'DALNY ROAD', 1
+'Subjects in school', 'CLINTONVILLE STREET', 27
+'Subjects in school', '139 STREET', 1
+'Subjects in school', 'LARCH COURT', 2
+'Subjects in school', '28 STREET', 34
+'Subjects in school', 'LINCOLN ROAD', 2
+'Subjects in school', 'VINCENT AVENUE', 2
+'Subjects in school', 'WEST  214 STREET', 4
+'Subjects in school', 'MC KEEVER PLACE', 8
+'Subjects in school', 'SABRINA LANE', 6
+'Subjects in school', 'OLIVE STREET', 6
+'Subjects in school', 'KNOX PLACE', 5
+'Subjects in school', 'PEROT STREET', 4
+'Subjects in school', 'SHORE PARKWAY', 93
+'Subjects in school', 'EAST   17 STREET', 26
+'Subjects in school', 'NORTH   15 STREET', 6
+'Subjects in school', 'DRAKE PARK SOUTH', 3
+'Subjects in school', 'COLLEGE POINT BOULEVARD', 23
+'Subjects in school', '253 STREET', 4
+'Subjects in school', '72 STREET', 56
+'Subjects in school', '202 STREET', 25
+'Subjects in school', 'THAYER PLACE', 4
+'Subjects in school', 'VWE NB ENTRANCE COLLEGE PNT BLVD', 2
+'Subjects in school', 'VAN PELT AVENUE', 6
+'Subjects in school', 'EAST   83 STREET', 6
+'Subjects in school', 'NEREID AVENUE', 28
+'Subjects in school', 'GOWANUS EXPRESSWAY EB EXIT   21', 6
+'Subjects in school', 'SHORE BOULEVARD', 3
+'Subjects in school', 'LUX ROAD', 4
+'Subjects in school', '191 STREET', 3
+'Subjects in school', 'WOODROW ROAD', 6
+'Subjects in school', 'MATTHEWS AVENUE', 4
+'Subjects in school', 'KIMBALL STREET', 2
+'Subjects in school', 'ROCKWELL PLACE', 6
+'Subjects in school', 'HOLLYWOOD AVENUE', 12
+'Subjects in school', 'ROCKAWAY AVENUE', 28
+'Subjects in school', 'COLUMBUS AVENUE', 263
+'Subjects in school', 'SOUTH    4 STREET', 8
+'Subjects in school', 'GEM STREET', 8
+'Subjects in school', '249 STREET', 3
+'Subjects in school', 'VETERANS ROAD EAST', 2
+'Subjects in school', 'WEST  159 STREET', 1
+'Subjects in school', 'PINEGROVE STREET', 10
+'Subjects in school', 'THIERIOT AVENUE', 16
+'Subjects in school', 'POST AVENUE', 40
+'Subjects in school', 'BRIGHTON AVENUE', 6
+'Subjects in school', 'NECKAR AVENUE', 4
+'Subjects in school', 'UTAH WALK', 4
+'Subjects in school', 'ORINOCO PLACE', 2
+'Subjects in school', 'ANDREWS AVENUE', 1
+'Subjects in school', 'CULLODEN PLACE', 2
+'Subjects in school', 'PIAVE AVENUE', 6
+'Subjects in school', 'SUMMERFIELD PLACE', 1
+'Subjects in school', 'BRIGHTON    1 TERRACE', 3
+'Subjects in school', 'BLAKE COURT', 1
+'Subjects in school', 'AVENUE S', 12
+'Subjects in school', 'EAST  189 STREET', 5
+'Subjects in school', 'WEST  133 STREET', 1
+'Subjects in school', 'WEST   65 STREET', 3
+'Subjects in school', 'MORRIS AVENUE', 62
+'Subjects in school', 'CLEARVIEW EXPRESSWAY', 16
+'Subjects in school', 'LOSEE TERRACE', 4
+'Subjects in school', 'LEFFERTS AVENUE', 7
+'Subjects in school', 'WEST   14 STREET', 4
+'Subjects in school', 'WILDER AVENUE', 80
+'Subjects in school', 'GRACE AVENUE', 8
+'Subjects in school', 'WAYNE STREET', 3
+'Subjects in school', 'CARLTON PLACE', 4
+'Subjects in school', 'WILLIAMSBURG ST EAST', 3
+'Subjects in school', 'SILVER ROAD', 2
+'Subjects in school', 'SULLIVAN STREET', 8
+'Subjects in school', 'W SHR EXPWY NB EN ARTHUR KILL RD', 2
+'Subjects in school', '198 STREET', 7
+'Subjects in school', 'STERLING PLACE', 29
+'Subjects in school', '217 STREET', 17
+'Subjects in school', 'WATERS AVENUE', 6
+'Subjects in school', '45 ROAD', 8
+'Subjects in school', 'HANOVER PLACE', 10
+'Subjects in school', 'SLOAN STREET', 2
+'Subjects in school', 'NEEDHAM AVENUE', 8
+'Subjects in school', 'GARDNER AVENUE', 1
+'Subjects in school', 'LUQUER STREET', 3
+'Subjects in school', 'KEIBER COURT', 4
+'Subjects in school', 'RICHARDSON STREET', 10
+'Subjects in school', 'DELANOY AVENUE', 1
+'Subjects in school', 'MATHEWSON COURT', 4
+'Subjects in school', 'SIMONSON AVENUE', 11
+'Subjects in school', 'DAVIS AVENUE', 1
+'Subjects in school', 'ELIZABETH AVENUE', 3
+'Subjects in school', 'QUEEN STREET', 40
+'Subjects in school', 'VESEY STREET', 7
+'Subjects in school', 'MANHATTAN AVENUE', 109
+'Subjects in school', 'MAYBURY COURT', 4
+'Subjects in school', 'CARY COURT', 6
+'Subjects in school', 'PARKWOOD AVENUE', 8
+'Subjects in school', 'CLINTON STREET', 12
+'Subjects in school', 'FRANKLIN STREET', 1
+'Subjects in school', 'POMANDER WALK', 6
+'Subjects in school', 'MINERVA PLACE', 28
+'Subjects in school', 'WINTER AVENUE', 4
+'Subjects in school', 'TRINITY AVENUE', 30
+'Subjects in school', 'FORD STREET', 7
+'Subjects in school', 'ROSE FEISS BOULEVARD', 1
+'Subjects in school', 'MC GRAW AVENUE', 4
+'Subjects in school', 'KELLY BOULEVARD', 4
+'Subjects in school', 'LA FORGE PLACE', 2
+'Subjects in school', 'INWOOD ROAD', 1
+'Subjects in school', 'CLVELAKE EXPWY EN EB', 2
+'Subjects in school', 'FORT GEORGE HILL', 1
+'Subjects in school', 'LANDIS AVENUE', 3
+'Subjects in school', 'VAN CORTLANDT PARK EAST', 2
+'Subjects in school', 'NASSAU AVENUE', 28
+'Subjects in school', 'QUENTIN ROAD', 52
+'Subjects in school', 'LINCOLN TUNNEL APPROACH', 6
+'Subjects in school', '82 STREET', 26
+'Subjects in school', 'VICTORY BOULEVARD', 89
+'Subjects in school', '181 STREET', 7
+'Subjects in school', 'LOVE LANE', 5
+'Subjects in school', 'GUNTHER AVENUE', 3
+'Subjects in school', '19 STREET', 5
+'Subjects in school', 'BRIELLE AVENUE', 4
+'Subjects in school', 'BURLING STREET', 2
+'Subjects in school', '111 ROAD', 4
+'Subjects in school', 'WILCOX AVENUE', 4
+'Subjects in school', 'WEST  238 STREET', 25
+'Subjects in school', 'EAST FIGUREA AVENUE', 1
+'Subjects in school', 'SHEA ROAD', 8
+'Subjects in school', 'THE BOULEVARD', 2
+'Subjects in school', 'NURGE AVENUE', 4
+'Subjects in school', 'GCP EB EXIT    9 EAST', 1
+'Subjects in school', 'SWINTON AVENUE', 4
+'Subjects in school', 'WEST  195 STREET', 8
+'Subjects in school', '156 AVENUE', 8
+'Subjects in school', 'ROSS AVENUE', 7
+'Subjects in school', 'BAY PARKWAY', 59
+'Subjects in school', '61 AVENUE', 3
+'Subjects in school', 'WEST  120 STREET', 12
+'Subjects in school', 'WATTS STREET', 15
+'Subjects in school', 'INGRAHAM STREET', 7
+'Subjects in school', 'KEATS STREET', 2
+'Subjects in school', 'CEDAR STREET', 2
+'Subjects in school', '102 AVENUE', 8
+'Subjects in school', 'STEINWAY AVENUE', 2
+'Subjects in school', 'CEBRA AVENUE', 16
+'Subjects in school', 'NETHERLAND AVENUE', 19
+'Subjects in school', 'FLATBUSH AVENUE', 90
+'Subjects in school', 'ROGERS AVENUE', 115
+'Subjects in school', 'WEST   38 STREET', 5
+'Subjects in school', 'ISABELLA AVENUE', 24
+'Subjects in school', '92 AVENUE', 14
+'Subjects in school', 'RIEDEL AVENUE', 6
+'Subjects in school', '251 STREET', 4
+'Subjects in school', 'WASHINGTON PLACE', 20
+'Subjects in school', 'RIVERSIDE BOULEVARD', 2
+'Subjects in school', 'EAST BURNSIDE AVENUE', 107
+'Subjects in school', 'LAREDO AVENUE', 4
+'Subjects in school', 'HEWITT PLACE', 2
+'Subjects in school', '77 ROAD', 5
+'Subjects in school', '33 ROAD', 3
+'Subjects in school', 'NEWTOWN AVENUE', 10
+'Subjects in school', 'ST ANNS AVENUE', 34
+'Subjects in school', 'COMMERCE STREET', 10
+'Subjects in school', 'BRISBIN STREET', 4
+'Subjects in school', 'BRANDIS LANE', 3
+'Subjects in school', 'EAST  243 STREET', 2
+'Subjects in school', '53 ROAD', 17
+'Subjects in school', '238 STREET', 2
+'Subjects in school', 'BISMARK AVENUE', 1
+'Subjects in school', 'WEST  151 STREET', 3
+'Subjects in school', 'GLEASON AVENUE', 3
+'Subjects in school', 'MELYN PLACE', 13
+'Subjects in school', '262 STREET', 8
+'Subjects in school', 'MARATHON PARKWAY', 21
+'Subjects in school', 'METROPOLITAN AVENUE', 64
+'Subjects in school', 'SOUTH STREET', 159
+'Subjects in school', 'ROCKAWAY PARKWAY', 26
+'Subjects in school', 'TARRING STREET', 4
+'Subjects in school', '78 AVENUE', 3
+'Subjects in school', '58 AVENUE', 29
+'Subjects in school', 'JULES DRIVE', 6
+'Subjects in school', 'NIPPON AVENUE', 6
+'Subjects in school', 'WELLBROOK AVENUE', 20
+'Subjects in school', 'MACOMBS ROAD', 5
+'Subjects in school', '146 ROAD', 2
+'Subjects in school', 'WEST  112 STREET', 3
+'Subjects in school', '146 TERRACE', 1
+'Subjects in school', 'OCEAN PROMENADE', 3
+'Subjects in school', 'HAVENWOOD ROAD', 11
+'Subjects in school', '21 DRIVE', 1
+'Subjects in school', '235 STREET', 6
+'Subjects in school', 'TIBBETT AVENUE', 2
+'Subjects in school', 'ROSE AVENUE', 11
+'Subjects in school', 'AVENUE K', 37
+'Subjects in school', 'SHUBERT ALLEY', 16
+'Subjects in school', 'SCHENCK AVENUE', 19
+'Subjects in school', '52 STREET', 15
+'Subjects in school', 'WHEELER AVENUE', 13
+'Subjects in school', '141 AVENUE', 4
+'Subjects in school', 'ELIZABETH STREET', 8
+'Subjects in school', 'BELT PARKWAY EXIT   17 NORTH WB', 2
+'Subjects in school', 'WINGHAM STREET', 6
+'Subjects in school', 'DAWSON CIRCLE', 13
+'Subjects in school', 'MESEROLE AVENUE', 25
+'Subjects in school', 'RIDGEWOOD AVENUE', 74
+'Subjects in school', 'WILEY PLACE', 2
+'Subjects in school', 'EAST  140 STREET', 39
+'Subjects in school', 'BERRY STREET', 21
+'Subjects in school', 'OBRIEN AVENUE', 2
+'Subjects in school', 'WEST  116 STREET', 8
+'Subjects in school', 'DEBEVOISE STREET', 20
+'Subjects in school', 'SULLIVAN PLACE', 5
+'Subjects in school', 'SOUTH    5 PLACE', 6
+'Subjects in school', 'STUART STREET', 3
+'Subjects in school', 'SELKIRK STREET', 2
+'Subjects in school', 'LITTLE WEST   12 STREET', 20
+'Subjects in school', 'MELROSE STREET', 29
+'Subjects in school', '117 STREET,', 13
+'Subjects in school', 'OXFORD PLACE,', 9
+'Subjects in school', 'HEYWARD STREET,', 5
+'Subjects in school', 'HOPE AVENUE,', 10
+'Subjects in school', 'WEST   21 STREET,', 8
+'Subjects in school', 'LIBERTY AVENUE,', 322
+'Subjects in school', '85 STREET,', 44
+'Subjects in school', '34 AVENUE,', 22
+'Subjects in school', 'EAST   72 STREET,', 8
+'Subjects in school', '172 STREET,', 14
+'Subjects in school', 'EAST  18 STREET,', 4
+'Subjects in school', 'GUIDER AVENUE,', 5
+'Subjects in school', 'EAST   94 STREET,', 6
+'Subjects in school', '22 AVENUE,', 7
+'Subjects in school', '182 PLACE,', 4
+'Subjects in school', 'PARK LANE SOUTH,', 8
+'Subjects in school', 'OLCOTT STREET,', 4
+'Subjects in school', 'HAWTREE CREEK ROAD,', 2
+'Subjects in school', '47 STREET,', 15
+'Subjects in school', 'ELLICOTT PLACE,', 2
+'Subjects in school', 'WEST  192 STREET,', 4
+'Subjects in school', 'PARK TERRACE EAST,', 2
+'Subjects in school', 'METRO NORTH RR,', 2
+'Subjects in school', 'NORTH PORTLAND AVENUE,', 10
+'Subjects in school', 'GWENN LOOP,', 4
+'Subjects in school', 'LYNHURST AVENUE,', 13
+'Subjects in school', 'WHITAKER PLACE,', 4
+'Subjects in school', 'ESTATE ROAD,', 2
+'Subjects in school', 'SEDGWICK PLACE,', 2
+'Subjects in school', 'SYLVIA STREET,', 1
+'Subjects in school', 'PATTEN STREET,', 10
+'Subjects in school', 'DUKE PLACE,', 2
+'Subjects in school', '212 STREET,', 14
+'Subjects in school', 'BYRON AVENUE,', 7
+'Subjects in school', 'RIVINGTON STREET,', 35
+'Subjects in school', 'HOYT AVENUE,', 28
+'Subjects in school', 'BQE WB EXIT   7,', 2
+'Subjects in school', 'WEST  215 STREET,', 9
+'Subjects in school', 'ELY AVENUE,', 9
+'Subjects in school', 'NAMEOKE AVENUE,', 2
+'Subjects in school', 'CRONSTON AVENUE,', 3
+'Subjects in school', 'TOWNSEND AVENUE,', 10
+'Subjects in school', '52 DRIVE,', 6
+'Subjects in school', 'POILLON AVENUE,', 4
+'Subjects in school', 'SHORE DRIVE,', 3
+'Subjects in school', 'GARFIELD AVENUE,', 8
+'Subjects in school', 'EXETER STREET,', 2
+'Subjects in school', 'CALAMUS AVENUE,', 20
+'Subjects in school', 'LOUISE TERRACE,', 6
+'Subjects in school', 'SNYDER AVENUE,', 15
+'Subjects in school', '75 STREET,', 21
+'Subjects in school', '69 AVENUE,', 40
+'Subjects in school', 'DALTON AVENUE,', 2
+'Subjects in school', 'CANEY ROAD,', 1
+'Subjects in school', 'WEST FARMS ROAD,', 14
+'Subjects in school', '68 STREET,', 19
+'Subjects in school', '45 STREET,', 12
+'Subjects in school', 'CROMWELL CIRCLE,', 6
+'Subjects in school', 'EAST  120 STREET,', 6
+'Subjects in school', 'MONTGOMERY AVENUE,', 2
+'Subjects in school', 'FAYETTE STREET,', 6
+'Subjects in school', 'LILY POND AVENUE,', 3
+'Subjects in school', 'ALTOONA AVENUE,', 2
+'Subjects in school', 'IRVINE STREET,', 4
+'Subjects in school', 'SOUTH    9 STREET,', 11
+'Subjects in school', 'MONTAUK AVENUE,', 13
+'Subjects in school', 'RHINELANDER AVENUE,', 15
+'Subjects in school', '150 AVENUE,', 2
+'Subjects in school', 'GEORGIA AVENUE,', 11
+'Subjects in school', 'LUCAS STREET,', 2
+'Subjects in school', 'FILLMORE STREET,', 9
+'Subjects in school', 'PLEASANT STREET,', 1
+'Subjects in school', 'WEST  220 STREET,', 13
+'Subjects in school', 'WEST   92 STREET,', 14
+'Subjects in school', 'HORATIO STREET,', 1
+'Subjects in school', 'COLON AVENUE,', 5
+'Subjects in school', 'EDDY STREET,', 4
+'Subjects in school', 'WINFIELD AVENUE,', 5
+'Subjects in school', 'NORDEN STREET,', 6
+'Subjects in school', 'BEACH   70 STREET,', 2
+'Subjects in school', 'WEST  11 STREET,', 2
+'Subjects in school', 'WATERBURY AVENUE,', 16
+'Subjects in school', 'OCEAN VIEW AVENUE,', 10
+'Subjects in school', 'RIP NORTHBOUND EXIT,', 2
+'Subjects in school', 'EAST   3 STREET,', 9
+'Subjects in school', 'PROSPECT STREET,', 9
+'Subjects in school', '59 AVENUE,', 7
+'Subjects in school', 'RICHMOND TERRACE,', 80
+'Subjects in school', 'KARWEG PLACE,', 2
+'Subjects in school', 'MOFFETT STREET,', 6
+'Subjects in school', 'JORALEMON STREET,', 6
+'Subjects in school', 'BATCHELDER STREET,', 4
+'Subjects in school', 'TAYLOR STREET,', 6
+'Subjects in school', 'CALHOUN COURT,', 6
+'Subjects in school', 'HENRY HUDSON PARKWAY,', 2
+'Subjects in school', 'EAST  26 STREET,', 1
+'Subjects in school', 'WALKER DRIVE,', 3
+'Subjects in school', 'BURCHELL ROAD,', 1
+'Subjects in school', 'KALVER PLACE,', 2
+'Subjects in school', 'SAVIN COURT,', 2
+'Subjects in school', 'KINGHORN STREET,', 1
+'Subjects in school', 'SHENANDOAH AVENUE,', 2
+'Subjects in school', 'WEST   25 STREET,', 22
+'Subjects in school', 'AVENUE V,', 19
+'Subjects in school', 'PARK STREET,', 46
+'Subjects in school', 'BERRIMAN STREET,', 7
+'Subjects in school', 'MORGAN AVENUE,', 19
+'Subjects in school', 'CROPSEY AVENUE,', 20
+'Subjects in school', 'BARKER STREET,', 3
+'Subjects in school', 'DRY HARBOR ROAD,', 4
+'Subjects in school', 'GOLDA MEIR SQUARE,', 2
+'Subjects in school', '133 STREET,', 4
+'Subjects in school', 'SIE WESTBOUND EXIT   15 SOUTH,', 4
+'Subjects in school', 'GRAND CENTRAL PARKWAY EB ET    3,', 58
+'Subjects in school', 'CASANOVA STREET,', 1
+'Subjects in school', 'GILBERT STREET,', 12
+'Subjects in school', 'QUEENS MIDTOWN TUNNEL,', 1
+'Subjects in school', 'GREELEY AVENUE,', 2
+'Subjects in school', 'WOODLAWN AVENUE,', 4
+'Subjects in school', 'DORMANS COURT,', 1
+'Subjects in school', 'KRIER PLACE,', 4
+'Subjects in school', 'LAFAYETTE AVENUE,', 80
+'Subjects in school', '110 STREET,', 54
+'Subjects in school', 'EAST  134 STREET,', 12
+'Subjects in school', 'MEMPHIS AVENUE,', 9
+'Subjects in school', '109 STREET,', 12
+'Subjects in school', 'EVERETT AVENUE,', 3
+'Subjects in school', 'PARK ROW,', 10
+'Subjects in school', 'WEST  261 STREET,', 4
+'Subjects in school', 'EAST  158 STREET,', 21
+'Subjects in school', 'GANSEVOORT BOULEVARD,', 7
+'Subjects in school', 'SHERIDAN AVENUE,', 20
+'Subjects in school', 'EAST  116 STREET,', 2
+'Subjects in school', '94 AVENUE,', 12
+'Subjects in school', 'SEDDON STREET,', 3
+'Subjects in school', 'HALE AVENUE,', 2
+'Subjects in school', 'WOODPOINT ROAD,', 13
+'Subjects in school', 'GRATTAN STREET,', 2
+'Subjects in school', 'WILLETS POINT BOULEVARD,', 17
+'Subjects in school', 'JACKIE ROBINSON PKWY EB ET    ,', 2
+'Subjects in school', 'ST NICHOLAS PLACE,', 2
+'Subjects in school', 'WYCKOFF AVENUE,', 86
+'Subjects in school', 'WILLOUGHBY STREET,', 83
+'Subjects in school', '20 STREET,', 6
+'Subjects in school', 'BEP WESTBOUND EXIT    5,', 8
+'Subjects in school', 'ASTORIA BOULEVARD,', 65
+'Subjects in school', 'EAST   15 STREET,', 71
+'Subjects in school', 'MERCER STREET,', 31
+'Subjects in school', 'BENTLEY STREET,', 10
+'Subjects in school', 'NEW LOTS AVENUE,', 49
+'Subjects in school', 'RYDERS ALLEY,', 2
+'Subjects in school', 'THOMPSON STREET,', 5
+'Subjects in school', 'ST JOHNS PLACE,', 13
+'Subjects in school', '158 STREET,', 11
+'Subjects in school', 'METROPOLITAN OVAL,', 20
+'Subjects in school', '41 AVENUE,', 13
+'Subjects in school', 'WEST   33 STREET,', 111
+'Subjects in school', 'BAY   2 STREET,', 8
+'Subjects in school', 'BRADDOCK AVENUE,', 16
+'Subjects in school', 'DEEPDALE PLACE,', 4
+'Subjects in school', '11 AVENUE,', 8
+'Subjects in school', 'WEST  105 STREET,', 4
+'Subjects in school', 'WEST   44 STREET,', 2
+'Subjects in school', 'KOSSUTH AVENUE,', 6
+'Subjects in school', 'HAWLEY AVENUE,', 1
+'Subjects in school', 'JUNI COURT,', 1
+'Subjects in school', 'RUTGERS SLIP,', 52
+'Subjects in school', 'RANDOLPH STREET,', 7
+'Subjects in school', 'STAGG STREET,', 10
+'Subjects in school', '84 STREET,', 32
+'Subjects in school', 'WEST  14 STREET,', 8
+'Subjects in school', 'MAYFAIR DRIVE NORTH,', 8
+'Subjects in school', 'MILFORD STREET,', 12
+'Subjects in school', 'GOWANUS EXPRESSWAY WB EN   61 ST,', 5
+'Subjects in school', 'SUSAN COURT,', 1
+'Subjects in school', 'FORDHAM UNIV BOUNDARY,', 1
+'Subjects in school', 'MACE AVENUE,', 27
+'Subjects in school', 'CORPORAL KENNEDY STREET,', 6
+'Subjects in school', 'OLMSTEAD AVENUE,', 21
+'Subjects in school', 'HARRISON STREET,', 1
+'Subjects in school', 'BEACH   68 STREET,', 3
+'Subjects in school', 'YOUNG STREET,', 2
+'Subjects in school', 'HOPE STREET,', 4
+'Subjects in school', 'EAST BROADWAY,', 46
+'Subjects in school', 'FORREST STREET,', 2
+'Subjects in school', '39 AVENUE,', 20
+'Subjects in school', 'HILLSIDE CEMETERY BOUNDARY,', 1
+'Subjects in school', 'NEWKIRK AVENUE,', 21
+'Subjects in school', 'LISBON PLACE,', 7
+'Subjects in school', 'LOTT AVENUE,', 8
+'Subjects in school', 'THAMES STREET,', 13
+'Subjects in school', 'VAN NAME AVENUE,', 2
+'Subjects in school', 'HIGHLAND PLACE,', 5
+'Subjects in school', '84 AVENUE,', 2
+'Subjects in school', 'GRAMERCY PARK,', 9
+'Subjects in school', 'HOFFMAN STREET,', 5
+'Subjects in school', 'PARROTT PLACE,', 3
+'Subjects in school', 'ARCHER AVENUE,', 3
+'Subjects in school', 'OCEANVIEW AVENUE,', 4
+'Subjects in school', 'RUSSELL STREET,', 12
+'Subjects in school', 'LINCOLN TUNNEL,', 5
+'Subjects in school', 'HHP NB ENTRANCE W  23 ST,', 6
+'Subjects in school', 'MIRIAM STREET,', 2
+'Subjects in school', 'HOOPER STREET,', 2
+'Subjects in school', 'PULASKI BRIDGE,', 1
+'Subjects in school', 'FINGAL STREET,', 3
+'Subjects in school', 'SMITH TERRACE,', 1
+'Subjects in school', 'LAWRENCE AVENUE,', 1
+'Subjects in school', 'VETERANS ROAD WEST,', 6
+'Subjects in school', 'CONGRESS STREET,', 5
+'Subjects in school', 'WILLIS AVENUE,', 101
+'Subjects in school', 'DONGAN PLACE,', 2
+'Subjects in school', 'FARRADAY STREET,', 2
+'Subjects in school', 'EAST   79 STREET,', 8
+'Subjects in school', '125 STREET,', 15
+'Subjects in school', 'PERRY STREET,', 7
+'Subjects in school', 'TAAFFE PLACE,', 1
+'Subjects in school', 'IRONWOOD STREET,', 3
+'Subjects in school', 'DESMOND COURT,', 3
+'Subjects in school', 'GRAHAM COURT,', 2
+'Subjects in school', '2 PLACE,', 1
+'Subjects in school', 'MUNDY AVENUE,', 7
+'Subjects in school', 'ROXBURY STREET,', 15
+'Subjects in school', 'CALDER PLACE,', 1
+'Subjects in school', 'ST PAULS AVENUE,', 2
+'Subjects in school', 'TABOR COURT,', 4
+'Subjects in school', 'RICHMOND AVENUE,', 68
+'Subjects in school', 'WOLCOTT AVENUE,', 4
+'Subjects in school', 'FAIRMOUNT AVENUE,', 4
+'Subjects in school', 'NAVY STREET,', 17
+'Subjects in school', 'BRADHURST AVENUE,', 45
+'Subjects in school', 'SHERADEN AVENUE,', 13
+'Subjects in school', 'WEST   15 ROAD,', 4
+'Subjects in school', '87 AVENUE,', 16
+'Subjects in school', 'ST PETERS AVENUE,', 12
+'Subjects in school', 'EAST  09 STREET,', 1
+'Subjects in school', 'RAMSEY LANE,', 2
+'Subjects in school', 'RIDGECREST AVENUE,', 2
+'Subjects in school', 'WOLF PLACE,', 5
+'Subjects in school', 'HARRISON PLACE,', 13
+'Subjects in school', 'WEST   87 STREET,', 2
+'Subjects in school', 'FT INDEPENDENCE STREET,', 7
+'Subjects in school', 'WEST  216 STREET,', 4
+'Subjects in school', 'MARKETFIELD STREET,', 1
+'Subjects in school', 'WEST  152 STREET,', 3
+'Subjects in school', 'BAY   44 STREET,', 1
+'Subjects in school', 'MARTIN AVENUE,', 12
+'Subjects in school', 'WEST  144 STREET,', 25
+'Subjects in school', 'WATSON AVENUE,', 56
+'Subjects in school', 'LONDON ROAD,', 12
+'Subjects in school', 'MORNINGSIDE DRIVE,', 11
+'Subjects in school', 'CRESSKILL PLACE,', 2
+'Subjects in school', 'LAIGHT STREET,', 2
+'Subjects in school', 'FABIAN STREET,', 7
+'Subjects in school', 'LORING PLACE,', 2
+'Subjects in school', 'ANNADALE ROAD,', 7
+'Subjects in school', 'BEACH   96 STREET,', 2
+'Subjects in school', 'IRWIN PLACE,', 37
+'Subjects in school', 'RANDALL AVENUE,', 51
+'Subjects in school', 'EAST   81 STREET,', 7
+'Subjects in school', '14 AVENUE,', 6
+'Subjects in school', '126 STREET,', 20
+'Subjects in school', 'EAST  168 STREET,', 60
+'Subjects in school', 'RAMONA AVENUE,', 9
+'Subjects in school', 'CHAPIN COURT,', 6
+'Subjects in school', 'CASTLETON AVENUE,', 6
+'Subjects in school', 'WEST DRIVE,', 22
+'Subjects in school', 'WEST  104 STREET,', 14
+'Subjects in school', 'PRE EASTBOUND ENTRANCE   17 ST,', 3
+'Subjects in school', 'WEST    5 STREET,', 2
+'Subjects in school', 'ST CLAIRE PLACE,', 246
+'Subjects in school', 'WEST   10 STREET,', 18
+'Subjects in school', '112 AVENUE,', 7
+'Subjects in school', 'URBANA STREET,', 8
+'Subjects in school', '59 STREET,', 31
+'Subjects in school', 'MACKINTOSH STREET,', 4
+'Subjects in school', 'WEST   75 STREET,', 1
+'Subjects in school', 'THELMA COURT,', 1
+'Subjects in school', 'COLGATE AVENUE,', 6
+'Subjects in school', 'HENDERSON AVENUE,', 22
+'Subjects in school', 'EAST    1 ROAD,', 3
+'Subjects in school', 'BRUCKNER EXPWY EB EN E  138 ST,', 24
+'Subjects in school', 'MACON STREET,', 4
+'Subjects in school', 'WEST  155 STREET,', 12
+'Subjects in school', 'SUYDAM STREET,', 5
+'Subjects in school', 'EAST    6 STREET,', 3
+'Subjects in school', 'VAN CORTLANDT AVENUE WEST,', 2
+'Subjects in school', '65 PLACE,', 1
+'Subjects in school', 'TYNDALL AVENUE,', 14
+'Subjects in school', 'WEST    9 STREET,', 13
+'Subjects in school', 'WHITWELL PLACE,', 6
+'Subjects in school', 'HANOVER STREET,', 3
+'Subjects in school', 'CARDINAL HAYES PLACE,', 6
+'Subjects in school', 'OCEAN COURT,', 2
+'Subjects in school', 'TEAKWOOD COURT,', 12
+'Subjects in school', 'KEARNEY AVENUE,', 1
+'Subjects in school', 'WINDOM AVENUE,', 9
+'Subjects in school', 'WEST   89 STREET,', 2
+'Subjects in school', 'MAPLE TERRACE,', 1
+'Subjects in school', 'WALLOON STREET,', 2
+'Subjects in school', 'OLIVIA COURT,', 8
+'Subjects in school', 'RAU COURT,', 4
+'Subjects in school', 'NAGLE AVENUE,', 1
+'Subjects in school', 'EAST   54 STREET,', 9
+'Subjects in school', 'PAULDING AVENUE,', 32
+'Subjects in school', 'LOCUST COURT,', 2
+'Subjects in school', '78 CRESCENT,', 2
+'Subjects in school', 'MAYBURY AVENUE,', 4
+'Subjects in school', 'SPERRY PLACE,', 1
+'Subjects in school', 'WRIGHT STREET,', 16
+'Subjects in school', 'EAST  86 STREET,', 1
+'Subjects in school', 'GLEBE AVENUE,', 13
+'Subjects in school', 'REON AVENUE,', 4
+'Subjects in school', 'CHAUNCEY STREET,', 3
+'Subjects in school', 'AVISTON STREET,', 6
+'Subjects in school', 'FOSTER AVENUE,', 38
+'Subjects in school', 'WEST  196 STREET,', 3
+'Subjects in school', 'WEST HOUSTON STREET,', 142
+'Subjects in school', 'STRAUSS STREET,', 56
+'Subjects in school', 'STATE STREET,', 59
+'Subjects in school', 'SMITH STREET,', 76
+'Subjects in school', 'CARLTON AVENUE,', 4
+'Subjects in school', '111 STREET,', 32
+'Subjects in school', 'LORILLARD PLACE,', 4
+'Subjects in school', 'FANNING STREET,', 10
+'Subjects in school', '108 STREET,', 32
+'Subjects in school', 'LEFFERTS PLACE,', 4
+'Subjects in school', 'BOULEVARD COURT,', 2
+'Subjects in school', 'QUINCY STREET,', 4
+'Subjects in school', 'EAST DRIVE,', 14
+'Subjects in school', 'WEST  252 STREET,', 14
+'Subjects in school', '7 ROAD,', 4
+'Subjects in school', 'WEST   20 STREET,', 4
+'Subjects in school', 'STIEG AVENUE,', 2
+'Subjects in school', 'WIMAN PLACE,', 10
+'Subjects in school', 'KAREN COURT,', 8
+'Subjects in school', 'CRIMMINS AVENUE,', 9
+'Subjects in school', 'CEDARCROFT ROAD,', 4
+'Subjects in school', 'HUMBERT STREET,', 2
+'Subjects in school', 'MEREDITH AVENUE,', 1
+'Subjects in school', 'MARC STREET,', 2
+'Subjects in school', 'VINE STREET,', 23
+'Subjects in school', 'HOMECREST AVENUE,', 22
+'Subjects in school', '76 STREET,', 29
+'Subjects in school', 'MELISSA STREET,', 2
+'Subjects in school', 'KEARNEY STREET,', 4
+'Subjects in school', 'EAST  147 STREET,', 16
+'Subjects in school', 'FR CAPODANNO BOULEVARD,', 65
+'Subjects in school', 'ST PETER'S AVENUE,', 4
+'Subjects in school', 'GERANIUM AVENUE,', 2
+'Subjects in school', 'WALTHAM STREET,', 20
+'Subjects in school', 'WEST  262 STREET,', 4
+'Subjects in school', 'BAYONNE BRIDGE ENTRANCE,', 6
+'Subjects in school', 'SOUTH BRIDGE STREET,', 5
+'Subjects in school', 'CROCHERON AVENUE,', 2
+'Subjects in school', 'ROSEDALE AVENUE,', 33
+'Subjects in school', 'KANSAS PLACE,', 1
+'Subjects in school', 'MAC DONOUGH STREET,', 8
+'Subjects in school', 'GOETHALS ROAD NORTH,', 2
+'Subjects in school', 'PERSHING STREET,', 4
+'Subjects in school', 'BEACH   91 STREET,', 3
+'Subjects in school', 'BEND,', 1301
+'Subjects in school', 'LANGDALE STREET,', 4
+'Subjects in school', '3 STREET,', 13
+'Subjects in school', 'SHERLOCK PLACE,', 30
+'Subjects in school', 'FT WASHINGTON AVENUE,', 30
+'Subjects in school', 'CHESTNUT AVENUE,', 15
+'Subjects in school', '53 AVENUE,', 20
+'Subjects in school', '89 STREET,', 31
+'Subjects in school', 'EAST  181 STREET,', 45
+'Subjects in school', '57 AVENUE,', 22
+'Subjects in school', 'PELHAM PARKWAY,', 23
+'Subjects in school', '229 STREET,', 13
+'Subjects in school', 'BAYSIDE AVENUE,', 2
+'Subjects in school', 'LAWRENCE STREET,', 12
+'Subjects in school', 'RUTLAND ROAD,', 18
+'Subjects in school', 'EAST  213 STREET,', 8
+'Subjects in school', '153 PLACE,', 2
+'Subjects in school', 'WEST  253 STREET,', 14
+'Subjects in school', 'BUTTONWOOD ROAD,', 2
+'Subjects in school', 'HUNT AVENUE,', 1
+'Subjects in school', '165 AVENUE,', 2
+'Subjects in school', '4 AVENUE,', 527
+'Subjects in school', 'PORTER AVENUE,', 4
+'Subjects in school', 'ELIZABETH PLACE,', 11
+'Subjects in school', 'VOORHIES AVENUE,', 18
+'Subjects in school', 'DRAKE STREET,', 3
+'Subjects in school', 'IRVING AVENUE,', 6
+'Subjects in school', 'BOTANICAL GRDN BRIDGE,', 1
+'Subjects in school', 'WEST  19 STREET,', 2
+'Subjects in school', 'EAST MOSHOLU PARKWAY SOUTH,', 4
+'Subjects in school', 'LINDA AVENUE,', 5
+'Subjects in school', 'STANHOPE STREET,', 1
+'Subjects in school', 'HOXIE STREET,', 1
+'Subjects in school', 'DUGDALE STREET,', 6
+'Subjects in school', 'MADISON AVENUE,', 375
+'Subjects in school', 'SALLY COURT,', 4
+'Subjects in school', 'WEST   1 STREET,', 4
+'Subjects in school', '258 STREET,', 3
+'Subjects in school', 'EAST  182 STREET,', 36
+'Subjects in school', 'MURDOCK PLACE,', 2
+'Subjects in school', 'WEST   76 STREET,', 1
+'Subjects in school', 'FILLMORE AVENUE,', 25
+'Subjects in school', 'PILLING STREET,', 1
+'Subjects in school', '176 STREET,', 5
+'Subjects in school', 'MC GUINNESS BOULEVARD,', 32
+'Subjects in school', 'BOTANICAL GARDEN BRIDGE,', 2
+'Subjects in school', 'LIBERTY STREET,', 9
+'Subjects in school', 'JANE STREET,', 1
+'Subjects in school', 'STANLEY CIRCLE,', 6
+'Subjects in school', 'DANIEL LOW TERRACE,', 8
+'Subjects in school', 'HAWTHORNE STREET,', 6
+'Subjects in school', 'WEST  187 STREET,', 2
+'Subjects in school', 'ELTON AVENUE,', 2
+'Subjects in school', 'INDIANA WALK,', 3
+'Subjects in school', 'WEST  250 STREET,', 14
+'Subjects in school', 'MICIELI PLACE,', 2
+'Subjects in school', 'FAIRFIELD STREET,', 2
+'Subjects in school', 'PULASKI AVENUE,', 15
+'Subjects in school', 'HILLIS STREET,', 7
+'Subjects in school', 'LEEDS STREET,', 8
+'Subjects in school', 'JAY STREET,', 48
+'Subjects in school', '9 AVENUE,', 335
+'Subjects in school', 'VERONA PLACE,', 2
+'Subjects in school', 'HUDSON STREET,', 141
+'Subjects in school', 'EAST    9 STREET,', 17
+'Subjects in school', 'FAILE STREET,', 4
+'Subjects in school', 'GOTHAM AVENUE,', 6
+'Subjects in school', 'THOMSON AVENUE,', 40
+'Subjects in school', '114 STREET,', 35
+'Subjects in school', 'GOUVERNEUR PLACE,', 2
+'Subjects in school', 'PENN STREET,', 2
+'Subjects in school', 'WEST  176 STREET,', 13
+'Subjects in school', 'EAST  2 STREET,', 16
+'Subjects in school', 'RAVENNA STREET,', 2
+'Subjects in school', 'DONGAN STREET,', 4
+'Subjects in school', 'O CONNELL COURT,', 6
+'Subjects in school', 'CELTIC AVENUE,', 1
+'Subjects in school', 'BROOKFIELD AVENUE,', 4
+'Subjects in school', 'DALEHAM STREET,', 2
+'Subjects in school', 'SUBURBAN PLACE,', 8
+'Subjects in school', 'BARWELL TERRACE,', 3
+'Subjects in school', 'VELTMAN AVENUE,', 1
+'Subjects in school', 'WAINWRIGHT AVENUE,', 37
+'Subjects in school', 'ROEBLING STREET,', 41
+'Subjects in school', 'COOPER AVENUE,', 21
+'Subjects in school', 'GLASSBORO AVENUE,', 10
+'Subjects in school', 'ST RAYMOND AVENUE,', 41
+'Subjects in school', 'WINCHESTER AVENUE,', 4
+'Subjects in school', 'CROES AVENUE,', 1
+'Subjects in school', '14 PLACE,', 2
+'Subjects in school', 'GATEWAY BOULEVARD,', 6
+'Subjects in school', 'FORD PLACE,', 1
+'Subjects in school', 'ERASTINA PLACE,', 4
+'Subjects in school', 'BAYONNE BRDG APPROACH,', 176
+'Subjects in school', 'RIP NB EXIT,', 2
+'Subjects in school', 'LORIMER STREET,', 24
+'Subjects in school', 'TRUXTON STREET,', 29
+'Subjects in school', 'TYRELLAN AVENUE,', 38
+'Subjects in school', '31 AVENUE,', 61
+'Subjects in school', 'KINGSTON AVENUE,', 45
+'Subjects in school', 'CLEARVIEW EXPWY SB ET    6 A,', 2
+'Subjects in school', 'EAST GUN HILL ROAD,', 31
+'Subjects in school', 'PROL PLACE,', 2
+'Subjects in school', 'EYLANDT STREET,', 4
+'Subjects in school', '12 STREET,', 9
+'Subjects in school', 'TYLER AVENUE,', 14
+'Subjects in school', 'HEMLOCK STREET,', 46
+'Subjects in school', 'WEST   94 STREET,', 2
+'Subjects in school', 'PRESLEY STREET,', 4
+'Subjects in school', 'RAWLINS AVENUE,', 6
+'Subjects in school', 'CLOSE AVENUE,', 1
+'Subjects in school', 'WHITE PLAINS AVENUE,', 23
+'Subjects in school', 'STEPHEN STREET,', 4
+'Subjects in school', 'BK BATTERY TNNL EXIT,', 4
+'Subjects in school', 'WEST  136 STREET,', 2
+'Subjects in school', 'HOBART AVENUE,', 6
+'Subjects in school', 'WINSLOW PLACE,', 2
+'Subjects in school', 'GUYON AVENUE,', 27
+'Subjects in school', '71 AVENUE,', 12
+'Subjects in school', 'SANDFORD STREET,', 1
+'Subjects in school', '80 STREET,', 40
+'Subjects in school', '82 ROAD,', 6
+'Subjects in school', 'WEST  6 STREET,', 12
+'Subjects in school', 'BEACH PLACE,', 4
+'Subjects in school', 'TAFT COURT,', 4
+'Subjects in school', 'WILLOW STREET,', 21
+'Subjects in school', 'MONROE PLACE,', 9
+'Subjects in school', 'LEONARD AVENUE,', 2
+'Subjects in school', 'MORNINGSTAR ROAD,', 9
+'Subjects in school', 'PIERREPONT STREET,', 30
+'Subjects in school', 'NEWPORT AVENUE,', 12
+'Subjects in school', 'BROOKLYN BATTERY TUNNEL APPROACH,', 6
+'Subjects in school', 'SMEDLEY STREET,', 30
+'Subjects in school', 'WATERBURY STREET,', 6
+'Subjects in school', 'EAST   20 STREET,', 6
+'Subjects in school', 'WILBUR STREET,', 2
+'Subjects in school', 'RENFREW PLACE,', 3
+'Subjects in school', 'HANK PLACE,', 4
+'Subjects in school', 'GLENWOOD ROAD,', 31
+'Subjects in school', '6 AVENUE,', 613
+'Subjects in school', '76 ROAD,', 4
+'Subjects in school', 'NEW MONTROSE AVENUE,', 13
+'Subjects in school', 'WEST  124 STREET,', 8
+'Subjects in school', 'BAY STREET,', 10
+'Subjects in school', 'NORTH    6 STREET,', 2
+'Subjects in school', '2 STREET,', 19
+'Subjects in school', 'SEGUINE AVENUE,', 3
+'Subjects in school', 'NEILL AVENUE,', 5
+'Subjects in school', 'OSMAN PLACE,', 6
+'Subjects in school', 'MANHATTAN COLLEGE PARKWAY,', 2
+'Subjects in school', 'AULTMAN AVENUE,', 13
+'Subjects in school', 'PELTON AVENUE,', 4
+'Subjects in school', 'QN MDTWN TUNNEL APPROACH,', 1
+'Subjects in school', 'ELLSWORTH AVENUE,', 12
+'Subjects in school', 'ROCHESTER AVENUE,', 8
+'Subjects in school', 'TELLER AVENUE,', 20
+'Subjects in school', 'AUSTIN STREET,', 6
+'Subjects in school', 'KATAN AVENUE,', 13
+'Subjects in school', 'WEST   74 STREET,', 1
+'Subjects in school', 'WEST   34 STREET,', 9
+'Subjects in school', 'CROSS ISLAND PARKWAY ET   3 NB,', 2
+'Subjects in school', 'MILFORD DRIVE,', 1
+'Subjects in school', 'DON COURT,', 2
+'Subjects in school', 'SCHLEY AVENUE,', 2
+'Subjects in school', 'PALMER AVENUE,', 8
+'Subjects in school', 'JACOB RIIS PARK DRIVEWAY,', 9
+'Subjects in school', 'LEGGETT AVENUE,', 5
+'Subjects in school', 'WEST  37 STREET,', 1
+'Subjects in school', 'BATTERY PLACE,', 16
+'Subjects in school', 'WEST  62 STREET,', 1
+'Subjects in school', '16 AVENUE,', 2
+'Subjects in school', 'MARTENSE AVENUE,', 2
+'Subjects in school', 'OAK AVENUE,', 33
+'Subjects in school', 'COLONIAL ROAD,', 14
+'Subjects in school', 'JAMAICA AVENUE,', 303
+'Subjects in school', 'EAST   36 STREET,', 4
+'Subjects in school', '166 STREET,', 26
+'Subjects in school', 'BRIDGE PLAZA COURT,', 4
+'Subjects in school', 'PAERDEGAT AVENUE NORTH,', 4
+'Subjects in school', 'VALENTINE AVENUE,', 46
+'Subjects in school', 'QN MDTWN TNNL APPROACH,', 16
+'Subjects in school', 'ROE ROAD,', 4
+'Subjects in school', 'HARVEY STREET,', 2
+'Subjects in school', 'NORTH HILLS GOLF BOUNDARY,', 3
+'Subjects in school', 'WALLACE AVENUE,', 22
+'Subjects in school', 'EDENWALD AVENUE,', 6
+'Subjects in school', 'SACCHERI COURT,', 6
+'Subjects in school', 'DINSMORE AVENUE,', 20
+'Subjects in school', 'QNS MIDTOWN TUNNEL,', 12
+'Subjects in school', 'ELKHART STREET,', 4
+'Subjects in school', 'HOWARD CIRCLE,', 2
+'Subjects in school', 'BRUNSWICK AVENUE,', 8
+'Subjects in school', 'BATHGATE AVENUE,', 3
+'Subjects in school', 'THWAITES PLACE,', 4
+'Subjects in school', '3 AVENUE,', 451
+'Subjects in school', 'LAFAYETTE STREET,', 86
+'Subjects in school', 'UNION HALL STREET,', 9
+'Subjects in school', '7 ROAD,', 1
+'Subjects in school', '143 AVENUE,', 9
+'Subjects in school', 'EMILY COURT,', 2
+'Subjects in school', 'MURRAY STREET,', 28
+'Subjects in school', 'SAMUEL DICKSTEIN PLAZA,', 3
+'Subjects in school', 'WETHEROLE STREET,', 22
+'Subjects in school', 'VERMILYEA AVENUE,', 2
+'Subjects in school', '227 STREET,', 8
+'Subjects in school', 'EAST  129 STREET,', 3
+'Subjects in school', 'LODOVICK AVENUE,', 2
+'Subjects in school', 'HAUGHWOUT AVENUE,', 3
+'Subjects in school', 'ELVERTON AVENUE,', 2
+'Subjects in school', 'GRANDVIEW AVENUE,', 7
+'Subjects in school', 'RICHMOND HILL ROAD,', 2
+'Subjects in school', 'CORNELIA STREET,', 2
+'Subjects in school', 'EAST  104 STREET,', 12
+'Subjects in school', 'WEST  11 STREET,', 7
+'Subjects in school', '183 STREET,', 5
+'Subjects in school', 'KISSENA BOULEVARD,', 33
+'Subjects in school', 'VERMONT STREET,', 9
+'Subjects in school', 'TRIMBLE ROAD,', 6
+'Subjects in school', 'ULMER STREET,', 8
+'Subjects in school', 'HAWTHORNE AVENUE,', 10
+'Subjects in school', 'UNIVERSITY AVENUE,', 20
+'Subjects in school', 'COLLIER AVENUE,', 2
+'Subjects in school', 'POPLAR STREET,', 7
+'Subjects in school', 'EAST   65 STREET,', 2
+'Subjects in school', 'MONUMENT WALK,', 2
+'Subjects in school', 'BRONX RVR PKWY SB EN WEBSTER AVE,', 4
+'Subjects in school', 'TROUTVILLE ROAD,', 10
+'Subjects in school', 'FLEET PLACE,', 54
+'Subjects in school', 'EAST  241 STREET,', 22
+'Subjects in school', 'MARYLAND AVENUE,', 12
+'Subjects in school', 'FITCHETT STREET,', 1
+'Subjects in school', 'LADD AVENUE,', 2
+'Subjects in school', 'GOE EB EXIT   23,', 10
+'Subjects in school', '23 STREET,', 6
+'Subjects in school', 'NASO COURT,', 4
+'Subjects in school', 'MC FARLAND AVENUE,', 18
+'Subjects in school', 'BRONX PARK EAST,', 8
+'Subjects in school', 'WEST  197 STREET,', 11
+'Subjects in school', 'BEACH   84 STREET,', 3
+'Subjects in school', 'LUDWIG STREET,', 2
+'Subjects in school', 'SILVER LAKE PARK BOUNDARY,', 4
+'Subjects in school', 'WEST GUN HILL ROAD,', 2
+'Subjects in school', 'HENRY STREET,', 47
+'Subjects in school', 'LOWERRE PLACE,', 2
+'Subjects in school', 'GENESEE AVENUE,', 11
+'Subjects in school', 'KENMARE STREET,', 12
+'Subjects in school', '180 STREET,', 4
+'Subjects in school', 'CRAIG AVENUE,', 4
+'Subjects in school', 'JUMEL PLACE,', 2
+'Subjects in school', '220 STREET,', 9
+'Subjects in school', 'WEST  181 STREET,', 5
+'Subjects in school', 'LIE WB ENTRANCE COLLEGE PNT BLVD,', 1
+'Subjects in school', 'EAST  11 STREET,', 2
+'Subjects in school', 'WEMPLE STREET,', 3
+'Subjects in school', 'CHAPIN PARKWAY,', 8
+'Subjects in school', 'CROSS BAY BOULEVARD,', 50
+'Subjects in school', 'CROAK AVENUE,', 1
+'Subjects in school', 'TWIN OAK DRIVE,', 5
+'Subjects in school', 'FT HILL CIRCLE,', 3
+'Subjects in school', 'WOODRUFF AVENUE,', 3
+'Subjects in school', 'FAIRLAWN LOOP,', 1
+'Subjects in school', 'LINCOLN TERRACE,', 1
+'Subjects in school', 'PURCELL STREET,', 2
+'Subjects in school', 'BROOKLYN QUEENS EXPRESSWAY,', 26
+'Subjects in school', 'WEST  178 STREET,', 18
+'Subjects in school', 'MORRISON AVENUE,', 31
+'Subjects in school', 'STILLWELL AVENUE,', 13
+'Subjects in school', 'HOWARD ALLEY,', 6
+'Subjects in school', 'PORTAGE AVENUE,', 37
+'Subjects in school', 'BROWN STREET,', 11
+'Subjects in school', 'EAST   6 STREET,', 4
+'Subjects in school', 'WARREN STREET,', 72
+'Subjects in school', 'GORDON STREET,', 15
+'Subjects in school', 'ROCKEFELLER PLAZA,', 2
+'Subjects in school', 'QNS MDTWN TNNL EXIT,', 19
+'Subjects in school', 'BEVERLY ROAD,', 14
+'Subjects in school', 'FABER STREET,', 2
+'Subjects in school', 'POLAND PLACE,', 4
+'Subjects in school', 'NEWTON STREET,', 5
+'Subjects in school', 'VAN WYCK EXPRESSWAY ET    1 E NB,', 4
+'Subjects in school', 'WEST  205 STREET,', 4
+'Subjects in school', 'BX RIVER PARKWAY EXIT NORTHBOUND,', 10
+'Subjects in school', 'DRURY AVENUE,', 2
+'Subjects in school', 'PLEASANT VALLEY AVENUE,', 4
+'Subjects in school', 'LOMBARDY STREET,', 2
+'Subjects in school', 'WEST  169 STREET,', 2
+'Subjects in school', 'BEACH AVENUE,', 2
+'Subjects in school', 'PINEAPPLE STREET,', 11
+'Subjects in school', 'VERNON BOULEVARD,', 67
+'Subjects in school', '105 STREET,', 9
+'Subjects in school', 'SOMERS STREET,', 10
+'Subjects in school', '141 STREET,', 11
+'Subjects in school', 'WEST  177 STREET,', 10
+'Subjects in school', 'MAITLAND AVENUE,', 3
+'Subjects in school', 'WEST  32 STREET,', 1
+'Subjects in school', 'DECATUR STREET,', 9
+'Subjects in school', '78 ROAD,', 1
+'Subjects in school', 'SKIDMORE AVENUE,', 22
+'Subjects in school', 'PIERREPONT PLACE,', 2
+'Subjects in school', 'PLEASANT PLACE,', 2
+'Subjects in school', 'QUEENSBORO BRDG EXIT,', 18
+'Subjects in school', 'WEINER STREET,', 1
+'Subjects in school', 'REID AVENUE,', 2
+'Subjects in school', '86 ROAD,', 10
+'Subjects in school', 'NEILSON STREET,', 2
+'Subjects in school', 'ST ANDREW'S ROAD,', 3
+'Subjects in school', 'PINE STREET,', 24
+'Subjects in school', 'EAST  172 STREET,', 16
+'Subjects in school', 'NEWPORT STREET,', 46
+'Subjects in school', '81 STREET,', 35
+'Subjects in school', '15 AVENUE,', 59
+'Subjects in school', '6 AVENUE,', 7
+'Subjects in school', '69 ROAD,', 10
+'Subjects in school', 'EAST  10 STREET,', 8
+'Subjects in school', 'WEST   67 STREET,', 1
+'Subjects in school', 'GERRITSEN AVENUE,', 3
+'Subjects in school', 'TRANSVERSE ROAD    4,', 26
+'Subjects in school', 'CULLMAN AVENUE,', 1
+'Subjects in school', 'EAST  19 STREET,', 4
+'Subjects in school', 'CEDAR GROVE CEMETERY BOUNDARY,', 4
+'Subjects in school', '189 STREET,', 5
+'Subjects in school', 'TROUTMAN STREET,', 5
+'Subjects in school', 'HITCHCOCK AVENUE,', 30
+'Subjects in school', 'WEST  141 STREET,', 5
+'Subjects in school', 'MAPLEWOOD AVENUE,', 10
+'Subjects in school', '68 ROAD,', 24
+'Subjects in school', 'WYCKOFF STREET,', 70
+'Subjects in school', 'UNION SQUARE WEST,', 27
+'Subjects in school', 'LYNN STREET,', 10
+'Subjects in school', 'VAN SICKLEN STREET,', 3
+'Subjects in school', '25 AVENUE,', 7
+'Subjects in school', 'KISSEL AVENUE,', 3
+'Subjects in school', 'SYBILLA STREET,', 8
+'Subjects in school', 'DESOTO STREET,', 1
+'Subjects in school', 'WILLIAM PLACE,', 12
+'Subjects in school', 'METRO-NORTH RR,', 335
+'Subjects in school', '69 PLACE,', 2
+'Subjects in school', 'PARSONS BOULEVARD,', 87
+'Subjects in school', 'EAST   89 STREET,', 6
+'Subjects in school', 'LOGAN STREET,', 12
+'Subjects in school', '69 STREET,', 50
+'Subjects in school', 'EDWARD M MORGAN PLACE,', 4
+'Subjects in school', '63 STREET,', 37
+'Subjects in school', 'HAROLD AVENUE,', 1
+'Subjects in school', 'SEAGIRT BOULEVARD,', 12
+'Subjects in school', 'VERONA STREET,', 5
+'Subjects in school', 'MOTT STREET,', 2
+'Subjects in school', 'GLEN AVENUE,', 1
+'Subjects in school', 'MINTURN AVENUE,', 2
+'Subjects in school', 'STEWART STREET,', 6
+'Subjects in school', 'YUKON AVENUE,', 8
+'Subjects in school', 'EAST STROUD AVENUE,', 1
+'Subjects in school', 'EAST  33 STREET,', 1
+'Subjects in school', 'DAVIDSON COURT,', 2
+'Subjects in school', 'HAVEMEYER AVENUE,', 1
+'Subjects in school', 'KEW GARDENS ROAD,', 19
+'Subjects in school', 'WEST   22 STREET,', 12
+'Subjects in school', 'RENAISSANCE COURT,', 5
+'Subjects in school', 'GURLEY AVENUE,', 11
+'Subjects in school', '88 STREET,', 34
+'Subjects in school', 'AVENUE F,', 5
+'Subjects in school', 'MAYFAIR DRIVE,', 4
+'Subjects in school', '103 AVENUE,', 35
+'Subjects in school', '15 STREET,', 2
+'Subjects in school', 'AVENUE Z,', 6
+'Subjects in school', 'EAST   61 STREET,', 2
+'Subjects in school', '70 STREET,', 34
+'Subjects in school', 'MIDDAGH STREET,', 4
+'Subjects in school', 'LOUBET STREET,', 4
+'Subjects in school', 'ST JAMES AVENUE,', 3
+'Subjects in school', 'SOUTH WILLIAM STREET,', 7
+'Subjects in school', 'BLACKSTONE AVENUE,', 3
+'Subjects in school', 'WEST   85 STREET,', 2
+'Subjects in school', 'MARBLE CEMETERY BOUNDARY,', 3
+'Subjects in school', 'ELM STREET,', 1
+'Subjects in school', 'LINWOOD AVENUE,', 1
+'Subjects in school', 'KRAMER PLACE,', 3
+'Subjects in school', 'GRAHAM AVENUE,', 30
+'Subjects in school', 'IRVINGTON PLACE,', 6
+'Subjects in school', 'TROY AVENUE,', 82
+'Subjects in school', 'GERARD AVENUE,', 16
+'Subjects in school', '167 STREET,', 9
+'Subjects in school', 'NIKOLA TESLA CORNER,', 2
+'Subjects in school', 'EDSON AVENUE,', 10
+'Subjects in school', 'WEST  230 STREET,', 8
+'Subjects in school', 'LAWN AVENUE,', 3
+'Subjects in school', 'HARMAN STREET,', 2
+'Subjects in school', 'AVENUE OF THE AMERICAS,', 76
+'Subjects in school', 'BAY   40 STREET,', 3
+'Subjects in school', 'FLEET WALK,', 2
+'Subjects in school', 'BAY RIDGE AVENUE,', 30
+'Subjects in school', 'LAYTON AVENUE,', 10
+'Subjects in school', 'DITMARS BOULEVARD,', 80
+'Subjects in school', 'WEST  113 STREET,', 6
+'Subjects in school', 'TYSEN STREET,', 3
+'Subjects in school', 'OLD AMBOY ROAD,', 11
+'Subjects in school', 'CORSON AVENUE,', 9
+'Subjects in school', 'LAMBERT STREET,', 3
+'Subjects in school', 'VERMONT AVENUE,', 24
+'Subjects in school', 'SEACREST AVENUE,', 2
+'Subjects in school', 'FRIEL PLACE,', 2
+'Subjects in school', 'MURDOCK AVENUE,', 7
+'Subjects in school', 'PINE TERRACE,', 4
+'Subjects in school', 'EAST  201 STREET,', 3
+'Subjects in school', 'RODNEY STREET,', 20
+'Subjects in school', 'MARCY AVENUE,', 66
+'Subjects in school', '86 STREET,', 29
+'Subjects in school', 'NORTH   10 STREET,', 8
+'Subjects in school', 'ROCKAWAY BEACH BOULEVARD,', 79
+'Subjects in school', '247 STREET,', 5
+'Subjects in school', 'COLLINS PLACE,', 3
+'Subjects in school', 'PARK ROAD,', 1
+'Subjects in school', 'ROAD,', 4
+'Subjects in school', 'ISHAM STREET,', 16
+'Subjects in school', '44 STREET,', 17
+'Subjects in school', 'BAILEY AVENUE,', 4
+'Subjects in school', 'AMBOY ROAD,', 7
+'Subjects in school', 'QNSBO BR UP RY APPROACH,', 4
+'Subjects in school', 'WEST  1 STREET,', 2
+'Subjects in school', 'BELAIR ROAD,', 2
+'Subjects in school', 'BUTLER AVENUE,', 4
+'Subjects in school', 'HUNTER AVENUE,', 16
+'Subjects in school', 'WILLIAM STREET,', 102
+'Subjects in school', 'LINCOLN TUNNEL ENTRANCE,', 27
+'Subjects in school', 'CHESTER AVENUE,', 3
+'Subjects in school', 'WEST  149 STREET,', 10
+'Subjects in school', 'CHANNEL AVENUE,', 2
+'Subjects in school', 'HOWARD STREET,', 6
+'Subjects in school', '51 STREET,', 13
+'Subjects in school', '30 ROAD,', 9
+'Subjects in school', 'BURCHELL AVENUE,', 7
+'Subjects in school', 'STATEN ISL EP WB EN RICHMOND AV,', 2
+'Subjects in school', 'FRANCESCA LANE,', 1
+'Subjects in school', 'CHRYSTIE STREET,', 2
+'Subjects in school', 'EAST   47 STREET,', 8
+'Subjects in school', 'HALE STREET,', 4
+'Subjects in school', 'STATEN ISLAND MALL ACCESS ROAD,', 6
+'Subjects in school', 'WEST KINGSBRIDGE ROAD,', 1
+'Subjects in school', 'STEELE AVENUE,', 4
+'Subjects in school', 'WESTCHESTER AVENUE,', 85
+'Subjects in school', 'NYCTA SUBWAY,', 1094
+'Subjects in school', 'HIGHLAWN AVENUE,', 8
+'Subjects in school', 'KOSCIUSZKO BRIDGE,', 46
+'Subjects in school', '74 PLACE,', 2
+'Subjects in school', '54 AVENUE,', 13
+'Subjects in school', 'IDA COURT,', 2
+'Subjects in school', 'UNDERHILL AVENUE,', 32
+'Subjects in school', 'DITMAS AVENUE,', 56
+'Subjects in school', 'HOWARD AVENUE,', 64
+'Subjects in school', 'OAKLAND TERRACE,', 4
+'Subjects in school', '173 STREET,', 14
+'Subjects in school', '159 STREET,', 12
+'Subjects in school', 'DUSTAN STREET,', 7
+'Subjects in school', '232 STREET,', 7
+'Subjects in school', '209 STREET,', 8
+'Subjects in school', '59 ROAD,', 2
+'Subjects in school', 'TURNBULL AVENUE,', 6
+'Subjects in school', 'PRESTON COURT,', 4
+'Subjects in school', 'SEAVER AVENUE,', 40
+'Subjects in school', 'JACKIE ROBINSON PARKWAY,', 14
+'Subjects in school', 'INDUSTRY ROAD,', 2
+'Subjects in school', 'HOWTON AVENUE,', 2
+'Subjects in school', 'NORTH RAILROAD AVENUE,', 9
+'Subjects in school', 'WYTHE AVENUE,', 282
+'Subjects in school', 'HOPKINSON AVENUE,', 49
+'Subjects in school', 'CHURCH STREET,', 111
+'Subjects in school', 'EAST  179 STREET,', 15
+'Subjects in school', 'HARRISON AVENUE,', 17
+'Subjects in school', 'WEST  115 STREET,', 10
+'Subjects in school', '16 AVENUE,', 45
+'Subjects in school', 'EAST   78 STREET,', 5
+'Subjects in school', 'EAST  20 STREET,', 5
+'Subjects in school', 'WEST     STREET,', 6
+'Subjects in school', 'BILLIOU STREET,', 2
+'Subjects in school', '200 STREET,', 4
+'Subjects in school', 'LURTING AVENUE,', 10
+'Subjects in school', '58 ROAD,', 11
+'Subjects in school', '4 AVENUE,', 7
+'Subjects in school', 'CRESCENT STREET,', 36
+'Subjects in school', 'HUBBARD PLACE,', 7
+'Subjects in school', '163 STREET,', 29
+'Subjects in school', 'WOEHRLE AVENUE,', 2
+'Subjects in school', 'POWERS AVENUE,', 12
+'Subjects in school', '130 AVENUE,', 4
+'Subjects in school', 'SANDS STREET,', 1
+'Subjects in school', 'RIGA STREET,', 15
+'Subjects in school', 'LOCUST AVENUE,', 8
+'Subjects in school', 'MAIN STREET,', 69
+'Subjects in school', '72 AVENUE,', 12
+'Subjects in school', '162 STREET,', 34
+'Subjects in school', 'GLADWIN STREET,', 2
+'Subjects in school', 'LITTLE WEST STREET,', 3
+'Subjects in school', 'THORNS LANE,', 1
+'Subjects in school', 'WOLKOFF LANE,', 2
+'Subjects in school', 'WEST  166 STREET,', 8
+'Subjects in school', 'NASH COURT,', 2
+'Subjects in school', 'SHEPARD AVENUE,', 4
+'Subjects in school', 'GRASSMERE TERRACE,', 8
+'Subjects in school', 'DUBLIN PLACE,', 2
+'Subjects in school', 'HANNIBAL STREET,', 2
+'Subjects in school', 'KENSICO STREET,', 21
+'Subjects in school', 'NEWBERRY AVENUE,', 4
+'Subjects in school', 'SWAN STREET,', 2
+'Subjects in school', 'TARRYTOWN AVENUE,', 13
+'Subjects in school', 'FOUR CORNERS ROAD,', 20
+'Subjects in school', 'AVENUE C,', 47
+'Subjects in school', 'OWLS HEAD COURT,', 4
+'Subjects in school', 'EAST   19 STREET,', 14
+'Subjects in school', '31 STREET,', 32
+'Subjects in school', 'GREENWICH AVENUE,', 13
+'Subjects in school', 'FRANCIS LEWIS BOULEVARD,', 121
+'Subjects in school', 'WILLIAMS AVENUE,', 32
+'Subjects in school', 'READING AVENUE,', 10
+'Subjects in school', 'EAST   77 STREET,', 5
+'Subjects in school', '90 AVENUE,', 22
+'Subjects in school', 'CROSS BRONX EXPRESSWAY,', 38
+'Subjects in school', 'MASON BOULEVARD,', 4
+'Subjects in school', 'OVERBROOK STREET,', 1
+'Subjects in school', '216 STREET,', 22
+'Subjects in school', 'WEST    9 ROAD,', 5
+'Subjects in school', 'MADISON STREET,', 46
+'Subjects in school', 'JUNO STREET,', 4
+'Subjects in school', 'EAST  159 STREET,', 2
+'Subjects in school', 'MEXICO STREET,', 6
+'Subjects in school', 'KINGSLAND STREET,', 2
+'Subjects in school', '25 STREET,', 13
+'Subjects in school', 'BEACH   44 STREET,', 1
+'Subjects in school', 'SOUTH CONDUIT AVENUE,', 7
+'Subjects in school', 'COOPER SQUARE,', 14
+'Subjects in school', 'PLYMOUTH STREET,', 14
+'Subjects in school', 'EAST   18 STREET,', 16
+'Subjects in school', 'PARADISE PLACE,', 9
+'Subjects in school', 'COURT STREET,', 55
+'Subjects in school', 'MARBLE HILL AVENUE,', 20
+'Subjects in school', '67 ROAD,', 12
+'Subjects in school', 'HANOVER AVENUE,', 6
+'Subjects in school', 'MAYFIELD ROAD,', 1
+'Subjects in school', 'RIVER ROAD,', 1
+'Subjects in school', 'WASHINGTON AVENUE,', 77
+'Subjects in school', 'MORRIS STREET,', 4
+'Subjects in school', 'TOWNLEY AVENUE,', 3
+'Subjects in school', 'OCEANIA STREET,', 7
+'Subjects in school', 'ZION STREET,', 4
+'Subjects in school', 'BAY   13 STREET,', 4
+'Subjects in school', 'ELTINGVILLE BOULEVARD,', 6
+'Subjects in school', 'DEGRAW ST,', 2
+'Subjects in school', '133 PLACE,', 2
+'Subjects in school', '52 ROAD,', 16
+'Subjects in school', 'ARDEN AVENUE,', 3
+'Subjects in school', 'OCEAN AVENUE,', 46
+'Subjects in school', '261 STREET,', 3
+'Subjects in school', 'WEST   13 STREET,', 14
+'Subjects in school', 'CLEVELAND STREET,', 13
+'Subjects in school', 'WEST   66 STREET,', 3
+'Subjects in school', 'NEGUNDO AVENUE,', 6
+'Subjects in school', 'DAVIS STREET,', 2
+'Subjects in school', 'EAST  122 STREET,', 6
+'Subjects in school', 'KERMIT PLACE,', 8
+'Subjects in school', 'UPLAND PARKWAY,', 2
+'Subjects in school', 'POLHEMUS PLACE,', 2
+'Subjects in school', 'LAHN STREET,', 4
+'Subjects in school', 'THORNTON PLACE,', 4
+'Subjects in school', 'ORANGE STREET,', 5
+'Subjects in school', 'EAST  161 STREET,', 36
+'Subjects in school', '11 AVENUE,', 3
+'Subjects in school', 'WILLOWBROOK ROAD,', 31
+'Subjects in school', '68 AVENUE,', 19
+'Subjects in school', 'OCEAN PARKWAY,', 62
+'Subjects in school', 'EAST  11 STREET,', 4
+'Subjects in school', 'WEST  193 STREET,', 2
+'Subjects in school', 'NASHVILLE BOULEVARD,', 2
+'Subjects in school', 'EASTCHESTER ROAD,', 8
+'Subjects in school', 'BRIARCLIFF ROAD,', 2
+'Subjects in school', 'HURST STREET,', 2
+'Subjects in school', 'HEBERTON AVENUE,', 4
+'Subjects in school', 'COLONY AVENUE,', 3
+'Subjects in school', 'EDGEGROVE AVENUE,', 11
+'Subjects in school', 'EAST   43 STREET,', 9
+'Subjects in school', 'HIGHLAND AVENUE,', 10
+'Subjects in school', '109 AVENUE,', 15
+'Subjects in school', 'UNION STREET,', 76
+'Subjects in school', 'MONSEY PLACE,', 2
+'Subjects in school', 'EAST   93 STREET,', 7
+'Subjects in school', 'EAST   73 STREET,', 8
+'Subjects in school', 'EAST   87 STREET,', 5
+'Subjects in school', 'PECK AVENUE,', 2
+'Subjects in school', 'WEIHER COURT,', 2
+'Subjects in school', 'DREW STREET,', 3
+'Subjects in school', 'DOUGLAS ROAD,', 12
+'Subjects in school', 'FULTON AVENUE,', 3
+'Subjects in school', '3 ROAD,', 1
+'Subjects in school', 'HOLLAND AVENUE,', 4
+'Subjects in school', 'MONTANA PLACE,', 1
+'Subjects in school', 'FOX HILL TERRACE,', 6
+'Subjects in school', 'RUTHERFORD PLACE,', 8
+'Subjects in school', 'FOREST PARK DRIVE,', 27
+'Subjects in school', 'LOUIS STREET,', 20
+'Subjects in school', 'CLARKE AVENUE,', 7
+'Subjects in school', 'SICKLES STREET,', 2
+'Subjects in school', 'KEATING STREET,', 2
+'Subjects in school', '60 LANE,', 1
+'Subjects in school', 'BOOTH STREET,', 8
+'Subjects in school', '266 STREET,', 4
+'Subjects in school', 'PEDESTRIAN OVERPASS,', 157
+'Subjects in school', 'JOHN STREET,', 95
+'Subjects in school', 'PENNSYLVANIA AVENUE,', 10
+'Subjects in school', 'WEST  231 STREET,', 22
+'Subjects in school', 'WEST  147 STREET,', 25
+'Subjects in school', '170 STREET,', 14
+'Subjects in school', 'EAST   49 STREET,', 5
+'Subjects in school', 'GOLD STREET,', 56
+'Subjects in school', 'CARLTON STREET,', 8
+'Subjects in school', 'WALNUT AVENUE,', 1
+'Subjects in school', 'SETH LOOP,', 6
+'Subjects in school', '13 AVENUE,', 27
+'Subjects in school', 'LAMONT AVENUE,', 14
+'Subjects in school', 'LEXINGTON AVENUE,', 322
+'Subjects in school', 'LIRR BAY RIDGE DIV,', 24
+'Subjects in school', 'AVENUE A,', 22
+'Subjects in school', '77 STREET,', 27
+'Subjects in school', 'HARRINGTON AVENUE,', 6
+'Subjects in school', 'WEST   12 STREET,', 18
+'Subjects in school', '12 STREET,', 5
+'Subjects in school', 'VANDERBILT STREET,', 6
+'Subjects in school', 'CARLTON COURT,', 1
+'Subjects in school', 'SOUTH GANNON AVENUE,', 18
+'Subjects in school', 'LOTT PLACE,', 8
+'Subjects in school', 'POWELLS COVE BOULEVARD,', 8
+'Subjects in school', 'HOLLIS AVENUE,', 6
+'Subjects in school', 'HAWKSTONE STREET,', 1
+'Subjects in school', 'WASHINGTON WALK,', 4
+'Subjects in school', 'WEST   15 STREET,', 10
+'Subjects in school', 'WILLIS AVENUE BRIDGE EXIT RAMP,', 1
+'Subjects in school', 'RADCLIFF ROAD,', 6
+'Subjects in school', '18 AVENUE,', 2
+'Subjects in school', 'HUGUENOT AVENUE,', 16
+'Subjects in school', '96 STREET,', 27
+'Subjects in school', 'CENTRE STREET,', 14
+'Subjects in school', 'WEST   71 STREET,', 2
+'Subjects in school', 'ELDERT STREET,', 8
+'Subjects in school', 'KNAPP STREET,', 15
+'Subjects in school', 'MULBERRY AVENUE,', 32
+'Subjects in school', 'LYCEUM COURT,', 4
+'Subjects in school', 'WEST   84 STREET,', 2
+'Subjects in school', 'NAVY WALK,', 4
+'Subjects in school', 'FERN AVENUE,', 1
+'Subjects in school', 'HITCHINGS AVENUE,', 2
+'Subjects in school', 'LAKE AVENUE,', 12
+'Subjects in school', 'WEST  119 STREET,', 23
+'Subjects in school', 'WEST   36 STREET,', 10
+'Subjects in school', 'WEST    4 STREET,', 80
+'Subjects in school', '100 STREET,', 24
+'Subjects in school', 'EAST  165 STREET,', 14
+'Subjects in school', '38 AVENUE,', 29
+'Subjects in school', 'ERICSSON STREET,', 6
+'Subjects in school', 'EAST  107 STREET,', 3
+'Subjects in school', 'MARINE WAY,', 3
+'Subjects in school', 'MARINE PARKWAY BR EXIT,', 1
+'Subjects in school', 'RICHMOND PARKWAY,', 10
+'Subjects in school', 'CONTINENTAL PLACE,', 16
+'Subjects in school', 'SOPHIA LANE,', 4
+'Subjects in school', 'CBE SB EXIT   11,', 2
+'Subjects in school', 'LIVONIA AVENUE,', 130
+'Subjects in school', 'STANWIX STREET,', 87
+'Subjects in school', 'NORTH    8 STREET,', 5
+'Subjects in school', 'NEVINS STREET,', 71
+'Subjects in school', 'NATIONAL DRIVE,', 8
+'Subjects in school', 'DAWSON STREET,', 1
+'Subjects in school', 'DUNTON COURT,', 5
+'Subjects in school', 'GUNTON PLACE,', 3
+'Subjects in school', 'EASTHAMPTON BOULEVARD,', 5
+'Subjects in school', 'MARBLE STREET,', 3
+'Subjects in school', 'JEROME AVENUE,', 7
+'Subjects in school', 'ELM PLACE,', 2
+'Subjects in school', 'SINCLAIR AVENUE,', 7
+'Subjects in school', 'CHESS LOOP,', 3
+'Subjects in school', 'LIGHTHOUSE AVENUE,', 18
+'Subjects in school', 'GUINEVERE LANE,', 2
+'Subjects in school', 'GREENWICH COURT,', 2
+'Subjects in school', 'RENWICK STREET,', 6
+'Subjects in school', 'INTERBOROUGH PARKWAY,', 6
+'Subjects in school', '59 PLACE,', 6
+'Subjects in school', '75 AVENUE,', 6
+'Subjects in school', 'MONTAGUE STREET,', 30
+'Subjects in school', 'EAST   7 STREET,', 5
+'Subjects in school', 'OVINGTON AVENUE,', 24
+'Subjects in school', 'BKLYN BRIDGE EXIT RAMP,', 13
+'Subjects in school', 'LAUREL HILL TERRACE,', 1
+'Subjects in school', 'WEST  3 STREET,', 1
+'Subjects in school', 'WILTON COURT,', 6
+'Subjects in school', 'NINA AVENUE,', 4
+'Subjects in school', 'CORTELYOU ROAD,', 22
+'Subjects in school', 'BRIENNA COURT,', 3
+'Subjects in school', 'SOUTHGATE STREET,', 10
+'Subjects in school', 'BEACH   74 STREET,', 3
+'Subjects in school', 'FOX STREET,', 1
+'Subjects in school', '13 ROAD,', 4
+'Subjects in school', 'MONACO PLACE,', 4
+'Subjects in school', 'RAPELYE STREET,', 1
+'Subjects in school', 'BELT PARKWAY EASTBOUND EXIT   0,', 2
+'Subjects in school', 'WARDWELL AVENUE,', 4
+'Subjects in school', 'MEISNER AVENUE,', 3
+'Subjects in school', 'FORNES PLACE,', 3
+'Subjects in school', 'TONSOR STREET,', 2
+'Subjects in school', 'OTSEGO STREET,', 3
+'Subjects in school', 'WEST TERRACE,', 11
+'Subjects in school', 'MARION AVENUE,', 21
+'Subjects in school', 'OCEAN TERRACE,', 15
+'Subjects in school', 'WEST  114 STREET,', 10
+'Subjects in school', 'BKLYN BRIDGE EN RAMP,', 2
+'Subjects in school', 'SHEFFIELD AVENUE,', 17
+'Subjects in school', 'KENDRICK PLACE,', 2
+'Subjects in school', 'CAMPUS PLACE,', 10
+'Subjects in school', 'GROVE COURT,', 3
+'Subjects in school', 'MARKHAM LANE,', 7
+'Subjects in school', '120 AVENUE,', 32
+'Subjects in school', 'EAST  192 STREET,', 13
+'Subjects in school', 'EASTENTRY ROAD,', 3
+'Subjects in school', 'SEDGWICK AVENUE,', 32
+'Subjects in school', 'DOWNEY PLACE,', 3
+'Subjects in school', 'RIDGE COURT,', 4
+'Subjects in school', 'TURF COURT,', 1
+'Subjects in school', 'N D PERLMAN PLACE,', 8
+'Subjects in school', '84 ROAD,', 20
+'Subjects in school', 'CROSS ISLAND PARKWAY,', 76
+'Subjects in school', 'GLENMORE AVENUE,', 8
+'Subjects in school', 'DAVID SHERIDAN PLAZA,', 1
+'Subjects in school', 'WEST  207 STREET,', 35
+'Subjects in school', 'EAST  110 STREET,', 3
+'Subjects in school', 'SHOREFRONT PARKWAY,', 6
+'Subjects in school', 'ST MARKS PLACE,', 8
+'Subjects in school', 'WEST  188 STREET,', 2
+'Subjects in school', 'DIETERLE CRESCENT,', 2
+'Subjects in school', 'SUMMERFIELD STREET,', 4
+'Subjects in school', 'EAST  27 STREET,', 1
+'Subjects in school', 'DUNCAN ROAD,', 16
+'Subjects in school', 'BRIGHTON    4 STREET,', 7
+'Subjects in school', 'HEREFORD STREET,', 4
+'Subjects in school', 'BAYFIELD AVENUE,', 4
+'Subjects in school', 'MAPLE PARKWAY,', 5
+'Subjects in school', 'WEST   15 PLACE,', 4
+'Subjects in school', '22 PLACE,', 3
+'Subjects in school', 'MANH COLLEGE PARKWAY,', 14
+'Subjects in school', 'SCHUYLER STREET,', 30
+'Subjects in school', 'DUMONT AVENUE,', 72
+'Subjects in school', '32 STREET,', 25
+'Subjects in school', '57 STREET,', 10
+'Subjects in school', 'JUNCTION BOULEVARD,', 49
+'Subjects in school', 'BRINKERHOFF AVENUE,', 13
+'Subjects in school', 'SUFFOLK STREET,', 29
+'Subjects in school', 'SCHOOL ROAD,', 5
+'Subjects in school', 'WHIPPLE STREET,', 18
+'Subjects in school', '12 AVENUE,', 5
+'Subjects in school', 'REMINGTON STREET,', 8
+'Subjects in school', 'SWEETGUM LANE,', 2
+'Subjects in school', '48 AVENUE,', 13
+'Subjects in school', 'STEARNS STREET,', 6
+'Subjects in school', 'EAST  155 STREET,', 4
+'Subjects in school', 'NOTRE DAME AVENUE,', 2
+'Subjects in school', 'KINGSBOROUGH    7 WALK,', 10
+'Subjects in school', 'HESSLER AVENUE,', 1
+'Subjects in school', 'FOX LANE,', 4
+'Subjects in school', 'GROVE STREET,', 32
+'Subjects in school', 'STREET,', 11
+'Subjects in school', 'BELT PARKWAY,', 16
+'Subjects in school', '98 STREET,', 43
+'Subjects in school', 'TILLOTSON AVENUE,', 2
+'Subjects in school', 'EAST  135 STREET,', 2
+'Subjects in school', '61 ROAD,', 4
+'Subjects in school', 'SYLVATON TERRACE,', 6
+'Subjects in school', 'EAST   31 STREET,', 2
+'Subjects in school', 'WEST  254 STREET,', 1
+'Subjects in school', 'EAST  145 STREET,', 6
+'Subjects in school', '157 STREET,', 20
+'Subjects in school', 'CHERRY PLACE,', 3
+'Subjects in school', 'RENSSELAER AVENUE,', 7
+'Subjects in school', 'WILLOW POND ROAD,', 26
+'Subjects in school', 'KNESEL STREET,', 1
+'Subjects in school', 'WEST  246 STREET,', 7
+'Subjects in school', 'LEXINGTON LANE,', 2
+'Subjects in school', 'HANOVER SQUARE,', 1
+'Subjects in school', 'HUDSON BOULEVARD,', 134
+'Subjects in school', '255 STREET,', 3
+'Subjects in school', 'WATKINS AVENUE,', 7
+'Subjects in school', 'PROSPECT PARK WEST,', 24
+'Subjects in school', 'HOLLAND TUNNEL ENTRANCE,', 87
+'Subjects in school', 'NORTH   11 STREET,', 4
+'Subjects in school', 'BROOKVILLE BOULEVARD,', 4
+'Subjects in school', 'BOYLE STREET,', 1
+'Subjects in school', 'SCHMIDTS LANE,', 6
+'Subjects in school', 'SOUTH AVENUE,', 28
+'Subjects in school', 'LA SALLE AVENUE,', 7
+'Subjects in school', 'LABURNUM AVENUE,', 15
+'Subjects in school', 'JEWETT AVENUE,', 25
+'Subjects in school', 'CPW  106 APPROACH,', 3
+'Subjects in school', 'REEVE PLACE,', 4
+'Subjects in school', 'POMPEY AVENUE,', 17
+'Subjects in school', '151 STREET,', 8
+'Subjects in school', 'HARTFORD STREET,', 3
+'Subjects in school', 'OSGOOD STREET,', 4
+'Subjects in school', 'LEGION STREET,', 10
+'Subjects in school', 'LORING AVENUE,', 12
+'Subjects in school', 'NORTH    4 STREET,', 6
+'Subjects in school', 'AVENUE M,', 37
+'Subjects in school', 'PIONEER STREET,', 2
+'Subjects in school', 'PARK DRIVE NORTH,', 3
+'Subjects in school', 'R F WAGNER SR PLACE,', 4
+'Subjects in school', '221 STREET,', 17
+'Subjects in school', 'WEST BURNSIDE AVENUE,', 3
+'Subjects in school', 'ELDRIDGE STREET,', 28
+'Subjects in school', '4 COURT,', 3
+'Subjects in school', 'ST MARY'S CEMETERY BOUNDARY,', 4
+'Subjects in school', 'JUDGE STREET,', 1
+'Subjects in school', 'WALLABOUT STREET,', 1
+'Subjects in school', 'MILL AVENUE,', 2
+'Subjects in school', 'RUST STREET,', 1
+'Subjects in school', 'MARGINAL ST WEST,', 4
+'Subjects in school', 'LA SALLE STREET,', 3
+'Subjects in school', 'FOCH AVENUE,', 3
+'Subjects in school', '16 AVENUE,', 2
+'Subjects in school', 'MITCHEL COURT,', 2
+'Subjects in school', '56 STREET,', 2
+'Subjects in school', 'NEPTUNE AVENUE,', 41
+'Subjects in school', 'NORTH    9 STREET,', 2
+'Subjects in school', 'EAST   34 STREET,', 81
+'Subjects in school', 'EAST  136 STREET,', 15
+'Subjects in school', 'CROSBY STREET,', 12
+'Subjects in school', '3 STREET,', 9
+'Subjects in school', 'LINCOLN PLACE,', 10
+'Subjects in school', '203 STREET,', 11
+'Subjects in school', 'QUINCE AVENUE,', 6
+'Subjects in school', 'TRANTOR PLACE,', 1
+'Subjects in school', '10 AVENUE,', 4
+'Subjects in school', 'HOLBERNT COURT,', 1
+'Subjects in school', 'BEACH   39 STREET,', 1
+'Subjects in school', 'WEST  170 STREET,', 2
+'Subjects in school', '269 STREET,', 3
+'Subjects in school', 'WADSWORTH ROAD,', 27
+'Subjects in school', 'UNION TURNPIKE,', 105
+'Subjects in school', 'SPENCER STREET,', 9
+'Subjects in school', 'BENEDICT ROAD,', 16
+'Subjects in school', 'VAN DYKE STREET,', 4
+'Subjects in school', '144 STREET,', 5
+'Subjects in school', '36 AVENUE,', 19
+'Subjects in school', 'MIDLAND ROAD,', 1
+'Subjects in school', '106 AVENUE,', 8
+'Subjects in school', 'BABBAGE STREET,', 2
+'Subjects in school', 'RITA BRADY SQUARE,', 10
+'Subjects in school', '65 DRIVE,', 2
+'Subjects in school', 'HIGHVIEW AVENUE,', 4
+'Subjects in school', '44 AVENUE,', 9
+'Subjects in school', 'MACNISH STREET,', 2
+'Subjects in school', '14 ROAD,', 3
+'Subjects in school', 'SILVER LAKE ROAD,', 9
+'Subjects in school', 'SANFORD PLACE,', 2
+'Subjects in school', 'PEARL STREET,', 41
+'Subjects in school', 'MARCUS GARVEY BOULEVARD,', 163
+'Subjects in school', 'ROE STREET,', 2
+'Subjects in school', 'BROOKLYN BRIDGE,', 15
+'Subjects in school', 'JEFFERSON AVENUE,', 31
+'Subjects in school', 'CROTONA AVENUE,', 13
+'Subjects in school', 'EAST   22 STREET,', 37
+'Subjects in school', 'EAST   76 STREET,', 5
+'Subjects in school', 'WORTH STREET,', 2
+'Subjects in school', 'CORTELYOU AVENUE,', 2
+'Subjects in school', 'GREEN STREET,', 5
+'Subjects in school', 'PLEASANTVIEW STREET,', 5
+'Subjects in school', 'PUGSLEY AVENUE,', 8
+'Subjects in school', 'MAUJER STREET,', 3
+'Subjects in school', 'WASHINGTON SQUARE SOUTH,', 17
+'Subjects in school', 'PLEASANT AVENUE,', 30
+'Subjects in school', 'WALL STREET,', 8
+'Subjects in school', 'EAST  166 STREET,', 31
+'Subjects in school', '71 STREET,', 49
+'Subjects in school', 'EAST   88 STREET,', 7
+'Subjects in school', 'BARNETT AVENUE,', 4
+'Subjects in school', 'WEST SHORE EXPRESSWAY,', 38
+'Subjects in school', 'JUNIPER AVENUE,', 4
+'Subjects in school', 'MANIDA STREET,', 4
+'Subjects in school', '29 AVENUE,', 7
+'Subjects in school', 'DARLINGTON AVENUE,', 4
+'Subjects in school', 'MELHORN ROAD,', 2
+'Subjects in school', 'DOTY AVENUE,', 3
+'Subjects in school', '22 STREET,', 3
+'Subjects in school', '31 ROAD,', 4
+'Subjects in school', 'WEST  190 STREET,', 11
+'Subjects in school', '94 ROAD,', 10
+'Subjects in school', 'VAN CORTLANDT PARK SOUTH,', 2
+'Subjects in school', 'MADSEN AVENUE,', 1
+'Subjects in school', 'BAY   14 STREET,', 8
+'Subjects in school', 'JACKSON PLACE,', 2
+'Subjects in school', '2 STREET,', 14
+'Subjects in school', 'SOUTHERN BOULEVARD,', 21
+'Subjects in school', 'NYCTA,', 20
+'Subjects in school', 'MOSELY AVENUE,', 4
+'Subjects in school', 'VALLEYVIEW PLACE,', 1
+'Subjects in school', 'WEST   6 STREET,', 3
+'Subjects in school', 'EAST  239 STREET,', 5
+'Subjects in school', 'STATEN ISLAND EXPWY WB ET    7,', 1
+'Subjects in school', 'FERRIS STREET,', 4
+'Subjects in school', '21 STREET,', 14
+'Subjects in school', 'WINEGAR LANE,', 12
+'Subjects in school', 'STUYVESANT PLACE,', 17
+'Subjects in school', 'WINDSOR AVENUE,', 8
+'Subjects in school', 'WEST  239 STREET,', 4
+'Subjects in school', 'UNION COURT,', 1
+'Subjects in school', 'BEACH   87 STREET,', 3
+'Subjects in school', 'SUMMIT PLACE,', 1
+'Subjects in school', 'DELLWOOD ROAD,', 7
+'Subjects in school', 'EGBERT PLACE,', 4
+'Subjects in school', 'POI COURT,', 2
+'Subjects in school', 'QNSBORO BRIDGE APPROACH,', 4
+'Subjects in school', 'EAST   45 STREET,', 7
+'Subjects in school', 'AVENUE J,', 77
+'Subjects in school', 'PLATINUM AVENUE,', 12
+'Subjects in school', 'EAST  137 STREET,', 9
+'Subjects in school', '52 AVENUE,', 6
+'Subjects in school', 'FURMAN STREET,', 29
+'Subjects in school', '223 STREET,', 19
+'Subjects in school', '148 STREET,', 17
+'Subjects in school', 'CROSS ISLAND PKWY SB EN  149 ST,', 2
+'Subjects in school', 'ST FELIX STREET,', 9
+'Subjects in school', 'WEST   31 STREET,', 11
+'Subjects in school', 'HANSON PLACE,', 2
+'Subjects in school', 'WEST  189 STREET,', 2
+'Subjects in school', 'WEST   86 STREET,', 2
+'Subjects in school', 'WEBSTER PLACE,', 2
+'Subjects in school', 'GRAND CENTRL PARKWAY,', 56
+'Subjects in school', '60 STREET,', 36
+'Subjects in school', 'WESTERVELT AVENUE,', 52
+'Subjects in school', '194 STREET,', 20
+'Subjects in school', 'NUTWOOD COURT,', 3
+'Subjects in school', 'WILLIS AVENUE BRIDGE,', 1
+'Subjects in school', 'DRAKE AVENUE,', 4
+'Subjects in school', 'WEST CASTOR PLACE,', 1
+'Subjects in school', 'HOWARD LANE,', 2
+'Subjects in school', 'BEACH    7 STREET,', 2
+'Subjects in school', 'CLAREMONT PARKWAY,', 2
+'Subjects in school', 'STRONG AVENUE,', 4
+'Subjects in school', 'SAGAMORE STREET,', 5
+'Subjects in school', 'GALE AVENUE,', 1
+'Subjects in school', 'WESTWOOD AVENUE,', 109
+'Subjects in school', 'CYPRESS HILLS STREET,', 7
+'Subjects in school', 'WEST   62 STREET,', 1
+'Subjects in school', '193 STREET,', 18
+'Subjects in school', 'WEST    3 STREET,', 15
+'Subjects in school', 'TRATMAN AVENUE,', 15
+'Subjects in school', 'EAST  176 STREET,', 2
+'Subjects in school', 'EAST  119 STREET,', 2
+'Subjects in school', 'COLUMBIA STREET,', 4
+'Subjects in school', 'WEST  10 STREET,', 2
+'Subjects in school', 'WESTFIELD AVENUE,', 2
+'Subjects in school', 'NOLL STREET,', 18
+'Subjects in school', 'STEWART AVENUE,', 23
+'Subjects in school', 'BROWNELL STREET,', 2
+'Subjects in school', 'EAST   12 STREET,', 35
+'Subjects in school', 'FIELDWAY AVENUE,', 2
+'Subjects in school', 'THROGS NECK EXPRESSWAY,', 8
+'Subjects in school', 'RUTGERS STREET,', 10
+'Subjects in school', 'ST PAULS PLACE,', 13
+'Subjects in school', 'MARTLING AVENUE,', 3
+'Subjects in school', 'HUTCHINSON RIV PARKWAY,', 6
+'Subjects in school', 'JOURNEAY STREET,', 1
+'Subjects in school', 'DESTINY COURT,', 4
+'Subjects in school', 'MEMO STREET,', 4
+'Subjects in school', 'FOREST ROAD,', 2
+'Subjects in school', 'PRATT AVENUE,', 2
+'Subjects in school', 'ROCHAMBEAU AVENUE,', 10
+'Subjects in school', 'VERNON AVENUE,', 58
+'Subjects in school', 'WEST  123 STREET,', 29
+'Subjects in school', 'HESTER STREET,', 17
+'Subjects in school', 'PETRUS AVENUE,', 7
+'Subjects in school', 'WEST  165 STREET,', 8
+'Subjects in school', '207 STREET,', 5
+'Subjects in school', 'WEST  235 STREET,', 10
+'Subjects in school', 'PACIFIC AVENUE,', 4
+'Subjects in school', 'BRIGGS AVENUE,', 4
+'Subjects in school', 'PLYMOUTH AVENUE,', 4
+'Subjects in school', 'THAYER STREET,', 3
+'Subjects in school', 'LEYDEN AVENUE,', 3
+'Subjects in school', 'MARGO LOOP,', 1
+'Subjects in school', 'DEKALB AVENUE,', 3
+'Subjects in school', '263 STREET,', 5
+'Subjects in school', 'BROOKLYN QNS EXPRESSWAY,', 26
+'Subjects in school', 'SHORE ROAD,', 35
+'Subjects in school', 'BEEKMAN STREET,', 74
+'Subjects in school', 'HEWLETT STREET,', 11
+'Subjects in school', 'WALDEN AVENUE,', 2
+'Subjects in school', 'WEST  142 STREET,', 9
+'Subjects in school', 'EAST  225 STREET,', 3
+'Subjects in school', '4 STREET,', 9
+'Subjects in school', 'DOWNING STREET,', 3
+'Subjects in school', 'SOUTH    6 STREET,', 13
+'Subjects in school', 'GUERNSEY STREET,', 8
+'Subjects in school', 'LACOMBE AVENUE,', 1
+'Subjects in school', 'VAN TUYL STREET,', 2
+'Subjects in school', 'THROGMORTON AVENUE,', 4
+'Subjects in school', 'STOCKTON STREET,', 58
+'Subjects in school', 'DUER LANE,', 3
+'Subjects in school', 'CLAYTON STREET,', 2
+'Subjects in school', 'ETON STREET,', 4
+'Subjects in school', 'OCEANA DRIVE,', 2
+'Subjects in school', 'MEDINA STREET,', 12
+'Subjects in school', 'ROBERTS DRIVE,', 4
+'Subjects in school', '254 STREET,', 1
+'Subjects in school', 'RUSHMORE AVENUE,', 6
+'Subjects in school', 'GRAND STREET,', 155
+'Subjects in school', 'POWERS STREET,', 36
+'Subjects in school', 'PROSPECT AVENUE,', 69
+'Subjects in school', 'DIANA TRAIL,', 15
+'Subjects in school', 'MACLAY AVENUE,', 6
+'Subjects in school', 'ROYCE STREET,', 4
+'Subjects in school', 'CROSS BRONX EXPWY NB ET    6 B,', 1
+'Subjects in school', 'NOSTRAND AVENUE,', 193
+'Subjects in school', 'F D R DRIVE,', 505
+'Subjects in school', 'SUTTER AVENUE,', 129
+'Subjects in school', 'LINWOOD STREET,', 16
+'Subjects in school', 'CARLISLE STREET,', 5
+'Subjects in school', 'GREENTREE LANE,', 3
+'Subjects in school', 'VARICK STREET,', 85
+'Subjects in school', '17 AVENUE,', 46
+'Subjects in school', 'FOREST AVENUE,', 35
+'Subjects in school', '3 AVENUE,', 13
+'Subjects in school', '115 STREET,', 27
+'Subjects in school', '116 STREET,', 21
+'Subjects in school', 'WEST  146 STREET,', 8
+'Subjects in school', 'BORDEN AVENUE,', 22
+'Subjects in school', '58 STREET,', 12
+'Subjects in school', 'LINDEN PLACE,', 6
+'Subjects in school', 'WILD AVENUE,', 10
+'Subjects in school', 'WOODLAWN CEMETERY BOUNDARY,', 1
+'Subjects in school', 'HAMPTON STREET,', 1
+'Subjects in school', 'BEDFORD STREET,', 4
+'Subjects in school', 'LYNCH STREET,', 6
+'Subjects in school', 'WEST  108 STREET,', 4
+'Subjects in school', 'HARVEST AVENUE,', 12
+'Subjects in school', 'LINDENWOOD PLACE,', 4
+'Subjects in school', 'ST GEORGE DRIVE,', 6
+'Subjects in school', 'SEA BREEZE AVENUE,', 8
+'Subjects in school', 'OAKLAND PLACE,', 15
+'Subjects in school', 'TEN EYCK STREET,', 7
+'Subjects in school', '108 AVENUE,', 9
+'Subjects in school', 'GUY R BREWER BOULEVARD,', 12
+'Subjects in school', 'EAST  195 STREET,', 17
+'Subjects in school', 'GILLMORE STREET,', 6
+'Subjects in school', 'EAST  187 STREET,', 20
+'Subjects in school', '116 AVENUE,', 10
+'Subjects in school', 'WARWICK AVENUE,', 20
+'Subjects in school', '42 AVENUE,', 12
+'Subjects in school', 'HUDSON AVENUE,', 16
+'Subjects in school', 'EAST  03 STREET,', 1
+'Subjects in school', '142 STREET,', 8
+'Subjects in school', 'MANTON STREET,', 2
+'Subjects in school', 'TILSON PLACE,', 13
+'Subjects in school', 'ST LUKES AVENUE,', 2
+'Subjects in school', '53 STREET,', 9
+'Subjects in school', '1 AVENUE,', 2
+'Subjects in school', 'LINDEN BOULEVARD,', 155
+'Subjects in school', 'NORTH CONDUIT AVENUE,', 6
+'Subjects in school', 'FIRE ACCESS LANE,', 14
+'Subjects in school', 'SUMMIT STREET,', 9
+'Subjects in school', 'FOCH BOULEVARD,', 3
+'Subjects in school', '94 STREET,', 21
+'Subjects in school', '49 ROAD,', 1
+'Subjects in school', 'EAST   98 STREET,', 11
+'Subjects in school', 'BUTLER STREET,', 14
+'Subjects in school', 'LIVERPOOL STREET,', 2
+'Subjects in school', 'GETTYSBURG STREET,', 10
+'Subjects in school', '21 ROAD,', 7
+'Subjects in school', 'GRASMERE DRIVE,', 4
+'Subjects in school', 'NORTH DRIVE,', 2
+'Subjects in school', 'WEST   81 STREET,', 2
+'Subjects in school', 'BERRIAN BOULEVARD,', 4
+'Subjects in school', '5 DRIVE,', 2
+'Subjects in school', 'EAST   28 STREET,', 21
+'Subjects in school', 'AVENUE L,', 38
+'Subjects in school', '7 AVENUE,', 381
+'Subjects in school', 'SARATOGA AVENUE,', 183
+'Subjects in school', 'SOBEL COURT,', 2
+'Subjects in school', 'WEST   17 STREET,', 12
+'Subjects in school', '175 STREET,', 8
+'Subjects in school', 'DAVIDSON AVENUE,', 1
+'Subjects in school', 'WEST  256 STREET,', 4
+'Subjects in school', 'SALAMANDER COURT,', 2
+'Subjects in school', 'NORTH BURGHER AVENUE,', 6
+'Subjects in school', 'QNSBO BR UP ROADWAY APPROACH,', 10
+'Subjects in school', 'INDIA STREET,', 1
+'Subjects in school', 'STATEN IS CEMETERY BOUNDARY,', 2
+'Subjects in school', 'EAST  180 STREET,', 3
+'Subjects in school', 'SKIDMORE LANE,', 2
+'Subjects in school', 'MONTREAL AVENUE,', 8
+'Subjects in school', '132 STREET,', 19
+'Subjects in school', 'JARDINE AVENUE,', 5
+'Subjects in school', '46 AVENUE,', 22
+'Subjects in school', 'BERGEN STREET,', 5
+'Subjects in school', 'WEST  118 STREET,', 7
+'Subjects in school', 'SERRELL AVENUE,', 13
+'Subjects in school', 'ELMHURST AVENUE,', 6
+'Subjects in school', 'SUTTON STREET,', 8
+'Subjects in school', 'LYNDALE LANE,', 1
+'Subjects in school', '161 STREET,', 24
+'Subjects in school', '233 STREET,', 7
+'Subjects in school', '121 AVENUE,', 16
+'Subjects in school', '139 ROAD,', 2
+'Subjects in school', 'UTTER AVENUE,', 8
+'Subjects in school', 'FAIRBURY AVENUE,', 3
+'Subjects in school', 'FURMANVILLE AVENUE,', 1
+'Subjects in school', 'CRANFORD AVENUE,', 1
+'Subjects in school', '83 AVENUE,', 14
+'Subjects in school', 'UTICA AVENUE,', 86
+'Subjects in school', 'BAYONNE BRIDGE APPROACH,', 296
+'Subjects in school', 'GLEN STREET,', 20
+'Subjects in school', 'WICKHAM AVENUE,', 10
+'Subjects in school', 'SOUND STREET,', 1
+'Subjects in school', 'BKLYN BRIDGE ENTRANCE RAMP,', 6
+'Subjects in school', 'LONGWOOD AVENUE,', 7
+'Subjects in school', 'EAST  167 STREET,', 28
+'Subjects in school', '197 STREET,', 8
+'Subjects in school', 'EMERSON AVENUE,', 2
+'Subjects in school', 'PETTIT AVENUE,', 2
+'Subjects in school', 'ST JOHNS AVENUE,', 11
+'Subjects in school', 'SOREN STREET,', 3
+'Subjects in school', 'HOLLAND TUNNEL EXIT,', 3
+'Subjects in school', 'VERRAZANO BRIDGE APPROACH,', 10
+'Subjects in school', 'WEST  101 STREET,', 2
+'Subjects in school', 'CUNARD PLACE,', 3
+'Subjects in school', 'BEACH   2 STREET,', 1
+'Subjects in school', 'JUMEL TERRACE,', 2
+'Subjects in school', 'MAPLETON AVENUE,', 16
+'Subjects in school', 'SOUTH RAILROAD AVENUE,', 9
+'Subjects in school', 'EAST  227 STREET,', 3
+'Subjects in school', 'LITTLE NECK PARKWAY,', 39
+'Subjects in school', 'REVERE PLACE,', 2
+'Subjects in school', 'CRAFT AVENUE,', 5
+'Subjects in school', '74 STREET,', 48
+'Subjects in school', 'WATCHOGUE ROAD,', 17
+'Subjects in school', 'HOME AVENUE,', 8
+'Subjects in school', 'PEARSON STREET,', 1
+'Subjects in school', 'WAVERLY PLACE,', 27
+'Subjects in school', 'WEST  29 STREET,', 5
+'Subjects in school', '213 STREET,', 8
+'Subjects in school', '43 AVENUE,', 9
+'Subjects in school', 'RIVIERA DRIVE,', 1
+'Subjects in school', '16 STREET,', 5
+'Subjects in school', 'BRATTLE AVENUE,', 2
+'Subjects in school', 'HIGHLAND BOULEVARD,', 10
+'Subjects in school', 'WINANT AVENUE,', 8
+'Subjects in school', 'THERESA PLACE,', 12
+'Subjects in school', 'HART STREET,', 1
+'Subjects in school', 'BROADWAY ALLEY,', 4
+'Subjects in school', 'BEACH   89 STREET,', 3
+'Subjects in school', 'BEACH   45 STREET,', 1
+'Subjects in school', 'CHATTERTON AVENUE,', 5
+'Subjects in school', 'BENTLEY LANE,', 2
+'Subjects in school', 'LINCOLN TNNL APPROACH,', 145
+'Subjects in school', '8 AVENUE,', 509
+'Subjects in school', 'SKILLMAN STREET,', 2
+'Subjects in school', 'EAST   55 STREET,', 6
+'Subjects in school', 'EAST   95 STREET,', 7
+'Subjects in school', '165 STREET,', 29
+'Subjects in school', 'WAVERLY AVENUE,', 12
+'Subjects in school', 'TRIMBLE PLACE,', 21
+'Subjects in school', 'TALBOT STREET,', 4
+'Subjects in school', 'EAST  232 STREET,', 7
+'Subjects in school', 'PINE DRIVE,', 6
+'Subjects in school', 'BIJOU AVENUE,', 2
+'Subjects in school', 'MONTIETH STREET,', 2
+'Subjects in school', 'SOUTH PORTLAND AVENUE,', 5
+'Subjects in school', 'GRAND ARMY PLAZA,', 3
+'Subjects in school', '159 AVENUE,', 12
+'Subjects in school', 'RYDER STREET,', 4
+'Subjects in school', '138 AVENUE,', 2
+'Subjects in school', 'FORSYTH STREET,', 16
+'Subjects in school', 'OHIO WALK,', 2
+'Subjects in school', 'EDISON AVENUE,', 10
+'Subjects in school', 'BARTON AVENUE,', 2
+'Subjects in school', 'FT HAMILTON PARKWAY,', 96
+'Subjects in school', '60 AVENUE,', 14
+'Subjects in school', 'DIXON AVENUE,', 6
+'Subjects in school', 'COMMONWEALTH BOULEVARD,', 6
+'Subjects in school', 'OAKDALE STREET,', 5
+'Subjects in school', '106 STREET,', 15
+'Subjects in school', 'CURTIS STREET,', 6
+'Subjects in school', 'DEISIUS STREET,', 2
+'Subjects in school', 'JASMINE AVENUE,', 4
+'Subjects in school', 'LENEVAR AVENUE,', 16
+'Subjects in school', 'PENDLETON PLACE,', 6
+'Subjects in school', 'FLORENCE STREET,', 1
+'Subjects in school', 'MEAGHER AVENUE,', 1
+'Subjects in school', 'CENTRE AVENUE,', 10
+'Subjects in school', 'MITCHEL LANE,', 3
+'Subjects in school', 'MAXIE COURT,', 1
+'Subjects in school', 'PROSPECT EXPRESSWAY,', 7
+'Subjects in school', 'WEST MOSHOLU PARKWAY NORTH,', 2
+'Subjects in school', 'BELMONT AVENUE,', 1
+'Subjects in school', '80 AVENUE,', 3
+'Subjects in school', 'SUTTON PLACE SOUTH,', 10
+'Subjects in school', 'ST MARKS AVENUE,', 33
+'Subjects in school', 'UTOPIA PARKWAY,', 47
+'Subjects in school', 'EAST  150 STREET,', 12
+'Subjects in school', 'ADAMS STREET,', 1
+'Subjects in school', 'GABRIELLE COURT,', 1
+'Subjects in school', 'EAST  222 STREET,', 1
+'Subjects in school', 'LUDLUM AVENUE,', 3
+'Subjects in school', '196 STREET,', 20
+'Subjects in school', 'WHITMAN DRIVE,', 13
+'Subjects in school', 'WEST  260 STREET,', 3
+'Subjects in school', 'EAST  102 STREET,', 6
+'Subjects in school', '19 ROAD,', 8
+'Subjects in school', '56 ROAD,', 29
+'Subjects in school', 'WEST    ROAD,', 1
+'Subjects in school', 'JACOBUS STREET,', 2
+'Subjects in school', 'NORWOOD AVENUE,', 4
+'Subjects in school', 'WEST  153 STREET,', 2
+'Subjects in school', 'WEST   32 STREET,', 12
+'Subjects in school', 'WEST   8 STREET,', 2
+'Subjects in school', 'WEST  150 STREET,', 8
+'Subjects in school', 'PURVIS STREET,', 12
+'Subjects in school', '88 PLACE,', 2
+'Subjects in school', 'JAMES PLACE,', 1
+'Subjects in school', 'MEEKER AVENUE,', 9
+'Subjects in school', 'WARWICK STREET,', 23
+'Subjects in school', 'DRIGGS AVENUE,', 76
+'Subjects in school', '201 STREET,', 15
+'Subjects in school', 'DEAN AVENUE,', 2
+'Subjects in school', 'GREENWICH MEWS,', 2
+'Subjects in school', 'STRANG AVENUE,', 4
+'Subjects in school', 'DOBBIN STREET,', 4
+'Subjects in school', '160 AVENUE,', 12
+'Subjects in school', 'GARNET STREET,', 2
+'Subjects in school', 'BARTOW AVENUE,', 5
+'Subjects in school', 'MAGAW PLACE,', 4
+'Subjects in school', 'ST PATRICKS PLACE,', 1
+'Subjects in school', '11 AVENUE,', 429
+'Subjects in school', 'UNNAMED STREET,', 123
+'Subjects in school', 'EAST    7 STREET,', 36
+'Subjects in school', '72 ROAD,', 5
+'Subjects in school', 'EAST  231 STREET,', 4
+'Subjects in school', 'MALONE AVENUE,', 5
+'Subjects in school', 'MONTGOMERY STREET,', 13
+'Subjects in school', 'ODER AVENUE,', 4
+'Subjects in school', 'FERN PLACE,', 3
+'Subjects in school', 'GRAND AVENUE,', 49
+'Subjects in school', 'MONROE AVENUE,', 9
+'Subjects in school', 'HENDRICKS AVENUE,', 16
+'Subjects in school', 'VERZANO BRDG APPROACH,', 4
+'Subjects in school', 'RAVENHURST AVENUE,', 8
+'Subjects in school', 'BRIGHTON    2 STREET,', 10
+'Subjects in school', 'DIGBY PLACE,', 2
+'Subjects in school', 'WAKEFIELD AVENUE,', 1
+'Subjects in school', 'MACON AVENUE,', 12
+'Subjects in school', 'WEST BROADWAY,', 240
+'Subjects in school', '192 STREET,', 15
+'Subjects in school', '1 STREET,', 7
+'Subjects in school', '161 AVENUE,', 5
+'Subjects in school', 'HINSDALE STREET,', 20
+'Subjects in school', 'JEANNETTE AVENUE,', 3
+'Subjects in school', 'PERSHING CRESCENT,', 2
+'Subjects in school', 'CHURCHILL AVENUE,', 4
+'Subjects in school', 'UNITED HEBREW CEMETERY BOUNDARY,', 3
+'Subjects in school', 'BAY   19 STREET,', 2
+'Subjects in school', 'JOLINE AVENUE,', 4
+'Subjects in school', 'MICKLE AVENUE,', 2
+'Subjects in school', 'SANDERS STREET,', 3
+'Subjects in school', 'DELAWARE STREET,', 2
+'Subjects in school', '116 ROAD,', 2
+'Subjects in school', 'KINGDOM AVENUE,', 1
+'Subjects in school', 'LAWN COURT,', 5
+'Subjects in school', 'MOTHER GASTON BOULEVARD,', 61
+'Subjects in school', 'EAST   99 STREET,', 2
+'Subjects in school', 'AVENUE P,', 43
+'Subjects in school', 'NASHVILLE STREET,', 4
+'Subjects in school', '19 AVENUE,', 39
+'Subjects in school', 'MERRICK BOULEVARD,', 43
+'Subjects in school', 'EAST    3 STREET,', 12
+'Subjects in school', 'RATHBUN AVENUE,', 7
+'Subjects in school', 'REX ROAD,', 2
+'Subjects in school', 'WILLIAMSON AVENUE,', 2
+'Subjects in school', 'WEST  236 STREET,', 11
+'Subjects in school', 'ARMSTRONG AVENUE,', 6
+'Subjects in school', 'RIDGEWOOD PLACE,', 72
+'Subjects in school', 'DEMEREST ROAD,', 4
+'Subjects in school', 'OAK POINT AVENUE,', 2
+'Subjects in school', 'VAN STREET,', 4
+'Subjects in school', 'PLUMB    1 STREET,', 5
+'Subjects in school', 'SUMNER AVENUE,', 6
+'Subjects in school', 'EAST   37 STREET,', 13
+'Subjects in school', 'CORTLANDT ALLEY,', 41
+'Subjects in school', 'SHADOW LANE,', 2
+'Subjects in school', 'PETER STREET,', 1
+'Subjects in school', 'SAMPSON AVENUE,', 15
+'Subjects in school', 'WEST  145 STREET,', 3
+'Subjects in school', 'LAKE STREET,', 1
+'Subjects in school', 'WHITE PLAINS ROAD,', 51
+'Subjects in school', 'AVENUE B,', 32
+'Subjects in school', 'SACKETT AVENUE,', 10
+'Subjects in school', '62 STREET,', 9
+'Subjects in school', 'NARROWS ROAD SOUTH,', 9
+'Subjects in school', 'WHITE PLACE,', 4
+'Subjects in school', 'KINGSBRIDGE AVENUE,', 14
+'Subjects in school', 'KENILWORTH PLACE,', 2
+'Subjects in school', 'WEST   42 STREET,', 1
+'Subjects in school', 'BEACH   94 STREET,', 13
+'Subjects in school', 'BARLOW AVENUE,', 2
+'Subjects in school', 'TESSA COURT,', 1
+'Subjects in school', 'EAST  38 STREET,', 2
+'Subjects in school', 'EAST   23 STREET,', 60
+'Subjects in school', '20 STREET,', 5
+'Subjects in school', 'HOLLIS COURT BOULEVARD,', 8
+'Subjects in school', 'EAST  115 STREET,', 33
+'Subjects in school', 'RICHMOND STREET,', 3
+'Subjects in school', 'HAMILTON PLACE,', 14
+'Subjects in school', 'COWEN PLACE,', 3
+'Subjects in school', 'MERRY AVENUE,', 13
+'Subjects in school', 'VISTA AVENUE,', 2
+'Subjects in school', 'TAN PLACE,', 2
+'Subjects in school', '12 ROAD,', 4
+'Subjects in school', '8 ROAD,', 4
+'Subjects in school', 'ATLANTIC AVENUE,', 85
+'Subjects in school', '95 STREET,', 18
+'Subjects in school', 'VAN DUZER STREET,', 15
+'Subjects in school', 'DELMAR AVENUE,', 1
+'Subjects in school', 'EAST  24 STREET,', 3
+'Subjects in school', 'SOUTH    5 STREET,', 14
+'Subjects in school', '101 STREET,', 27
+'Subjects in school', 'EAST END AVENUE,', 4
+'Subjects in school', 'MANILLA STREET,', 2
+'Subjects in school', '65 AVENUE,', 4
+'Subjects in school', 'DINSMORE PLACE,', 2
+'Subjects in school', 'TAYLOR AVENUE,', 20
+'Subjects in school', '1 STREET,', 27
+'Subjects in school', 'BRIGHTON    6 STREET,', 4
+'Subjects in school', '155 STREET,', 7
+'Subjects in school', 'BROWVALE LANE,', 2
+'Subjects in school', 'COTTAGE PLACE,', 1
+'Subjects in school', 'THATFORD AVENUE,', 3
+'Subjects in school', 'OLD BEACH   88 STREET,', 6
+'Subjects in school', 'NATIONAL STREET,', 2

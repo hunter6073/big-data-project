@@ -1,0 +1,6 @@
+'other', 'High School', 370
+'other', 'None', 0
+'other', 'Transfer School,', 34
+'other', 'Middle School,', 355
+'other', 'Elementary School,', 593
+'other', 'K-8,', 141
