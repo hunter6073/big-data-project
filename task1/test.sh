@@ -17,7 +17,9 @@ do
 	fileName=$(echo $line | cut -d "," -f2) # Name of the file
 	datasetName=$(echo $line | cut -d "," -f3) # Name of the dataset
 	if [ $index -ge $min ] && [ $index -lt $max ]; then
-		spark-submit test.py $fileName $datasetName
+		fileName=$(echo $fileName | tr "'" '"')
+		datasetName=$(echo $datasetName | tr "'" '"')
+		spark-submit test.py $fileName "$datasetName"
 	fi
 done < "$input"
 

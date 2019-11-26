@@ -196,15 +196,17 @@ if __name__ == "__main__":
         .config("spark.some.config.option", "some-value") \
         .getOrCreate()
     # load table into database
+    argv1 = sys.argv[1].replace("\"","").strip()
+    argv2 = sys.argv[2].replace("\"","").strip()
     table = spark.read.format('csv')\
         .options(delimiter="\t", header='true', inferschema='true')\
-        .load(sys.argv[1])
+        .load(argv1)
     # create table
     table.createOrReplaceTempView(tablename)
 
     # the name of the dataset correlating to the tsv file
-    filename = sys.argv[2]
-    inFile = sys.argv[1].split('.', 1)[0]
+    filename = argv2
+    inFile = argv1.split('.', 1)[0]
     print("profiling file:" + filename)
 
     columns = {}  # a list of columns
