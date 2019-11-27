@@ -194,16 +194,21 @@ if __name__ == "__main__":
         .appName("final-project") \
         .config("spark.some.config.option", "some-value") \
         .getOrCreate()
+    s_min = int(sys.argv[1])
+    s_max = int(sys.argv[2])
     # load table into database
-    start_time = time.time()
     # Setup
     filepath = 'dataset_index.txt'
     with open(filepath) as fp:
         line = fp.readline()
         while line:
             try:
+                start_time = time.time()
                 arr = line.split(",")
                 index = int(arr[0].strip())
+                if index < int(s_min) or index > int(s_max):
+                    line = fp.readline()
+                    continue
                 argv1 = arr[1].replace("'","").strip()
                 argv2 = arr[2].replace("'","").strip()
                 line = fp.readline()
@@ -212,7 +217,6 @@ if __name__ == "__main__":
                     .load(argv1)
                 # create table
                 table.createOrReplaceTempView(tablename)
-
                 # the name of the dataset correlating to the tsv file
                 filename = argv2
                 inFile = argv1.split('.', 1)[0]
@@ -226,7 +230,7 @@ if __name__ == "__main__":
                 cols = df.columns  # array of all column names
                 # total_row, which is used to calculate empty cells
                 total_row = df.count()
-                
+                print("there are "+str(len(cols))+" columns in this table") 
                 for col in cols:  # for each column
 
                     # dataframe that is not empty
@@ -277,6 +281,7 @@ if __name__ == "__main__":
                     detailed_distinct_df = distinct_df.rdd.map(lambda s: typeChecker(s))
                     # detailed_distinct_stats = [(TYPE, (DETAILED_STATS))]
                     # A list of detailed stats of all the datatypes this column has
+                    print("started combine by key")
                     detailed_distinct_stats = detailed_distinct_df \
                         .combineByKey(createTuple, mergeVal, mergeTuple) \
                         .collect()
@@ -328,7 +333,7 @@ if __name__ == "__main__":
                 outputFile = inFile.split("/")[-1]+".json"
                 with open(outputFile, 'w') as outfile:
                     json.dump(data, outfile, default=str)
-            except:
-                print("there was an error with file:") 
-                print(line)   
+            except Exception as e:
+                print("there was an error")
+                print(e.encode('utf-8'))    
     sc.stop()
