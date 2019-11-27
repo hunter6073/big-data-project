@@ -188,8 +188,6 @@ def mergeTuple(l, r):
 
 
 if __name__ == "__main__":
-    start_time = time.time()
-    # Setup
     sc = SparkContext()
     spark = SparkSession \
         .builder \
@@ -197,125 +195,140 @@ if __name__ == "__main__":
         .config("spark.some.config.option", "some-value") \
         .getOrCreate()
     # load table into database
-    argv1 = sys.argv[1].replace("\"","").strip()
-    argv2 = sys.argv[2].replace("\"","").strip()
-    table = spark.read.format('csv')\
-        .options(delimiter="\t", header='true', inferschema='true')\
-        .load(argv1)
-    # create table
-    table.createOrReplaceTempView(tablename)
+    start_time = time.time()
+    # Setup
+    filepath = 'dataset_index.txt'
+    with open(filepath) as fp:
+        line = fp.readline()
+        while line:
+            try:
+                arr = line.split(",")
+                index = int(arr[0].strip())
+                argv1 = arr[1].replace("'","").strip()
+                argv2 = arr[2].replace("'","").strip()
+                line = fp.readline()
+                table = spark.read.format('csv')\
+                    .options(delimiter="\t", header='true', inferschema='true')\
+                    .load(argv1)
+                # create table
+                table.createOrReplaceTempView(tablename)
 
-    # the name of the dataset correlating to the tsv file
-    filename = argv2
-    inFile = argv1.split('.', 1)[0]
-    print("profiling file:" + filename)
+                # the name of the dataset correlating to the tsv file
+                filename = argv2
+                inFile = argv1.split('.', 1)[0]
+                print("profiling file:" + filename)
 
-    columns = {}  # a list of columns
-    key_column_candidates = []  # all the columns that could be primary key candidates
+                columns = {}  # a list of columns
+                key_column_candidates = []  # all the columns that could be primary key candidates
 
-    # go through the table and for each column, create the column_specification content
-    df = spark.sql("select * from %s" % (tablename))
-    cols = df.columns  # array of all column names
-    # total_row, which is used to calculate empty cells
-    total_row = df.count()
-    
-    for col in cols:  # for each column
+                # go through the table and for each column, create the column_specification content
+                df = spark.sql("select * from %s" % (tablename))
+                cols = df.columns  # array of all column names
+                # total_row, which is used to calculate empty cells
+                total_row = df.count()
+                
+                for col in cols:  # for each column
 
-        # dataframe that is not empty
-        #column_df = \
-        #    spark.sql('SELECT `%s` as _value FROM `%s` WHERE `%s` is NOT NULL'
-        #              % (col, tablename, col))
-        column_df = df.filter(df[col1].isNotNull())
-        column = {}
-        ##########################################################################
-        column['column_name'] = col  # the name of the column
-        """ 1.1 DONE: get the number of non empty cells (type: integer) """
-        column['number_non_empty_cells'] = column_df.count()
+                    # dataframe that is not empty
+                    #column_df = \
+                    #    spark.sql('SELECT `%s` as _value FROM `%s` WHERE `%s` is NOT NULL'
+                    #              % (col, tablename, col))
+                    column_df = df.filter(df[col].isNotNull())
+                    column = {}
+                    ##########################################################################
+                    column['column_name'] = col  # the name of the column
+                    """ 1.1 DONE: get the number of non empty cells (type: integer) """
+                    column['number_non_empty_cells'] = column_df.count()
 
-        """ 1.2 DONE: get the numebr of empty cells (type: integer) """
-        column['number_empty_cells'] = total_row - \
-            column['number_non_empty_cells']
+                    """ 1.2 DONE: get the numebr of empty cells (type: integer) """
+                    column['number_empty_cells'] = total_row - \
+                        column['number_non_empty_cells']
 
-        """ 1.3 DONE: number of distinct values in the column (type: integer) """
-        #distinct_df = \
-        #    spark.sql('SELECT `%s` as _value, count(*) as _count \
-        #               FROM `%s`                                 \
-        #               GROUP BY _value' % (col, tablename))
-        distinct_df = df.groupBy(col).count().toDF('_value','_count')
-        num_distinct_count = distinct_df.count()
-        column['number_distinct_values'] = num_distinct_count
+                    """ 1.3 DONE: number of distinct values in the column (type: integer) """
+                    #distinct_df = \
+                    #    spark.sql('SELECT `%s` as _value, count(*) as _count \
+                    #               FROM `%s`                                 \
+                    #               GROUP BY _value' % (col, tablename))
+                    distinct_df = df.groupBy(col).count().toDF('_value','_count')
+                    num_distinct_count = distinct_df.count()
+                    column['number_distinct_values'] = num_distinct_count
 
-        """ 1.6 Extra Credit TODO: For each table T, indicate columns that are candidates for being keys of T"""
-        # only columns that have #unique val == total val can be a Key Candidate
-        if num_distinct_count == total_row:
-            key_column_candidates.append(col)
+                    """ 1.6 Extra Credit TODO: For each table T, indicate columns that are candidates for being keys of T"""
+                    # only columns that have #unique val == total val can be a Key Candidate
+                    if num_distinct_count == total_row:
+                        key_column_candidates.append(col)
 
-        """ 1.4 DONE: top 5 most frequent values of this column(type: array) """
-        # may need to get rid of the NULL?
-        #most_frequent = \
-        #    spark.sql('SELECT `%s` as _value, count(*) FROM `%s` \
-        #                GROUP BY `%s`                            \
-        #                ORDER BY count(*) DESC                   \
-        #                LIMIT 5' % (col, tablename, col))        \
-        #    .collect()
-        most_frequent = distinct_df.sort(desc("_count")).take(5)
-        column['frequent_values'] = [row._value for row in most_frequent]
+                    """ 1.4 DONE: top 5 most frequent values of this column(type: array) """
+                    # may need to get rid of the NULL?
+                    #most_frequent = \
+                    #    spark.sql('SELECT `%s` as _value, count(*) FROM `%s` \
+                    #                GROUP BY `%s`                            \
+                    #                ORDER BY count(*) DESC                   \
+                    #                LIMIT 5' % (col, tablename, col))        \
+                    #    .collect()
+                    most_frequent = distinct_df.sort(desc("_count")).take(5)
+                    column['frequent_values'] = [row._value for row in most_frequent]
 
-        """ 1.5 DONE: for every data type that this column have, output the required values in data_types """
-        # detailed_distinct_df is of format: 
-        # (TYPE, (VALUE, COUNT, TYPE))
-        # key: TYPE
-        # value: (VALUE, COUNT, TYPE)
-        detailed_distinct_df = distinct_df.rdd.map(lambda s: typeChecker(s))
-        # detailed_distinct_stats = [(TYPE, (DETAILED_STATS))]
-        # A list of detailed stats of all the datatypes this column has
-        detailed_distinct_stats = detailed_distinct_df \
-            .combineByKey(createTuple, mergeVal, mergeTuple) \
-            .collect()
+                    """ 1.5 DONE: for every data type that this column have, output the required values in data_types """
+                    # detailed_distinct_df is of format: 
+                    # (TYPE, (VALUE, COUNT, TYPE))
+                    # key: TYPE
+                    # value: (VALUE, COUNT, TYPE)
+                    detailed_distinct_df = distinct_df.rdd.map(lambda s: typeChecker(s))
+                    # detailed_distinct_stats = [(TYPE, (DETAILED_STATS))]
+                    # A list of detailed stats of all the datatypes this column has
+                    detailed_distinct_stats = detailed_distinct_df \
+                        .combineByKey(createTuple, mergeVal, mergeTuple) \
+                        .collect()
 
-        data_types = []
-        for a_type_stats in detailed_distinct_stats:
-            row_type = a_type_stats[0]
-            data = a_type_stats[1]
-            if row_type == NULL:
-                continue
-            json_res = {}
-            json_res["type"] = row_type
-            json_res["count"] = data[1]
-            if row_type == INTEGER or row_type == REAL:
-                 # (type, count, sum, sum**2, min, max)
-                json_res["max_value"] = data[5]
-                json_res["min_value"] = data[4]
-                n = data[1]
-                sumX = data[2]
-                mean = sumX / n
-                sumSqaured = data[3]
-                stddev = ((sumSqaured - n*mean*mean)/n) ** 0.5
-                json_res["mean"] = mean
-                json_res["stddev"] = stddev
-            elif row_type == DATE:
-                # (type, count, min, max)
-                json_res["max_value"] = str(data[3])
-                json_res["min_value"] = str(data[2])
-            elif row_type == TEXT:
-                # (type, count, shortest_five, longest_five, total_length)
-                json_res["shortest_values"] = data[2]
-                json_res["longest_values"] = data[3]
-                json_res["average_length"] = data[4] / data[1]
-            data_types.append(json_res)
-        column['data_types'] = data_types
-        columns[col] = column
+                    data_types = []
+                    for a_type_stats in detailed_distinct_stats:
+                        row_type = a_type_stats[0]
+                        data = a_type_stats[1]
+                        if row_type == NULL:
+                            continue
+                        json_res = {}
+                        json_res["type"] = row_type
+                        json_res["count"] = data[1]
+                        if row_type == INTEGER or row_type == REAL:
+                            # (type, count, sum, sum**2, min, max)
+                            json_res["max_value"] = data[5]
+                            json_res["min_value"] = data[4]
+                            n = data[1]
+                            sumX = data[2]
+                            mean = sumX / n
+                            sumSqaured = data[3]
+                            stddev = ((sumSqaured - n*mean*mean)/n) ** 0.5
+                            json_res["mean"] = mean
+                            json_res["stddev"] = stddev
+                        elif row_type == DATE:
+                            # (type, count, min, max)
+                            json_res["max_value"] = str(data[3])
+                            json_res["min_value"] = str(data[2])
+                        elif row_type == TEXT:
+                            # (type, count, shortest_five, longest_five, total_length)
+                            json_res["shortest_values"] = data[2]
+                            json_res["longest_values"] = data[3]
+                            json_res["average_length"] = data[4] / data[1]
+                        data_types.append(json_res)
+                    column['data_types'] = data_types
+                    columns[col] = column
 
-    # assembling the json file
-    data = {}  # the base for the json file
-    # assign dataset_name value to the json file
-    data['dataset_name'] = filename
-    data['columns'] = columns  # assign columns value to the json file
-    # assign key_column_candidates to the json file
-    data['key_column_candidates'] = key_column_candidates
-    data['time_elapsed'] = time.time() - start_time
-    # write the json file to output, name the output file as inFile.json, inFile being the name of the file
-    outputFile = inFile.split("/")[-1]+".json"
-    with open(outputFile, 'w') as outfile:
-        json.dump(data, outfile, default=str)
+                # assembling the json file
+                data = {}  # the base for the json file
+                # assign dataset_name value to the json file
+                data['dataset_name'] = filename
+                data['columns'] = columns  # assign columns value to the json file
+                # assign key_column_candidates to the json file
+                data['key_column_candidates'] = key_column_candidates
+                data['time_elapsed'] = time.time() - start_time
+                print("time to run this file is:")
+                print(time.time() - start_time)
+                # write the json file to output, name the output file as inFile.json, inFile being the name of the file
+                outputFile = inFile.split("/")[-1]+".json"
+                with open(outputFile, 'w') as outfile:
+                    json.dump(data, outfile, default=str)
+            except:
+                print("there was an error with file:") 
+                print(line)   
     sc.stop()
