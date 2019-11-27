@@ -9,11 +9,11 @@
 'Subjects in school', 'CHEMISTRY', 393
 'Subjects in school', 'ENGLISH 11', 593
 'Subjects in school', 'US GOVERNMENT,', 458
-'Subjects in school', '-,', 14113
+'Other', '-,', 14113
 'Subjects in school', 'ENGLISH 12,', 508
 'Subjects in school', 'ALGEBRA,', 896
 'Subjects in school', 'MATH A,', 93
-'Subjects in school', 'OTHER,', 1040
+'Other', 'OTHER,', 1040
 'Subjects in school', 'GEOMETRY,', 561
 'Subjects in school', 'GLOBAL HISTORY 10,', 639
 'Subjects in school', 'LIVING ENVIRONMENT,', 784

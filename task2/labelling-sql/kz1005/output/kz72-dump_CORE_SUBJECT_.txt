@@ -4,4 +4,4 @@
 'Subjects in school', 'NUMBER OF SECTIONS,', 1
 'Subjects in school', 'Math,', 7
 'Subjects in school', 'English,', 7
-'Subjects in school', '-,', 25
+'Other', '-,', 25

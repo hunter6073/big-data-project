@@ -49,11 +49,11 @@
 'City', 'HINESVILLE', 1
 'City', 'Bow', 2
 'City', 'AVENRIKA', 1
-'City', 'BRONXDALE AVE', 1
-'City', 'ST ALBAMS', 1
+'Street name', 'BRONXDALE AVE', 1
+'Street name', 'ST ALBAMS', 1
 'City', 'GLEND HEAD', 1
 'City', 'ELMHERST', 1
-'City', 'RIDGEFIELD PARK', 1
+'Parks/Playgrounds', 'RIDGEFIELD PARK', 1
 'City', 'Harrison', 29
 'City', 'PALM BEACH', 4
 'City', 'Wellington', 3
@@ -82,7 +82,7 @@
 'City', 'MANHATTEN', 3
 'City', 'COLLEGEW POINT', 1
 'City', 'Acworth', 1
-'City', 'Midland Park', 1
+'Parks/Playgrounds', 'Midland Park', 1
 'City', 'W. ORANGE', 1
 'City', 'MIDDLE VILLADE', 1
 'City', 'Cherry Hill', 2
@@ -138,7 +138,7 @@
 'City', 'HUNTINGDON VALL', 3
 'City', 'WESTBURY', 108
 'City', 'N. WOODMERE', 1
-'City', 'DEER PARK', 7
+'Parks/Playgrounds', 'DEER PARK', 7
 'City', 'SAVANNAH', 6
 'City', 'S.OZONE PK', 4
 'City', 'ARVENE', 6
@@ -147,7 +147,7 @@
 'City', 'SO. OZ PK', 6
 'City', 'WOOD-SIDE', 4
 'City', 'BOYCE', 1
-'City', 'Sterling', 1
+'Person name', 'Sterling', 1
 'City', 'CORAL GABLES', 2
 'City', 'QUENNS VILLAGE', 1
 'City', 'Brookfield', 7
@@ -167,29 +167,29 @@
 'City', 'GRNDEW CITY', 1
 'City', 'HOWARD BEACHHOW', 2
 'City', 'MNEW YORK', 1
-'City', 'NYNEW HYDE PARK', 1
-'City', 'ST STEPHEN', 2
+'Parks/Playgrounds', 'NYNEW HYDE PARK', 1
+'Street name', 'ST STEPHEN', 2
 'City', 'SHAMOKIN', 4
 'City', 'HWD BCH', 2
 'City', 'WHITESTONEWHITE', 1
 'City', 'WOODSIDE, NY', 1
 'City', 'Palo Alto', 1
 'City', 'SEA GATE BKLYN', 1
-'City', 'ST ALBAN'S', 1
-'City', '11428', 1
-'City', 'Rego Park', 866
+'Street name', 'ST ALBAN'S', 1
+'Zip code', '11428', 1
+'Parks/Playgrounds', 'Rego Park', 866
 'City', 'BROOKLYNOOKLYN', 10
 'City', 'QNY', 9
 'City', 'BLYN', 7
 'City', 'SONY POINT', 1
 'City', 'RIDGEFIELD', 20
-'City', 'STEPHENSON', 1
+'Person name', 'STEPHENSON', 1
 'City', 'Bay Shore', 19
 'City', 'CRESTKILL', 1
 'City', 'INDIANAPOLIS', 1
 'City', 'GARDEN CITY PK', 28
 'City', 'Munster', 3
-'City', 'SO OZ PK', 1
+'Park', 'SO OZ PK', 1
 'City', 'Thiensville', 1
 'City', 'PENFIELD', 1
 'City', 'Fairburn', 1
@@ -209,7 +209,7 @@
 'City', 'RYE', 35
 'City', 'CHESTER', 11
 'City', 'WATTER MILL', 1
-'City', 'FLORHAM PARK', 2
+'Parks/Playgrounds', 'FLORHAM PARK', 2
 'City', 'YN', 1
 'City', 'W00DSIDE', 1
 'City', 'COCKEYSVILLE', 1
@@ -219,7 +219,7 @@
 'City', 'MOUNT VERNON', 23
 'City', 'KINGS PART', 1
 'City', 'ORANGEBURG', 12
-'City', 'NEW HYPE PARK', 4
+'Parks/Playgrounds', 'NEW HYPE PARK', 4
 'City', 'TEMECULA', 129
 'City', 'COLD SPRING HAR', 2
 'City', 'P. O. BOX 3204', 1
@@ -240,7 +240,7 @@
 'City', 'Fort Collins', 1
 'City', 'SETAUKET', 4
 'City', 'S. PLAINFIELD', 6
-'City', 'LINCOLN PARK', 2
+'Parks/Playgrounds', 'LINCOLN PARK', 2
 'City', 'Woodbridge', 4
 'City', 'KINGSPORT', 1
 'City', 'E NORTH PORT', 1
@@ -264,7 +264,7 @@
 'City', 'LONGBOAT KEY', 1
 'City', 'Allendale', 3
 'City', 'RIDDGEWARD', 1
-'City', 'S.O PARK', 2
+'Parks/Playgrounds', 'S.O PARK', 2
 'City', 'West Chester', 1
 'City', 'TAONO', 1
 'City', 'JANAICA', 1
@@ -284,7 +284,7 @@
 'City', 'MCDONOUGH', 2
 'City', 'AVONDALE ESTATE', 1
 'City', 'GEN OAKS', 1
-'City', '45 BROADWAY', 1
+'Address', '45 BROADWAY', 1
 'City', 'NEW NYORK', 1
 'City', 'ST. ISLAND', 3
 'City', 'Port Monmouth', 1
@@ -340,7 +340,7 @@
 'City', 'BROOKLYN, NY', 3
 'City', 'EAST MORICHES', 17
 'City', 'STSTATEN ISLAND', 4
-'City', '424', 1
+'Other', '424', 1
 'City', 'FAR', 21
 'City', 'Dallas', 6
 'City', 'Elk River', 2
@@ -354,13 +354,13 @@
 'City', 'BROOKLYNE', 1
 'City', 'NEW PALTZ', 2
 'City', 'NEW YORN', 1
-'City', '11249', 1
+'Zip code', '11249', 1
 'City', 'JAMAICA.ESTATES', 1
 'City', 'MOUNT KISCO', 19
 'City', 'SUNNY ISLES BCH', 5
 'City', 'HOWARD BCH', 24
 'City', 'BROOKKYN', 2
-'City', 'Allison Park', 1
+'Parks/Playgrounds', 'Allison Park', 1
 'City', 'HUNTINGTON STA.', 40
 'City', 'Rye', 88
 'City', 'GREENPORT', 6
@@ -387,13 +387,13 @@
 'City', 'BROONX', 1
 'City', 'JACK HTS', 3
 'City', 'SCRANTON', 1
-'City', '5168704462', 1
+'Phone number', '5168704462', 1
 'City', 'Chesterfield', 1
 'City', 'New City', 53
 'City', 'LITTLENECK', 5
 'City', 'NEW YOUR', 1
 'City', 'Oakland', 12
-'City', 'HEW HYDE PARK', 1
+'Parks/Playgrounds', 'HEW HYDE PARK', 1
 'City', 'Oceanside', 42
 'City', 'Laredo', 1
 'City', 'Manchester', 6
@@ -408,11 +408,11 @@
 'City', 'CORTLANDT', 9
 'City', 'NEW YORK CIT', 1
 'City', 'EAST FISHKILL', 1
-'City', '11385', 1
+'Zip code', '11385', 1
 'City', 'ROBINSVILLE', 2
 'City', 'PALISADES PL', 1
 'City', 'MOBILE', 2
-'City', 'OZONE.PARK', 2
+'Parks/Playgrounds', 'OZONE.PARK', 2
 'City', 'LONG ISLAND', 138
 'City', 'WHITE PLAINS', 293
 'City', 'BROAD CHANNEL', 24
@@ -449,7 +449,7 @@
 'City', 'SO ZONE PARK', 1
 'City', 'Sparkill', 3
 'City', 'S.B.', 1
-'City', '972 RT 45', 1
+'Address', '972 RT 45', 1
 'City', 'Richboro', 2
 'City', 'HOPEWELL', 3
 'City', 'E. ELM', 2
@@ -460,7 +460,7 @@
 'City', 'Smithtown', 18
 'City', 'Scarborough', 4
 'City', 'Stratford', 4
-'City', 'Island Park', 2
+'Parks/Playgrounds', 'Island Park', 2
 'City', 'QUEENXS', 1
 'City', 'DES MOINES', 39
 'City', 'Wilton', 3
@@ -506,7 +506,7 @@
 'City', 'RIDGEWOOD ST', 1
 'City', 'WASH TWSP', 1
 'City', 'QUEEN VILLAGE', 5
-'City', '10010', 1
+'Zip code', '10010', 1
 'City', 'AGOURA HILLS', 1
 'City', 'CALCUTTA', 1
 'City', 'JACKSHON HTS', 1
@@ -522,7 +522,7 @@
 'City', 'FT. LAUDERDALE', 1
 'City', 'QUEENS ELMHURST', 1
 'City', 'WHEATON', 1
-'City', 'KENDALL PARK', 4
+'Parks/Playgrounds', 'KENDALL PARK', 4
 'City', 'MALTA', 3
 'City', 'Q.VILLAGE', 2
 'City', 'FOREST HLLS', 2
@@ -547,7 +547,7 @@
 'City', 'Woodcliff Lake', 25
 'City', 'Peekskill', 3
 'City', 'LTC', 2
-'City', 'ROCK PARK', 1
+'Parks/Playgrounds', 'ROCK PARK', 1
 'City', 'FT. COLLINS', 1
 'City', 'ELMFORD', 1
 'City', 'Elk Grove', 2
@@ -591,7 +591,7 @@
 'City', 'CSH', 2
 'City', 'SOUTHOLD', 4
 'City', 'VANCOUVER', 7
-'City', 'S OSONE PARK', 1
+'Parks/Playgrounds', 'S OSONE PARK', 1
 'City', 'NWEW YORK', 1
 'City', 'Oxford', 5
 'City', 'ISLANDIA', 1
@@ -611,7 +611,7 @@
 'City', 'PORLING', 1
 'City', 'MIDLE VILAGE', 1
 'City', 'WEST WINDSOR', 2
-'City', 'Tuxedo Park', 2
+'Parks/Playgrounds', 'Tuxedo Park', 2
 'City', 'MT. LAUREL', 1
 'City', 'ROLLING HILLS E', 3
 'City', 'PROSPECT', 1
@@ -720,7 +720,7 @@
 'City', 'AUGUSTA', 1
 'City', 'Absecon', 2
 'City', 'DENVER', 9
-'City', 'SOUTHOZONE PARK', 9
+'Parks/Playgrounds', 'SOUTHOZONE PARK', 9
 'City', 'WHEATLEY HTS', 1
 'City', 'DARIEN', 5
 'City', 'MT. VERNON', 21
@@ -753,7 +753,7 @@
 'City', 'Ardsley', 27
 'City', 'NORTH CHARLESTO', 2
 'City', 'MR VERNON', 1
-'City', 'NEW. HYDE PARK', 1
+'Parks/Playgrounds', 'NEW. HYDE PARK', 1
 'City', 'FLEMINGTON', 3
 'City', 'MASSAPEQUA PK', 1
 'City', 'NEW GARDENS', 1
@@ -776,7 +776,7 @@
 'City', 'CAMBRIA H.', 1
 'City', 'FRANKILN LAKES', 1
 'City', 'NAPANOCH', 1
-'City', 'ELLANS PARK', 1
+'Parks/Playgrounds', 'ELLANS PARK', 1
 'City', 'VALLEY STTREAM', 1
 'City', 'COMMARK', 1
 'City', 'COPAIGUE', 2
@@ -799,8 +799,8 @@
 'City', 'QUENNS', 4
 'City', 'MALIBU', 3
 'City', 'Stanley', 1
-'City', 'Franklin Park', 1
-'City', '0', 1
+'Parks/Playgrounds', 'Franklin Park', 1
+'Other', '0', 1
 'City', 'NA', 3
 'City', 'SHERMANOAK', 1
 'City', 'BROOOKLN', 2
@@ -850,7 +850,7 @@
 'City', 'LAKEWOODLAKEWOO', 2
 'City', 'LONG ISLAND.CIT', 3
 'City', 'GLENDAYLE', 1
-'City', 'Palisades Park', 1
+'Parks/Playgrounds', 'Palisades Park', 1
 'City', 'GREENLAWN', 3
 'City', 'OCEAN AVE', 2
 'City', 'ROBBINSVILLE', 2
@@ -878,11 +878,11 @@
 'City', 'Voorhees', 4
 'City', 'PELHAM MAWER', 1
 'City', 'PHOENIX', 2
-'City', '7188948951', 1
+'Phone number', '7188948951', 1
 'City', 'LONG I CITY', 1
 'City', 'NEW YK', 1
 'City', 'Greenwich', 152
-'City', 'FLORAL PARK', 497
+'Parks/Playgrounds', 'FLORAL PARK', 497
 'City', 'SPGFLD GDNS', 6
 'City', 'N.K.', 1
 'City', 'BELLEVILLE', 1
@@ -918,7 +918,7 @@
 'City', 'EFFORT', 1
 'City', 'MT VERON', 1
 'City', 'MIDDLE VLGE', 1
-'City', 'SOUTFLORAL PARK', 1
+'Parks/Playgrounds', 'SOUTFLORAL PARK', 1
 'City', 'Jonesborough', 1
 'City', 'NT', 1
 'City', 'Webster', 1
@@ -953,7 +953,7 @@
 'City', 'WHITESTON', 3
 'City', 'RICHMOND HILLRO', 1
 'City', 'S RICHMOND', 3
-'City', '10011', 1
+'Zip code', '10011', 1
 'City', 'San Francisco', 8
 'City', 'WOODSIDE QNS', 2
 'City', 'BROADWAY', 4
@@ -978,7 +978,7 @@
 'City', 'RIDGEWWOD', 2
 'City', 'LANTANA', 1
 'City', 'B'KRLN', 1
-'City', '10116', 1
+'Zip code', '10116', 1
 'City', 'Malibu', 2
 'City', 'JACKOSN HEIGHTS', 1
 'City', 'STTEN ISLAND', 1
@@ -1012,7 +1012,7 @@
 'City', 'NORTH WOODBRIDG', 1
 'City', 'CENTRAL ISLIP', 5
 'City', 'CORDOVA', 2
-'City', '1U33NS', 1
+'Other', '1U33NS', 1
 'City', 'Lititz', 2
 'City', 'BELLE HARDER', 2
 'City', 'Locust Valley', 26
@@ -1030,7 +1030,7 @@
 'City', 'E.ROCKAWAY', 1
 'City', 'MILLSBORO', 4
 'City', 'CEDAR HURST', 2
-'City', '1494', 1
+'Other', '1494', 1
 'City', 'BAL HARBOUR', 7
 'City', 'MOUNT SINA', 1
 'City', 'ENGLISHTOWN', 5
@@ -1165,7 +1165,7 @@
 'City', 'SEMINOLE', 2
 'City', 'LONGMEADOW', 8
 'City', 'FOREST-HILLS-', 1
-'City', 'PALISADES PARK', 3
+'Parks/Playgrounds', 'PALISADES PARK', 3
 'City', 'MASTIC BEACH', 4
 'City', 'YAPHANK', 1
 'City', 'ASTPROA', 1
@@ -1201,7 +1201,7 @@
 'City', 'MOUNTAIN VIEW', 1
 'City', 'Matawan', 13
 'City', 'Spring Lake', 2
-'City', 'Kendall Park', 2
+'Parks/Playgrounds', 'Kendall Park', 2
 'City', 'WALDORF', 3
 'City', 'Thorofare', 1
 'City', 'GRAHAMVILLE', 1
@@ -1239,32 +1239,32 @@
 'City', 'HOW BEACH', 1
 'City', 'EAST ORANGE', 13
 'City', 'SECAUCES', 1
-'City', '2ND', 1
+'Other', '2ND', 1
 'City', 'CONGERS', 6
 'City', 'SPRINGFIELD GRD', 3
 'City', 'Morris Plains', 2
-'City', 'N.H. PARK', 1
+'Parks/Playgrounds', 'N.H. PARK', 1
 'City', 'TUCSON', 2
-'City', '10462', 1
+'Zip code', '10462', 1
 'City', '`FLUSHING', 1
 'City', 'SPRINGFIELD GND', 2
 'City', 'SECAUCAS', 1
 'City', 'REGOMPARK', 1
 'City', 'QUEENS NYC', 1
 'City', 'BEONX', 1
-'City', '206', 1
+'Other', '206', 1
 'City', 'GLEN RIDGE', 1
 'City', 'NEW PROVIDENCE', 7
 'City', 'CAMBRIA HEIGHTS', 85
 'City', 'Bedford Hills', 21
 'City', 'Clayton', 2
-'City', 'HARRINGTON PARK', 1
-'City', '.', 1
+'Parks/Playgrounds', 'HARRINGTON PARK', 1
+'Other', '.', 1
 'City', ';ONG ISAND CITY', 1
 'City', 'SCHENECTADY', 5
 'City', 'LING ISLAND CTY', 1
 'City', 'LONG IS C.', 1
-'City', 'S FLORAL PARK', 1
+'Parks/Playgrounds', 'S FLORAL PARK', 1
 'City', 'NEW YORKE', 1
 'City', 'BROOLKYLN', 1
 'City', 'DEER ISLE', 3
@@ -1285,7 +1285,7 @@
 'City', 'Hempstead', 25
 'City', 'SANFORD', 3
 'City', 'Hudson', 1
-'City', '11691', 1
+'Zip code', '11691', 1
 'City', 'QUNS', 1
 'City', 'JACKSON HEIGTHS', 3
 'City', 'East Hanover', 3
@@ -1293,11 +1293,11 @@
 'City', 'NEW YPRK', 1
 'City', 'W. NYACK', 2
 'City', 'RICHMONG HILL', 1
-'City', 'FLOARL PARK', 1
+'Parks/Playgrounds', 'FLOARL PARK', 1
 'City', 'KEN GARDEN', 1
 'City', 'MONTCLAIRM', 1
 'City', 'FLUSING', 478
-'City', 'REGO PARK', 1586
+'Parks/Playgrounds', 'REGO PARK', 1586
 'City', 'JACKSON HEIGHT', 21
 'City', 'RICHMONDHILL', 19
 'City', 'SO THAMPTAN', 1
@@ -1309,7 +1309,7 @@
 'City', 'QUEENS VILLAGEQ', 7
 'City', 'FAYETTEVILLE', 4
 'City', 'KEW', 7
-'City', '35TH AVENUE', 1
+'Address', '35TH AVENUE', 1
 'City', 'LONG ISLANS CIT', 1
 'City', 'RFOREST HILLS', 1
 'City', 'ROCKAWAY PKWY', 10
@@ -1350,7 +1350,7 @@
 'City', 'RHINEBECK', 2
 'City', 'SPRINGFIELD GDN', 27
 'City', 'Irvine', 7
-'City', 'ORCHARD PARK', 2
+'Parks/Playgrounds', 'ORCHARD PARK', 2
 'City', 'CROTON', 6
 'City', 'BROOKLYNSLAND', 1
 'City', 'ST.PETERSBURG', 1
@@ -1420,7 +1420,7 @@
 'City', 'CAMBRIDGE HGTS', 1
 'City', 'TINTIN FALLS', 1
 'City', 'Copiague', 2
-'City', '10304', 1
+'Zip code', '10304', 1
 'City', 'GRAND CONCOURSE', 1
 'City', 'Wainscott', 4
 'City', 'FLUSHINH', 1
@@ -1499,7 +1499,7 @@
 'City', 'HUNTTINGTON', 2
 'City', 'BRIOOKLYN', 1
 'City', 'Basking Ridge', 2
-'City', '11429', 1
+'Zip code', '11429', 1
 'City', 'MASPETN', 1
 'City', 'Calabash', 2
 'City', 'ROSLYN', 189
@@ -1524,7 +1524,7 @@
 'City', 'CORONQ', 1
 'City', 'Astoria', 3682
 'City', 'LITTLE NECK', 2757
-'City', 'Floral Park', 231
+'Parks/Playgrounds', 'Floral Park', 231
 'City', 'Suffern', 34
 'City', 'WOODLANDS', 1
 'City', 'ROCKAWAY PKJ', 1
@@ -1589,7 +1589,7 @@
 'City', 'RANDOLPH', 11
 'City', 'SCARDSSALE', 1
 'City', 'Hawthorne', 3
-'City', 'MANASSAS PARK', 1
+'Parks/Playgrounds', 'MANASSAS PARK', 1
 'City', 'HOWARD BEACHH', 1
 'City', 'JACKONSVILLE', 2
 'City', 'EAST BOSTON', 1
@@ -1609,7 +1609,7 @@
 'City', 'Belleville', 4
 'City', 'MONTVILLE', 3
 'City', '`BROOKLYN', 3
-'City', 'Winter Park', 1
+'Parks/Playgrounds', 'Winter Park', 1
 'City', 'VENTNOR', 1
 'City', 'RIDGEWOOD PL', 1
 'City', 'NEW YOORK', 1
@@ -1766,7 +1766,7 @@
 'City', 'Caldwell', 6
 'City', 'Cresco', 2
 'City', 'Port Charlotte', 2
-'City', '11219', 1
+'Zip code', '11219', 1
 'City', 'FLORAL PAR', 1
 'City', 'Roseland', 2
 'City', 'J. HGTS', 1
@@ -1831,7 +1831,7 @@
 'City', 'BKLYBN', 1
 'City', 'SHERMAN OAKS', 37
 'City', 'E. BRUNSWICK', 3
-'City', '11377', 1
+'Zip code', '11377', 1
 'City', 'SOMERSET', 7
 'City', 'Miami Beach', 22
 'City', 'KEW-GARDENS', 12
@@ -1840,7 +1840,7 @@
 'City', 'TOMKINS COVE', 2
 'City', 'BLUE BELL', 1
 'City', 'EAST CHESTER', 1
-'City', '5318', 1
+'Other', '5318', 1
 'City', 'SELBYVILLE', 1
 'City', 'ELMHUSRT', 1
 'City', 'West Islip', 7
@@ -2450,7 +2450,7 @@
 'City', 'BROOKLYIN,', 1
 'City', 'VIRGINIA BCH,', 1
 'City', 'DEL RAY BEACH,', 1
-'City', '347649434,', 1
+'Phone number', '347649434,', 1
 'City', 'NEPOUSIT,', 1
 'City', 'SOUTH OZONE PK,', 83
 'City', 'Uniondale,', 10
@@ -2519,7 +2519,7 @@
 'City', 'OZONE PARKOZONE,', 1
 'City', 'JACKSON HIGHTH,', 1
 'City', 'FAR ROCKAWAYFAR,', 2
-'City', '564823289,', 1
+'Phone number', '564823289,', 1
 'City', 'BRIIKLYN,', 1
 'City', 'HOAWRD BEACH,', 1
 'City', 'JACKSON HTS,', 237
@@ -2530,7 +2530,7 @@
 'City', 'Sebastian,', 1
 'City', 'Jackson,', 41
 'City', 'WHITE PLAINES,', 1
-'City', '228,', 1
+'Other', '228,', 1
 'City', 'BROOKLYN HGHTS,', 1
 'City', 'RIDGEWOODMASPET,', 1
 'City', 'LCI,', 2
@@ -2553,7 +2553,7 @@
 'City', 'BLAKESLEE,', 2
 'City', 'FLORAL PL,', 2
 'City', 'DETROIT,', 1
-'City', '97889276,', 1
+'Other', '97889276,', 1
 'City', 'GREEN POINT,', 1
 'City', 'ST MATTHEW,', 1
 'City', 'HONOLULU,', 1
@@ -2562,7 +2562,7 @@
 'City', 'COMMERCE,', 4
 'City', 'The Villages,', 2
 'City', 'RIGO PARK,', 1
-'City', '84TH ST,', 2
+'Address', '84TH ST,', 2
 'City', 'POUGHKEEPS,', 1
 'City', 'COLD SPRINGS,', 3
 'City', 'U SADDLE RIVER,', 2
@@ -2626,7 +2626,7 @@
 'City', 'BROOKOLYN,', 1
 'City', 'TAMPA,', 6
 'City', 'NEW YORK2,', 1
-'City', '64TH STREET,', 1
+'Address', '64TH STREET,', 1
 'City', 'CHAPPQUA,', 2
 'City', 'GLENDAL,', 1
 'City', 'San Mateo,', 1
@@ -2707,28 +2707,28 @@
 'City', 'Randolph,', 2
 'City', 'Colts Neck,', 1
 'City', 'Bearsville,', 1
-'City', '#`,', 1
+'Other', '#`,', 1
 'City', 'AUBURN,', 1
 'City', 'BEOOKLYN,', 5
 'City', 'RICHMOND,', 147
-'City', 'MASS PARK,', 6
+'Parks/Playgrounds', 'MASS PARK,', 6
 'City', 'THE WOODLANDS,', 4
 'City', 'BRONX NY,', 1
 'City', 'Flemington,', 3
-'City', 'FLORN PARK,', 1
+'Parks/Playgrounds', 'FLORN PARK,', 1
 'City', 'QUEENS VILLIAGE,', 9
 'City', 'WESTWEST ORANGE,', 1
 'City', 'QUEEN'S,', 3
 'City', 'HERNDON,', 1
-'City', 'PORT ST. LUCIE,', 2
+'Street name', 'PORT ST. LUCIE,', 2
 'City', 'RIDEWOOD,', 3
-'City', 'FOREST HILLS ST,', 1
+'Street name', 'FOREST HILLS ST,', 1
 'City', '0ZONE PARK,', 1
 'City', 'Hillsborough,', 2
 'City', 'CORONACORONA97,', 1
 'City', 'SO RICHMOND,', 1
 'City', 'MOUNT PLEASANT,', 1
-'City', '26-6,', 1
+'Other', '26-6,', 1
 'City', 'Binghamton,', 1
 'City', 'LOYAHATCLEE,', 4
 'City', 'ENGLWD CLFS,', 1
@@ -2811,7 +2811,7 @@
 'City', 'BROOKLYHN,', 3
 'City', 'PORT ST LUCIA,', 2
 'City', 'BROOKLYUN,', 2
-'City', '753,', 1
+'Other', '753,', 1
 'City', 'WOODSIDEIDE,', 1
 'City', 'WHITEHOUSE STAT,', 1
 'City', 'SUNRISE,', 1
@@ -2943,7 +2943,7 @@
 'City', 'Sugar Land,', 2
 'City', 'VALATIE,', 1
 'City', 'Blairstown,', 1
-'City', '7826722,', 1
+'Other', '7826722,', 1
 'City', 'NRICHMOND HILLS,', 1
 'City', 'L.I..CITY,', 1
 'City', 'Clinton,', 1
@@ -3298,7 +3298,7 @@
 'City', 'West Harrison,', 7
 'City', 'OAKLANDS GARDEN,', 1
 'City', 'DOBBS FERRY,', 9
-'City', '1,', 2
+'Other', '1,', 2
 'City', 'MASPETH QUEENS,', 1
 'City', 'GOLDEN BRIDGE,', 1
 'City', 'ALBRIGHTSVILLE,', 1
@@ -3326,13 +3326,13 @@
 'City', 'BOHEMIA,', 5
 'City', 'Little Ferry,', 3
 'City', 'Depew,', 3
-'City', '237,', 1
+'Other', '237,', 1
 'City', 'LYNOHURST,', 1
-'City', '0466,', 1
+'Other', '0466,', 1
 'City', 'WEST MILFORD,', 1
 'City', 'Bowie,', 1
 'City', 'QUEENS-VILLAGE,', 1
-'City', '34,', 1
+'Other', '34,', 1
 'City', 'SUNNYVALE,', 1
 'City', 'Windsor,', 1
 'City', 'LAWREE,', 1
@@ -3386,10 +3386,10 @@
 'City', 'RENDMOND,', 1
 'City', 'Billerica,', 1
 'City', 'Morristown,', 1
-'City', '2ND FLOOR,', 1
+'Other', '2ND FLOOR,', 1
 'City', 'SEACAUCUS,', 1
 'City', 'Highland Park,', 1
-'City', '00023,', 1
+'Other', '00023,', 1
 'City', 'YORKTOWN HEIGHT,', 9
 'City', 'ROSADALE,', 2
 'City', 'WHITSTONE,', 5
@@ -3427,7 +3427,7 @@
 'City', 'Newtown,', 3
 'City', 'Q. NY,', 1
 'City', 'Southborough,', 1
-'City', '9TH FLOOR,', 1
+'Other', '9TH FLOOR,', 1
 'City', 'Quakertown,', 1
 'City', 'RICHMONHILL,', 3
 'City', 'ELIZABETH TOWN,', 1
@@ -3445,7 +3445,7 @@
 'City', 'DOUGLATON,', 1
 'City', 'WOODSIDEWOODSID,', 2
 'City', 'GREAK NECK,', 1
-'City', '566695250,', 1
+'Phone number', '566695250,', 1
 'City', 'NORWICH,', 1
 'City', 'E NORTHPOINT,', 1
 'City', 'HUNTINTON STA,', 2
@@ -3467,7 +3467,7 @@
 'City', 'JACKSON HIGHTS,', 11
 'City', 'PLYMOUTH MTG,', 4
 'City', 'MASSAPEQUA PARK,', 13
-'City', '78945830,', 1
+'Other', '78945830,', 1
 'City', 'Palm Coast,', 3
 'City', 'NEW YORKW,', 2
 'City', 'Sarasota,', 14
@@ -3480,7 +3480,7 @@
 'City', 'Tucson,', 4
 'City', 'VILLANOVA,', 4
 'City', 'Alpine,', 3
-'City', '009,', 1
+'Other', '009,', 1
 'City', 'Westhampton,', 1
 'City', 'BURLINGTON,', 4
 'City', 'ATLANTIC CITY,', 2
@@ -3717,7 +3717,7 @@
 'City', 'LYNBROOK,', 175
 'City', 'SUNNYSIDE,', 548
 'City', 'Des Moines,', 74
-'City', '11103,', 2
+'Zip code', '11103,', 2
 'City', 'Morganville,', 33
 'City', 'BROIOKLYN,', 1
 'City', 'Yaphank,', 1
@@ -3826,7 +3826,7 @@
 'City', 'EAST HILLS,', 8
 'City', 'BLAIRSTOWN,', 1
 'City', 'New Hope,', 4
-'City', '979820467,', 1
+'Phone number', '979820467,', 1
 'City', 'QUEENS VILLAGEN,', 1
 'City', 'ASBURY PK,', 1
 'City', 'SCOTCH PLAINS,', 6
@@ -3887,7 +3887,7 @@
 'City', 'CORAL EARLES,', 1
 'City', 'RICHMAND HILL,', 1
 'City', 'GROVELAND,', 1
-'City', '5PS,', 1
+'Other', '5PS,', 1
 'City', 'COVINGTON,', 1
 'City', 'SUFFOLK,', 1
 'City', 'EGO PARK,', 1
@@ -4014,7 +4014,7 @@
 'City', 'YONKER,', 4
 'City', 'Norwalk,', 7
 'City', 'FT LEE,', 20
-'City', '0469,', 1
+'Other', '0469,', 1
 'City', 'FAR ROCKWAY,', 4
 'City', 'ROCHESTERIO,', 1
 'City', 'PORT JERVIS,', 1
@@ -4146,7 +4146,7 @@
 'City', 'BRX,', 3
 'City', 'ENGLEWOODCLIFFS,', 8
 'City', 'GLENBEULAH,', 1
-'City', '3475875966,', 1
+'Phone number', '3475875966,', 1
 'City', 'STATEN ISLANDN,', 4
 'City', 'N MERRICA,', 2
 'City', 'Linden,', 3
@@ -4241,7 +4241,7 @@
 'City', 'FAIRFIELD,', 10
 'City', 'FLUSHINGF,', 5
 'City', 'Cary,', 8
-'City', '10017,', 2
+'Zip code', '10017,', 2
 'City', 'LEVITT ST,', 1
 'City', 'GREENWOOD VILL,', 1
 'City', 'MYTLE BEACH,', 1
@@ -4272,7 +4272,7 @@
 'City', 'HYDE PARK,', 3
 'City', 'BLVD,', 1
 'City', 'OAKLAND GDN,', 2
-'City', '7840678,', 1
+'Other', '7840678,', 1
 'City', 'Yorba Linda,', 2
 'City', 'WAKEFIELD,', 2
 'City', 'JAMAICA HILLS,', 6
@@ -4334,20 +4334,20 @@
 'City', 'Renton,', 1
 'City', 'HOPELAWN,', 3
 'City', 'HOLLIS,', 854
-'City', '046,', 1
+'Other', '046,', 1
 'City', 'Northport,', 5
 'City', 'Massapequa,', 49
 'City', 'West Orange,', 15
 'City', 'PLANO,', 17
 'City', 'RUTHERFORD,', 1
-'City', '72,', 1
+'Other', '72,', 1
 'City', 'BROPNX,', 1
 'City', 'New Providence,', 3
 'City', 'GARNERVILLE,', 1
 'City', 'Newburgh,', 2
 'City', 'SAN,', 2
 'City', 'SOUTH O. PARK,', 1
-'City', '76,', 1
+'Other', '76,', 1
 'City', 'ENG CLF,', 4
 'City', 'Altoona,', 2
 'City', 'SIO,', 1
@@ -4374,7 +4374,7 @@
 'City', 'Bel Air,', 2
 'City', 'York,', 1
 'City', 'BROOKLYN, NEW Y,', 1
-'City', '9743408,', 1
+'Other', '9743408,', 1
 'City', 'Unionville,', 2
 'City', 'Fort Myers,', 1
 'City', 'APT,', 1
@@ -4450,7 +4450,7 @@
 'City', 'BRONOX,', 1
 'City', 'JACKSON HGTHS,', 1
 'City', 'QNS VILL.,', 1
-'City', '006,', 1
+'Other', '006,', 1
 'City', 'BRONS,', 1
 'City', 'WINTERHAVEN,', 1
 'City', 'PLANDOME,', 3
@@ -4472,7 +4472,7 @@
 'City', 'Cockeysville,', 1
 'City', 'TEANECKTEANECK,', 2
 'City', 'W. HOLLYWOOD,', 1
-'City', '82ND STREET,', 1
+'Address', '82ND STREET,', 1
 'City', 'Federal Way,', 1
 'City', 'RICHESTER,', 1
 'City', 'WOODMERE ROAD,', 1
@@ -4528,7 +4528,7 @@
 'City', 'BERARWOOD,', 1
 'City', 'Jeffersonville,', 2
 'City', 'W.HEMPSTEAD,', 2
-'City', '20-52,', 1
+'Other', '20-52,', 1
 'City', 'MAHASSET,', 2
 'City', 'BKLYN,', 19095
 'City', 'NEW YORK CITY,', 5270
@@ -4547,7 +4547,7 @@
 'City', 'JJAMAICA,', 1
 'City', 'LAGUNA BEACHUNA,', 1
 'City', 'GLEN OKS,', 4
-'City', '0465,', 1
+'Other', '0465,', 1
 'City', 'COLLIERSVILLE,', 4
 'City', 'ALANTIC BEACH,', 1
 'City', 'MEDFOLD,', 2
@@ -4590,7 +4590,7 @@
 'City', 'BKLYM,', 1
 'City', 'GARDENCITY,', 1
 'City', 'NEWYORK CITY,', 1
-'City', '8640,', 1
+'Other', '8640,', 1
 'City', 'SLC,', 1
 'City', 'CORONA N,', 1
 'City', 'FLUSHING AVE,', 1

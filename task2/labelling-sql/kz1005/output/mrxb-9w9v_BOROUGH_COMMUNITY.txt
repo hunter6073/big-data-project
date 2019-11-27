@@ -1,5 +1,5 @@
 'LAT/LON coordinates', '40.606369', 1
-'LAT/LON coordinates', 'Queens', 17
+'City', 'Queens', 17
 'LAT/LON coordinates', '40.694962', 1
 'LAT/LON coordinates', '40.712184', 1
 'LAT/LON coordinates', '40.810952', 1
@@ -51,11 +51,11 @@
 'LAT/LON coordinates', '40.706902,', 1
 'LAT/LON coordinates', '40.697788,', 1
 'LAT/LON coordinates', '40.792888,', 1
-'LAT/LON coordinates', 'Brooklyn,', 43
+'City', 'Brooklyn,', 43
 'LAT/LON coordinates', '40.832627,', 1
 'LAT/LON coordinates', '40.82702,', 1
 'LAT/LON coordinates', '40.593834,', 1
-'LAT/LON coordinates', 'Staten Island,', 1
+'City', 'Staten Island,', 1
 'LAT/LON coordinates', '40.69049,', 1
 'LAT/LON coordinates', '40.567873,', 1
 'LAT/LON coordinates', '40.707793,', 1
@@ -88,11 +88,11 @@
 'LAT/LON coordinates', '40.80647,', 1
 'LAT/LON coordinates', '40.839378,', 1
 'LAT/LON coordinates', '40.686284,', 1
-'LAT/LON coordinates', 'New York,', 7
-'LAT/LON coordinates', 'Manhattan,', 19
+'City', 'New York,', 7
+'City', 'Manhattan,', 19
 'LAT/LON coordinates', '40.8883,', 1
 'LAT/LON coordinates', '40.73857,', 1
-'LAT/LON coordinates', 'Bronx,', 25
+'City', 'Bronx,', 25
 'LAT/LON coordinates', '40.82684,', 1
 'LAT/LON coordinates', '40.74054,', 1
 'LAT/LON coordinates', '40.79837,', 1

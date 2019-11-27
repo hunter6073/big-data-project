@@ -1,44 +1,44 @@
-'Address', 'DOP', 9
-'Address', 'HRA', 46
-'Address', 'DOI', 22
-'Address', 'ACS', 65
-'Address', 'DOT', 48
-'Address', 'DCA', 19
-'Address', 'HPD', 58
-'Address', 'DPR', 39
-'Address', 'DDC', 42
-'Address', 'TLC', 15
-'Address', 'EDC', 23
-'Address', 'DCP', 16
-'Address', 'DOF', 29
-'Address', 'DORIS', 15
-'Address', 'CUNY', 14
-'Address', 'OATH', 13
-'Address', 'NYPD', 50
-'Address', 'LPC', 13
-'Address', 'DOB', 37
-'Address', 'QPL', 11
-'Address', 'OCME', 13
-'Address', 'CCRB,', 29
-'Address', 'DFTA,', 10
-'Address', 'DYCD,', 28
-'Address', 'DCLA,', 11
-'Address', 'NYPL,', 18
-'Address', 'BIC,', 17
-'Address', 'LAW,', 19
-'Address', 'DEP,', 52
-'Address', 'HHC,', 15
-'Address', 'DOC,', 26
-'Address', 'SBS,', 24
-'Address', 'DOE,', 109
-'Address', 'DOHMH,', 42
-'Address', 'DSNY,', 35
-'Address', 'BPL,', 11
-'Address', 'DCAS,', 31
-'Address', 'DHS,', 32
-'Address', 'DOITT,', 45
-'Address', 'OEM,', 19
-'Address', '311,', 10
-'Address', 'NYCHA,', 40
-'Address', 'CCHR,', 23
-'Address', 'FDNY,', 34
+'City agency', 'DOP', 9
+'City agency', 'HRA', 46
+'City agency', 'DOI', 22
+'City agency', 'ACS', 65
+'City agency', 'DOT', 48
+'City agency', 'DCA', 19
+'City agency', 'HPD', 58
+'City agency', 'DPR', 39
+'City agency', 'DDC', 42
+'City agency', 'TLC', 15
+'City agency', 'EDC', 23
+'City agency', 'DCP', 16
+'City agency', 'DOF', 29
+'City agency', 'DORIS', 15
+'City agency', 'CUNY', 14
+'City agency', 'OATH', 13
+'City agency', 'NYPD', 50
+'City agency', 'LPC', 13
+'City agency', 'DOB', 37
+'City agency', 'QPL', 11
+'City agency', 'OCME', 13
+'City agency', 'CCRB,', 29
+'City agency', 'DFTA,', 10
+'City agency', 'DYCD,', 28
+'City agency', 'DCLA,', 11
+'City agency', 'NYPL,', 18
+'City agency', 'BIC,', 17
+'City agency', 'LAW,', 19
+'City agency', 'DEP,', 52
+'City agency', 'HHC,', 15
+'City agency', 'DOC,', 26
+'City agency', 'SBS,', 24
+'City agency', 'DOE,', 109
+'City agency', 'DOHMH,', 42
+'City agency', 'DSNY,', 35
+'City agency', 'BPL,', 11
+'City agency', 'DCAS,', 31
+'City agency', 'DHS,', 32
+'City agency', 'DOITT,', 45
+'City agency', 'OEM,', 19
+'City agency', '311,', 10
+'City agency', 'NYCHA,', 40
+'City agency', 'CCHR,', 23
+'City agency', 'FDNY,', 34
