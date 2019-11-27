@@ -4,8 +4,9 @@ from operator import add
 from pyspark import SparkContext
 from pyspark.sql import SparkSession
 import json
+from pyspark.sql.functions import col
 from csv import reader
-
+from pyspark.sql.functions import desc
 from dateutil.parser import parse
 import datetime
 import time
@@ -221,9 +222,10 @@ if __name__ == "__main__":
     for col in cols:  # for each column
 
         # dataframe that is not empty
-        column_df = \
-            spark.sql('SELECT `%s` as _value FROM `%s` WHERE `%s` is NOT NULL'
-                      % (col, tablename, col))
+        #column_df = \
+        #    spark.sql('SELECT `%s` as _value FROM `%s` WHERE `%s` is NOT NULL'
+        #              % (col, tablename, col))
+        column_df = df.filter(df[col1].isNotNull())
         column = {}
         ##########################################################################
         column['column_name'] = col  # the name of the column
@@ -235,10 +237,11 @@ if __name__ == "__main__":
             column['number_non_empty_cells']
 
         """ 1.3 DONE: number of distinct values in the column (type: integer) """
-        distinct_df = \
-            spark.sql('SELECT `%s` as _value, count(*) as _count \
-                       FROM `%s`                                 \
-                       GROUP BY _value' % (col, tablename))
+        #distinct_df = \
+        #    spark.sql('SELECT `%s` as _value, count(*) as _count \
+        #               FROM `%s`                                 \
+        #               GROUP BY _value' % (col, tablename))
+        distinct_df = df.groupBy(col).count().toDF('_value','_count')
         num_distinct_count = distinct_df.count()
         column['number_distinct_values'] = num_distinct_count
 
@@ -249,12 +252,13 @@ if __name__ == "__main__":
 
         """ 1.4 DONE: top 5 most frequent values of this column(type: array) """
         # may need to get rid of the NULL?
-        most_frequent = \
-            spark.sql('SELECT `%s` as _value, count(*) FROM `%s` \
-                        GROUP BY `%s`                            \
-                        ORDER BY count(*) DESC                   \
-                        LIMIT 5' % (col, tablename, col))        \
-            .collect()
+        #most_frequent = \
+        #    spark.sql('SELECT `%s` as _value, count(*) FROM `%s` \
+        #                GROUP BY `%s`                            \
+        #                ORDER BY count(*) DESC                   \
+        #                LIMIT 5' % (col, tablename, col))        \
+        #    .collect()
+        most_frequent = distinct_df.sort(desc("_count")).take(5)
         column['frequent_values'] = [row._value for row in most_frequent]
 
         """ 1.5 DONE: for every data type that this column have, output the required values in data_types """
