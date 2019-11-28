@@ -1,0 +1,303 @@
+<html>
+
+<head>
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+        // Load the Visualization API and the corechart package.
+        google.charts.load('current', { 'packages': ['corechart'] });
+
+        // Set a callback to run when the Google Visualization API is loaded.
+        // draw bar chart
+        google.charts.setOnLoadCallback(drawBarChart_1);
+        google.charts.setOnLoadCallback(drawBarChart_2);
+        google.charts.setOnLoadCallback(drawBarChart_3);
+        google.charts.setOnLoadCallback(drawBarChart_4);
+        google.charts.setOnLoadCallback(drawBarChart_5);
+        google.charts.setOnLoadCallback(drawBarChart_6);
+        // draw pie chart
+        google.charts.setOnLoadCallback(drawPieChart_1);
+        google.charts.setOnLoadCallback(drawPieChart_2);
+        google.charts.setOnLoadCallback(drawPieChart_3);
+        google.charts.setOnLoadCallback(drawPieChart_4);
+        google.charts.setOnLoadCallback(drawPieChart_5);
+        google.charts.setOnLoadCallback(drawPieChart_6);
+
+        // T1
+        // chart 1
+        // data quality issues: too many missing values, columns with values of multiple types
+        // chart 2
+        // for each data type, how many columns contain that type
+        // chart 3
+        // most common types that co-occur in a column
+
+        // T2
+        // chart 4
+        // result of different strategies, including precision and recall
+        // chart 5
+        // for each type, the number of columns in which the type appears
+
+
+/*********************** chart 1: data quality issues occured during processing *****************************************/
+        function drawBarChart_1() {
+
+            var options = {
+                title: "Task1 data quality issues",
+                width: 600,
+                height: 400,
+                bar: { groupWidth: "95%" },
+                legend: { position: "none" },
+            };
+
+            tb = [
+                ["quality issue", "instances", { role: "style" }],
+                ["too many missing values", 3, "red"], // each row is a value
+                ["column with multiple types", 1, "blue"]
+            ]
+            var data = google.visualization.arrayToDataTable(tb);
+            var view = new google.visualization.DataView(data);
+            view.setColumns([0, 1,
+                {
+                    calc: "stringify",
+                    sourceColumn: 1,
+                    type: "string",
+                    role: "annotation"
+                },
+                2]);
+            var chart = new google.visualization.BarChart(document.getElementById("Barchart_1"));
+            chart.draw(view, options);
+        }
+/****************************************************************/
+
+
+/*********************** chart 2: for each data type, how many columns contain that type *****************************************/
+function drawBarChart_2() {
+
+var options = {
+    title: "Task 1 how many columns containing a certain type",
+    width: 600,
+    height: 400,
+    bar: { groupWidth: "95%" },
+    legend: { position: "none" },
+};
+
+tb = [
+    ["data type", "containing columns", { role: "style" }],
+    ["Integer/Long", 3, "red"], 
+    ["Real", 4, "blue"],
+    ["Date/Time", 5, "green"], 
+    ["Text", 6, "grey"], 
+]
+var data = google.visualization.arrayToDataTable(tb);
+var view = new google.visualization.DataView(data);
+view.setColumns([0, 1,
+    {
+        calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation"
+    },
+    2]);
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_2"));
+chart.draw(view, options);
+}
+/****************************************************************/
+
+
+
+/*********************** chart 3: most common types that co-occur in a column *****************************************/
+function drawBarChart_3() {
+
+var options = {
+    title: "Task 1 most common types that co-occur in a column",
+    width: 600,
+    height: 400,
+    bar: { groupWidth: "95%" },
+    legend: { position: "none" },
+};
+
+tb = [
+    ["frequent set", "co-occoring column", { role: "style" }],
+    ["F2: abc", 3, "red"], 
+    ["F3: bcd", 4, "blue"],
+    ["F4: abcd", 5, "green"] 
+]
+var data = google.visualization.arrayToDataTable(tb);
+var view = new google.visualization.DataView(data);
+view.setColumns([0, 1,
+    {
+        calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation"
+    },
+    2]);
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_3"));
+chart.draw(view, options);
+}
+/****************************************************************/
+
+/*********************** chart 4: result of different strategies, including precision and recall *****************************************/
+function drawBarChart_4() {
+
+var options = {
+    title: "Task 2 result of different strategies",
+    width: 600,
+    height: 400,
+    bar: { groupWidth: "95%" },
+    legend: { position: "none" },
+};
+
+tb = [
+    ["strategy", "precision","recall", { role: "style" }],
+    ["abc", 3, 6, "red"], 
+    ["bcd", 4, 5, "blue"],
+    ["def", 5, 8, "green"] 
+]
+var data = google.visualization.arrayToDataTable(tb);
+var view = new google.visualization.DataView(data);
+view.setColumns([0, 1,
+    {
+        calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation"
+    },
+    2,
+    {
+        calc: "stringify",
+        sourceColumn: 2,
+        type: "string",
+        role: "annotation"
+    },
+    ]);
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_4"));
+chart.draw(view, options);
+}
+/****************************************************************/
+
+
+/*********************** chart 5: T2 for each type, how many columns contain it *****************************************/
+function drawBarChart_5() {
+
+var options = {
+    title: "Task 2 for each semantic type, how many columns contain it",
+    width: 600,
+    height: 2400,
+    bar: { groupWidth: "15%" },
+    legend: { position: "none" },
+};
+
+tb = [
+    ["semantic type", "column count", { role: "style" }],
+    ["Last name", 3, "blue"], 
+    ["First name", 4, "blue"],
+    ["Middle name", 5, "blue"], 
+    ["Business name", 5, "blue"], 
+    ["Phone Number", 5, "blue"], 
+    ["Address", 5, "blue"], 
+    ["Street name", 5, "blue"], 
+    ["City", 5, "blue"], 
+    ["Neighborhood", 5, "blue"], 
+    ["Lat/lon coordinates", 5, "blue"], 
+    ["zip code", 5, "blue"], 
+    ["Borough", 5, "blue"], 
+    ["School name", 5, "blue"], 
+    ["Color", 5, "blue"], 
+    ["Car make", 5, "blue"], 
+    ["City agency", 5, "blue"], 
+    ["Architecture", 5, "blue"], 
+    ["Animal Science", 5, "blue"], 
+    ["Communications", 5, "blue"], 
+    ["Math A", 5, "blue"], 
+    ["Math B", 5, "blue"], 
+    ["US History", 5, "blue"], 
+    ["k-2", 5, "blue"], 
+    ["Elementary", 5, "blue"], 
+    ["elementary school", 5, "blue"], 
+    ["middle", 5, "blue"], 
+    ["college/university names", 5, "blue"], 
+    ["websites", 5, "blue"], 
+    ["R0-condominium", 5, "blue"], 
+    ["ambulance", 5, "blue"], 
+    ["van", 5, "blue"], 
+    ["taxi", 5, "blue"], 
+    ["bus", 5, "blue"], 
+    ["Abandoned building", 5, "blue"], 
+    ["airport terminal", 5, "blue"], 
+    ["bank", 5, "blue"], 
+    ["church", 5, "blue"], 
+    ["clothing/boutique", 5, "blue"], 
+    ["clove lakes park", 5, "blue"], 
+    ["greene playground", 5, "blue"]
+
+
+
+]
+var data = google.visualization.arrayToDataTable(tb);
+var view = new google.visualization.DataView(data);
+view.setColumns([0, 1,
+    {
+        calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation"
+    },
+    2]);
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_5"));
+chart.draw(view, options);
+}
+/****************************************************************/
+
+
+        function drawChart_1() {
+            var title = "mytitle" // title of the chart
+            var width = 800 // display width of the chart
+            var height = 600 // display height of the chart
+
+            // Create the data table.
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Topping'); // first column
+            data.addColumn('number', 'Slices'); // second column
+            // the table looks like this : 
+            // Topping(string), Slices(number)
+            // Mushrooms      ,     3
+            // Onions         ,     1
+            // ...
+            Rows = [['Mushrooms', 3], ['Onions', 1], ['Olives', 1], ['Zucchini', 1], ['Pepperoni', 2]]
+            data.addRows(Rows);
+
+            // Set chart options
+            var options = {
+                'title': title,
+                'width': width,
+                'height': height
+            };
+
+            // Instantiate and draw our chart, passing in some options.
+            var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        }
+
+    </script>
+</head>
+
+
+<body>
+    <!--Div that will hold the pie chart-->
+    <div id="Barchart_1"></div>
+    <div id="Barchart_2"></div>
+    <div id="Barchart_3"></div>
+    <div id="Barchart_4"></div>
+    <div id="Barchart_5"></div>
+    <div id="Barchart_6"></div>
+    <div id="Piechart_1"></div>
+    <div id="Piechart_2"></div>
+    <div id="Piechart_3"></div>
+    <div id="Piechart_4"></div>
+    <div id="Piechart_5"></div>
+    <div id="Piechart_6"></div>
+</body>
+
+</html>
