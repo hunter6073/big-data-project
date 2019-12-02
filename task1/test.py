@@ -9,7 +9,9 @@ from csv import reader
 from pyspark.sql.functions import desc
 from dateutil.parser import parse
 import datetime
+import pytz
 import time
+import re
 
 
 def is_int(string):
@@ -41,7 +43,7 @@ def is_date(string, fuzzy=False):
     try:
         if isinstance(string, datetime.datetime):
             return True
-        parse(string, fuzzy=fuzzy)
+        pytz.utc.localize(parse(string, fuzzy=fuzzy)) > datetime.datetime.now(datetime.timezone.utc)
         return True
 
     except:
@@ -68,10 +70,11 @@ def typeChecker(row):
         return (INTEGER, (int(val), count, INTEGER))
     elif is_real(val):
         return (REAL, (float(val), count, REAL))
-    elif is_date(val):
+    elif is_date(val) and not (str(val).count('-') == 1 or str(val).count('/') == 1):
+        copied = val
         if isinstance(val, datetime.datetime):
-            return (DATE, (val, count, DATE))
-        return (DATE, (parse(val), count, DATE))
+            return (DATE, ((val, copied), count, DATE))
+        return (DATE, ((parse(val), copied), count, DATE))
     else:
         return (TEXT, (val, count, TEXT))
 
@@ -134,9 +137,9 @@ def mergeVal(l, r_tuple):
         l_type, l_count, l_min, l_max = l
         t_min = l_min
         t_max = l_max
-        if l_min > r_val:
+        if l_min[0] > r_val[0]:
             t_min = r_val
-        if l_max < r_val:
+        if l_max[0] < r_val[0]:
             t_max = r_val
         # (type, count, min, max)
         return (r_type, l_count + r_count, t_min, t_max)
@@ -168,9 +171,9 @@ def mergeTuple(l, r):
         # (type, count, min, max)
         t_min = l[2]
         t_max = l[3]
-        if t_min > r[2]:
+        if t_min[0] > r[2][0]:
             t_min = r[2]
-        if t_max < r[3]:
+        if t_max[0] < r[3][0]:
             t_max = r[3]
         return (tuple_type, l[1] + r[1], t_min, t_max)
     if tuple_type == "TEXT":
@@ -230,9 +233,11 @@ if __name__ == "__main__":
                 cols = df.columns  # array of all column names
                 # total_row, which is used to calculate empty cells
                 total_row = df.count()
-                print("there are "+str(len(cols))+" columns in this table") 
-                for col in cols:  # for each column
-
+                print("there are " + str(len(cols)) + " columns in this table") 
+                for raw_col in cols:  # for each column
+                    # sanitize colname
+                    col = '`' + raw_col + '`'
+                    print(raw_col)
                     # dataframe that is not empty
                     #column_df = \
                     #    spark.sql('SELECT `%s` as _value FROM `%s` WHERE `%s` is NOT NULL'
@@ -240,7 +245,7 @@ if __name__ == "__main__":
                     column_df = df.filter(df[col].isNotNull())
                     column = {}
                     ##########################################################################
-                    column['column_name'] = col  # the name of the column
+                    column['column_name'] = raw_col  # the name of the column
                     """ 1.1 DONE: get the number of non empty cells (type: integer) """
                     column['number_non_empty_cells'] = column_df.count()
 
@@ -279,9 +284,9 @@ if __name__ == "__main__":
                     # key: TYPE
                     # value: (VALUE, COUNT, TYPE)
                     detailed_distinct_df = distinct_df.rdd.map(lambda s: typeChecker(s))
+
                     # detailed_distinct_stats = [(TYPE, (DETAILED_STATS))]
                     # A list of detailed stats of all the datatypes this column has
-                    print("started combine by key")
                     detailed_distinct_stats = detailed_distinct_df \
                         .combineByKey(createTuple, mergeVal, mergeTuple) \
                         .collect()
@@ -308,8 +313,8 @@ if __name__ == "__main__":
                             json_res["stddev"] = stddev
                         elif row_type == DATE:
                             # (type, count, min, max)
-                            json_res["max_value"] = str(data[3])
-                            json_res["min_value"] = str(data[2])
+                            json_res["max_value"] = str(data[3][1])
+                            json_res["min_value"] = str(data[2][1])
                         elif row_type == TEXT:
                             # (type, count, shortest_five, longest_five, total_length)
                             json_res["shortest_values"] = data[2]
@@ -317,7 +322,7 @@ if __name__ == "__main__":
                             json_res["average_length"] = data[4] / data[1]
                         data_types.append(json_res)
                     column['data_types'] = data_types
-                    columns[col] = column
+                    columns[raw_col] = column
 
                 # assembling the json file
                 data = {}  # the base for the json file
@@ -331,6 +336,7 @@ if __name__ == "__main__":
                 print(time.time() - start_time)
                 # write the json file to output, name the output file as inFile.json, inFile being the name of the file
                 outputFile = inFile.split("/")[-1]+".json"
+                print(data)
                 with open(outputFile, 'w') as outfile:
                     json.dump(data, outfile, default=str)
             except Exception as e:

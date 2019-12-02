@@ -1,6 +1,21 @@
 
 filenames = []
-labels = ['Street name', 
+labels = ['Other',
+          'School name',
+          'Subjects in school',
+          'School name',
+          'School Levels',
+          'Person name - First name',
+          'Person name - First name',
+          'Person name - Last name',
+          'Zip code',
+          'Street name',
+          'Zip code',
+          'Other',
+          'City agency',
+          'Other',
+          'Other',
+          'Street name',
           'Parks/Playgrounds',
           'Subjects in school',
           'Vehicle Type',
@@ -23,19 +38,20 @@ labels = ['Street name',
           'Vehicle Type',
           'Vehicle Type',
           'Street name',
+          'School name',
+          'Street name',
           'Street name',
           'Subjects in school',
-          'Person name',
-          'Person name',
-          'Person name',
+          'Person name - First name',
+          'Person name - First name',
+          'Person name - Last name',
           'LAT/LON coordinates',
           'City agency',
           'Address',
           'Color',
           'Car make',
-          'Websites',
-          'Street name',
-          'other',
+          'City',
+          'Other',
           'Borough',
           'Street name',
           'Vehicle Type',
@@ -43,17 +59,40 @@ labels = ['Street name',
           'Car make',
           'Websites',
           'Street name',
-          'other',
+          'Other',
           'LAT/LON coordinates',
           'Subjects in school',
           'City agency',
           'City agency',
-          'Person name',
-          'Person name',
-          'Person name',
+          'Person name - First name',
+          'Person name - Last name',
+          'Person name - Other',
           'School Levels',
           'Color',
-          'LAT/LON coordinates']
+          'LAT/LON coordinates',
+          'Neighborhood',
+          'City',
+          'Zip code',
+          'Car make',
+          'City',
+          'Phone Number',
+          'Address',
+          'Other',
+          'Street name',
+          'School name',
+          'School name',
+          'Address',
+          'Subjects in school',
+          'Car make',
+          'Address',
+          'Zip code',
+          'Vehicle Type',
+          'Color']
+
+
+import simplejson as json
+
+
 f = open("files.txt", 'r')
 
 for line in f:
@@ -67,8 +106,8 @@ while counter < len(filenames):
     fileName = filenames[counter]
     label = labels[counter]
     counter += 1
-    f1 = open(fileName+"/part-00000","r")
-    f2 = open(fileName+"/part-00001","r")
+    f1 = open('Done/' + fileName + "/part-00000","r")
+    f2 = open('Done/' + fileName + "/part-00001","r")
     line = f1.readline()
     line = f1.readline()
     item_arr = []
