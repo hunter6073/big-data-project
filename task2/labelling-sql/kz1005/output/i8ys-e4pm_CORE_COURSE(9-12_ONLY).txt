@@ -8,7 +8,7 @@
 'Subjects in school', 'CHEMISTRY', 290
 'Subjects in school', 'ENGLISH 11', 419
 'Subjects in school', 'US GOVERNMENT,', 331
-'Other', '-,', 9692
+'Subjects in school', '-,', 9692
 'Subjects in school', 'ENGLISH 12,', 349
 'Subjects in school', 'ALGEBRA,', 431
 'Subjects in school', 'MATH A,', 371
