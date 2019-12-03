@@ -100,6 +100,7 @@ for label in labels:
         if item[0] == item[1]:
             correct += 1
     print("recall for label: "+ label +" is: " + str(float(correct/total)))
+    print("precision for label: "+ label +" is: not ye calculated")
 
 
 # output results
