@@ -237,7 +237,7 @@ if __name__ == "__main__":
                 for raw_col in cols:  # for each column
                     # sanitize colname
                     col = '`' + raw_col + '`'
-                    print(raw_col)
+                    print("started one col")
                     # dataframe that is not empty
                     #column_df = \
                     #    spark.sql('SELECT `%s` as _value FROM `%s` WHERE `%s` is NOT NULL'
@@ -248,7 +248,7 @@ if __name__ == "__main__":
                     column['column_name'] = raw_col  # the name of the column
                     """ 1.1 DONE: get the number of non empty cells (type: integer) """
                     column['number_non_empty_cells'] = column_df.count()
-
+                    print("1.1")
                     """ 1.2 DONE: get the numebr of empty cells (type: integer) """
                     column['number_empty_cells'] = total_row - \
                         column['number_non_empty_cells']
@@ -261,7 +261,7 @@ if __name__ == "__main__":
                     distinct_df = df.groupBy(col).count().toDF('_value','_count')
                     num_distinct_count = distinct_df.count()
                     column['number_distinct_values'] = num_distinct_count
-
+                    print("1.3")
                     """ 1.6 Extra Credit TODO: For each table T, indicate columns that are candidates for being keys of T"""
                     # only columns that have #unique val == total val can be a Key Candidate
                     if num_distinct_count == total_row:
@@ -284,7 +284,7 @@ if __name__ == "__main__":
                     # key: TYPE
                     # value: (VALUE, COUNT, TYPE)
                     detailed_distinct_df = distinct_df.rdd.map(lambda s: typeChecker(s))
-
+                    print("1.5")
                     # detailed_distinct_stats = [(TYPE, (DETAILED_STATS))]
                     # A list of detailed stats of all the datatypes this column has
                     detailed_distinct_stats = detailed_distinct_df \
@@ -336,10 +336,11 @@ if __name__ == "__main__":
                 print(time.time() - start_time)
                 # write the json file to output, name the output file as inFile.json, inFile being the name of the file
                 outputFile = inFile.split("/")[-1]+".json"
-                print(data)
+                
                 with open(outputFile, 'w') as outfile:
                     json.dump(data, outfile, default=str)
             except Exception as e:
                 print("there was an error")
-                #print(e.encode('utf-8'))    
+                print(e.encode('utf-8'))    
     sc.stop()
+
