@@ -1,6 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import pprint
+
 data = []
 labels = []
 
@@ -13,31 +14,29 @@ label_array = ["lastname","firstname","middlename","fullname",
                   ]
                   
 def link(label):
-
+    if label == "lastname" or label =="firstname" or label =="middlename" or label == "fullname":
+        return "Person name"
     if label == "coordinates":
-        return "lat/lon coordinates"
+        return "LAT/LON coordinates"
     if label == "boro":
-        return "borough"
+        return "Borough"
     if label == "subject" or label == "study":
-        return "areas of study"
+        return "Areas of study"
     if label == "level":
-        return "school level"
+        return "School Levels"
     if label == "college" or label == "university":
-        return "college/university names"
+        return "College/University names"
     if label == "building":
-        return "building classification"
+        return "Building Classification"
     if label == "type":
-        return "vehicle type"
+        return "Vehicle Type"
     if label == "location":
-        return "type of location"
+        return "Type of location"
     if label == "parks" or label =="playground":
-        return "parks/playground"
+        return "Parks/Playground"
     return label
 
-# def strategy_column_name():
-# def strategy_column_name_with_words():
-# def strategy_machine_learning():
-# def strategy_mix
+
 
 main_directory = "./labelled_data/"
 # get all files in the labelled_data folder
@@ -48,21 +47,20 @@ for i in range(0,len(onlyfiles)):
     fileName = item # file name
     item = item.replace(".txt","").replace(main_directory,"").strip()
     vp = item.split("_",1)
-    table = vp[0] # table name
-    column = vp[1] # column name
+    table = vp[0] # table name e.g. abjx-bcde
+    column = vp[1] # column name e.g. SCHOOL_LEVEL
 
     ################################################
     # predict file label here
+    # TODO: use more strategy to identify other labels
     predict_list = [] # could be multiple labels
 
     # strategy 1: identify using column name
     processed_name = column.replace("_","").replace(".","").replace("-","").strip().lower()
-    #print(processed_name)
-
     for l in label_array:
         if l in processed_name:
             predict_list.append(link(l))
-
+    # each table has its own predict_list, which is a list of predicted labels
 
     #################################################
     # get key_list, the actual labels of the column
@@ -71,6 +69,21 @@ for i in range(0,len(onlyfiles)):
     key_list = []
     while line:
         l_key = line.split(",")[0].replace("'","").strip()
+        #TODO: l_key needs to be updated using the script in get_column_names
+        if l_key == "Business Name":
+            l_key = "Business name"
+        if "name" in l_key:
+            l_key = "Person name"
+        if l_key == "Letter":
+            l_key = "Other"
+        if l_key == "Park":
+            l_key = "Parks/Playgrounds"
+        if l_key == "Phone number":
+            l_key = "Phone Number"
+        if l_key == "School levels":
+            l_key = "School Levels"
+        if l_key == "other":
+            l_key = "Other"
         if l_key not in key_list:
             key_list.append(l_key) # add to the key_list array
         if l_key not in labels:
@@ -83,24 +96,24 @@ for i in range(0,len(onlyfiles)):
     data.append((key_list,predict_list))
     ################################################
 
-
-correct = 0
-total = len(data)
-for item in data:
-    if item[0] == item[1]:
-        correct += 1
-print("precision is: " + str(float(correct/total)))
-
 for label in labels:
-    correct = 0
-    total = 0
-    for item in data:
+    # TODO: fix the script to get the true recall and precision
+
+    predicted = 0 # all columns predicted as type
+    correct = 0 # number of columns correctly predicted as type
+    total = 0 # number of actual columns of type
+
+    for item in data: # item[0] is the actuall list, item[1] is the predicted list
         if label in item[0]:
             total += 1
         if item[0] == item[1]:
+            predicted += 1
+        if label in item[0] and label in item[1]:
             correct += 1
-    print("recall for label: "+ label +" is: " + str(float(correct/total)))
-    print("precision for label: "+ label +" is: not ye calculated")
+    precision = float(float(correct)/float(predicted))
+    recall = float(float(correct)/float(total))
+    print("recall for label: "+ label +" is: " + str(recall))
+    print("precision for label: "+ label +" is: "+str(precision))
 
 
 # output results
