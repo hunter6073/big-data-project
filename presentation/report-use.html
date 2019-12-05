@@ -10,37 +10,23 @@
 
         // Set a callback to run when the Google Visualization API is loaded.
         // draw bar chart
-        google.charts.setOnLoadCallback(drawBarChart_4);
-
-
-        // T1
-        // chart 1
-        // data quality issues: too many missing values, columns with values of multiple types
-        // chart 2
-        // for each data type, how many columns contain that type
-        // chart 3
-        // most common types that co-occur in a column
-
-        // T2
-        // chart 4
-        // result of different strategies, including precision and recall
-        // chart 5
-        // for each type, the number of columns in which the type appears
+        google.charts.setOnLoadCallback(drawBarChart_1);
+        google.charts.setOnLoadCallback(drawBarChart_2);
+        google.charts.setOnLoadCallback(drawBarChart_3);
 
 
 
 /*********************** chart 4: result of different strategies, including precision and recall *****************************************/
-function drawBarChart_4() {
+function drawBarChart_1() {
 
 var options = {
-    title: "Task 2 result of different strategies",
+    title: "Results from using dictionary identification",
     width: 800,
     height: 1600,
     bar: { groupWidth: "50%" },
     legend: { position: "none" },
 };
 
-/* ST1
 tb = [
     ["strategy", "precision","recall", { role: "style" }],
     ["Address", 100.00, 92.86, "blue"],
@@ -52,12 +38,12 @@ tb = [
     ["City", 88.89, 88.89, "blue"],
     ["City agency", 100.00, 100.00, "blue"],
     ["Color", 100.00, 100.00, "blue"],
-    ["LAT/LON coordinates", 90.00, 81.82, "blue"],
+    ["LAT/LON coordinates", 62.5, 81.82, "blue"],
     ["Neighborhood", 77.78, 87.50, "blue"],
     ["Other", 52.63, 50.00, "blue"],
     ["Parks/Playgrounds", 60.00, 75.00, "blue"],
     ["Person name", 100.00, 87.50, "blue"],
-    ["Phone Number", 100.00, 91.67, "blue"],
+    ["Phone Number", 52.38, 91.67, "blue"],
     ["School Levels", 100.00, 90.00, "blue"],
     ["School name", 100.00, 78.57, "blue"],
     ["Street name", 90.48, 86.36, "blue"],
@@ -65,66 +51,8 @@ tb = [
     ["Type of location", 0.00, 0.00, "blue"],
     ["Vehicle Type", 80.00, 88.89, "blue"],
     ["Websites", 100.00, 100.00, "blue"],
-    ["Zip code", 100.00, 88.89, "blue"],
+    ["Zip code", 32.00, 88.89, "blue"],
     ]
-    */
-    /* st2
-tb = [
-    ["strategy", "precision","recall", { role: "style" }],
-    ["Address", 0.00, 0.00, "blue"],
-["Areas of study", 0.00, 0.00, "blue"],
-["Borough", 0.00, 0.00, "blue"],
-["Building Classification", 0.00, 0.00, "blue"],
-["Business name", 0.00, 0.00, "blue"],
-["Car make", 0.00, 0.00, "blue"],
-["City", 0.00, 0.00, "blue"],
-["City agency", 0.00, 0.00, "blue"],
-["Color", 0.00, 0.00, "blue"],
-["LAT/LON coordinates", 66.67, 90.91, "blue"],
-["Neighborhood", 0.00, 0.00, "blue"],
-["Other", 0.00, 0.00, "blue"],
-["Parks/Playgrounds", 0.00, 0.00, "blue"],
-["Person name", 0.00, 0.00, "blue"],
-["Phone Number", 52.38, 91.67, "blue"],
-["School Levels", 0.00, 0.00, "blue"],
-["School name", 0.00, 0.00, "blue"],
-["Street name", 0.00, 0.00, "blue"],
-["Subjects in school", 0.00, 0.00, "blue"],
-["Type of location", 0.00, 0.00, "blue"],
-["Vehicle Type", 0.00, 0.00, "blue"],
-["Websites", 0.00, 0.00, "blue"],
-["Zip code", 32.00, 88.89, "blue"],
-    ]
-    */
-     /*st3
-    tb = [
-    ["strategy", "precision","recall", { role: "style" }],
-    ["Address", 100.00, 92.86, "blue"],
-["Areas of study", 100.00, 76.92, "blue"],
-["Borough", 92.31, 100.00, "blue"],
-["Building Classification", 80.00, 80.00, "blue"],
-["Business name", 100.00, 100.00, "blue"],
-["Car make", 88.89, 100.00, "blue"],
-["City", 88.89, 88.89, "blue"],
-["City agency", 100.00, 100.00, "blue"],
-["Color", 100.00, 100.00, "blue"],
-["LAT/LON coordinates", 62.50, 90.91, "blue"],
-["Neighborhood", 77.78, 87.50, "blue"],
-["Other", 55.56, 50.00, "blue"],
-["Parks/Playgrounds", 60.00, 75.00, "blue"],
-["Person name", 100.00, 87.50, "blue"],
-["Phone Number", 52.38, 91.67, "blue"],
-["School Levels", 100.00, 90.00, "blue"],
-["School name", 100.00, 78.57, "blue"],
-["Street name", 90.48, 86.36, "blue"],
-["Subjects in school", 75.00, 75.00, "blue"],
-["Type of location", 0.00, 0.00, "blue"],
-["Vehicle Type", 80.00, 88.89, "blue"],
-["Websites", 100.00, 100.00, "blue"],
-["Zip code", 32.00, 88.89, "blue"],
-
-    ]
-    */
     
 var data = google.visualization.arrayToDataTable(tb);
 var view = new google.visualization.DataView(data);
@@ -143,44 +71,122 @@ view.setColumns([0, 1,
         role: "annotation"
     },
     ]);
-var chart = new google.visualization.BarChart(document.getElementById("Barchart_4"));
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_1"));
+chart.draw(view, options);
+}
+/****************************************************************/
+
+function drawBarChart_2() {
+
+
+    var options = {
+    title: "Results from using Regex identification",
+    width: 800,
+    height: 800,
+    bar: { groupWidth: "50%" },
+    legend: { position: "none" },
+};
+
+tb = [
+    ["strategy", "precision","recall", { role: "style" }],
+    ["LAT/LON coordinates", 100.00, 90.91, "blue"],
+    ["Phone Number", 88.89, 91.67, "blue"],
+    ["Websites", 100.00, 92.5, "blue"],
+    ["Zip code", 100.00, 88.89, "blue"],
+    ["Other", 0, 0, "blue"],
+    ]
+    
+var data = google.visualization.arrayToDataTable(tb);
+var view = new google.visualization.DataView(data);
+view.setColumns([0, 1,
+    {
+        calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation"
+    },
+    2,
+    {
+        calc: "stringify",
+        sourceColumn: 2,
+        type: "string",
+        role: "annotation"
+    },
+    ]);
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_2"));
+chart.draw(view, options);
+}
+
+
+
+ 
+
+/****************************************************************/
+function drawBarChart_3() {
+
+var options = {
+    title: "Result from using mixed strategy",
+    width: 800,
+    height: 1600,
+    bar: { groupWidth: "50%" },
+    legend: { position: "none" },
+};
+
+
+
+    tb = [
+    ["strategy", "precision","recall", { role: "style" }],
+    ["Address", 100.00, 92.86, "blue"],
+["Areas of study", 100.00, 76.92, "blue"],
+["Borough", 92.31, 100.00, "blue"],
+["Building Classification", 80.00, 80.00, "blue"],
+["Business name", 100.00, 100.00, "blue"],
+["Car make", 88.89, 100.00, "blue"],
+["City", 88.89, 88.89, "blue"],
+["City agency", 100.00, 100.00, "blue"],
+["Color", 100.00, 100.00, "blue"],
+["LAT/LON coordinates", 100, 100, "blue"],
+["Neighborhood", 77.78, 87.50, "blue"],
+["Other", 55.56, 50.00, "blue"],
+["Parks/Playgrounds", 60.00, 75.00, "blue"],
+["Person name", 100.00, 87.50, "blue"],
+["Phone Number", 100, 100, "blue"],
+["School Levels", 100.00, 90.00, "blue"],
+["School name", 100.00, 78.57, "blue"],
+["Street name", 90.48, 86.36, "blue"],
+["Subjects in school", 75.00, 75.00, "blue"],
+["Type of location", 0.00, 0.00, "blue"],
+["Vehicle Type", 80.00, 88.89, "blue"],
+["Websites", 100.00, 100.00, "blue"],
+["Zip code", 100.00, 88.89, "blue"],
+
+    ]
+    
+var data = google.visualization.arrayToDataTable(tb);
+var view = new google.visualization.DataView(data);
+view.setColumns([0, 1,
+    {
+        calc: "stringify",
+        sourceColumn: 1,
+        type: "string",
+        role: "annotation"
+    },
+    2,
+    {
+        calc: "stringify",
+        sourceColumn: 2,
+        type: "string",
+        role: "annotation"
+    },
+    ]);
+var chart = new google.visualization.BarChart(document.getElementById("Barchart_3"));
 chart.draw(view, options);
 }
 /****************************************************************/
 
 
-
 /****************************************************************/
 
-
-        function drawChart_1() {
-            var title = "mytitle" // title of the chart
-            var width = 800 // display width of the chart
-            var height = 600 // display height of the chart
-
-            // Create the data table.
-            var data = new google.visualization.DataTable();
-            data.addColumn('string', 'Topping'); // first column
-            data.addColumn('number', 'Slices'); // second column
-            // the table looks like this : 
-            // Topping(string), Slices(number)
-            // Mushrooms      ,     3
-            // Onions         ,     1
-            // ...
-            Rows = [['Mushrooms', 3], ['Onions', 1], ['Olives', 1], ['Zucchini', 1], ['Pepperoni', 2]]
-            data.addRows(Rows);
-
-            // Set chart options
-            var options = {
-                'title': title,
-                'width': width,
-                'height': height
-            };
-
-            // Instantiate and draw our chart, passing in some options.
-            var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-            chart.draw(data, options);
-        }
 
     </script>
 </head>
@@ -191,15 +197,7 @@ chart.draw(view, options);
     <div id="Barchart_1"></div>
     <div id="Barchart_2"></div>
     <div id="Barchart_3"></div>
-    <div id="Barchart_4"></div>
-    <div id="Barchart_5"></div>
-    <div id="Barchart_6"></div>
-    <div id="Piechart_1"></div>
-    <div id="Piechart_2"></div>
-    <div id="Piechart_3"></div>
-    <div id="Piechart_4"></div>
-    <div id="Piechart_5"></div>
-    <div id="Piechart_6"></div>
+   
 </body>
 
 </html>
