@@ -341,6 +341,7 @@ if __name__ == "__main__":
                     json.dump(data, outfile, default=str)
             except Exception as e:
                 print("there was an error")
-                print(e.encode('utf-8'))    
+                print(str(e).encode('utf-8'))
+                line = fp.readline()    
     sc.stop()
 
