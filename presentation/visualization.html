@@ -43,17 +43,18 @@
         function drawBarChart_1() {
 
             var options = {
-                title: "Task1 data quality issues",
-                width: 600,
-                height: 400,
-                bar: { groupWidth: "95%" },
+                title: "Missing Values",
+                width: 800,
+                height: 600,
+                bar: { groupWidth: "40%" },
                 legend: { position: "none" },
             };
 
             tb = [
-                ["quality issue", "instances", { role: "style" }],
-                ["too many missing values", 3, "red"], // each row is a value
-                ["column with multiple types", 1, "blue"]
+                ["Missing Values", "instances", { role: "style" }],
+                ["Total # of Columns", 23839, "#84B65B"], // each row is a value
+                ["NULL is the top-5 most frequent values", 7615, "#9067A7"],
+                ["NULL is the most frequent value", 6079, "#76A7FA"]
             ]
             var data = google.visualization.arrayToDataTable(tb);
             var view = new google.visualization.DataView(data);
@@ -65,7 +66,7 @@
                     role: "annotation"
                 },
                 2]);
-            var chart = new google.visualization.BarChart(document.getElementById("Barchart_1"));
+            var chart = new google.visualization.ColumnChart(document.getElementById("Barchart_1"));
             chart.draw(view, options);
         }
 /****************************************************************/

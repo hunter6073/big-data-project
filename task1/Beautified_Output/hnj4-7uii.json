@@ -1,0 +1,80 @@
+{
+    "dataset_name": "Department for the Aging (DFTA) Services by NYConnects Contracted Providers",
+    "columns": [
+        {
+            "column_name": "ProviderType",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "DFTA ID",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "ContractYear",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "SponsorName",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "ProgramName",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "ServiceID",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "ServiceName",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        },
+        {
+            "column_name": "BudgetedUnits",
+            "number_non_empty_cells": 0,
+            "number_empty_cells": 0,
+            "number_distinct_values": 0,
+            "frequent_values": [],
+            "data_types": []
+        }
+    ],
+    "key_column_candidates": [
+        "ProviderType",
+        "DFTA ID",
+        "ContractYear",
+        "SponsorName",
+        "ProgramName",
+        "ServiceID",
+        "ServiceName",
+        "BudgetedUnits"
+    ],
+    "time_elapsed": 80.76470899581909
+}
