@@ -145,10 +145,10 @@ for i in range(0,len(onlyfiles)):
     self_out['column_name'] = table+"_"+column
     self_out['semantic_types'] = {}
     for item in key_list:
-        colname = item
+        #colname = item
         colvalue = key_list[item]
         self_out['semantic_types']['semantic_type'] = predict_list[0]
-        self_out['semantic_types']['label'] = colname
+        #self_out['semantic_types']['label'] = colname
         self_out['semantic_types']['count'] = colvalue
 
     log.append(self_out)
