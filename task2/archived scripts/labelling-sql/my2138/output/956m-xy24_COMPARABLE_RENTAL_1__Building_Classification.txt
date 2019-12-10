@@ -1,2 +1,0 @@
-'Building Classification', 'None,', 0
-'Building Classification', '973,', 1
